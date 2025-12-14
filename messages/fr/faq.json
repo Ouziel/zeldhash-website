@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "FAQ ZeldHash",
+    "description": "Réponses sur la chasse aux transactions Bitcoin avec des motifs de hash rares."
+  },
+  "badge": "FAQ",
+  "heading": "FAQ ZeldHash",
+  "intro": "Tout ce qu'il faut savoir sur la chasse aux transactions Bitcoin avec des motifs de hash rares.",
+  "huntIsOn": "La chasse est ouverte.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "Qu'est-ce que ZeldHash ?",
+      "a": "ZeldHash est un protocole qui récompense les utilisateurs Bitcoin qui découvrent ou créent des transactions avec des motifs de hash rares — en particulier, des hashes qui commencent par plusieurs zéros. Voyez cela comme une chasse au trésor sur la blockchain Bitcoin."
+    },
+    "whyName": {
+      "q": "Pourquoi le nom « ZeldHash » ?",
+      "a1": "« Zeld » vient du mot néerlandais zeldzaam, qui signifie « rare ». C'est un nom approprié pour un protocole dédié à la chasse aux transactions les plus rares sur la blockchain Bitcoin. La partie « hash » fait référence à l'empreinte cryptographique qui rend chaque transaction unique.",
+      "a2": "Donc ZeldHash signifie littéralement « hash rare » — exactement ce que nous chassons."
+    },
+    "whatIsHash": {
+      "q": "Qu'est-ce qu'un hash ?",
+      "a1": "Un hash est comme une empreinte digitale numérique. C'est un identifiant unique généré à partir de n'importe quelle donnée — qu'il s'agisse d'une image, d'un document ou d'une transaction Bitcoin. Chaque hash est une chaîne de 64 caractères hexadécimaux.",
+      "a2": "Vous pouvez voir des exemples de hashes sur <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "Quel est le lien avec Bitcoin ?",
+      "a": "Chaque bloc Bitcoin a un hash, et chaque transaction dans un bloc a son propre hash appelé identifiant de transaction (txid). Si vous avez déjà regardé des hashes de blocs, vous avez peut-être remarqué qu'ils commencent par beaucoup de zéros. C'est le résultat du minage : les mineurs calculent des hashes en boucle jusqu'à en trouver un avec suffisamment de zéros en tête."
+    },
+    "rareTxHash": {
+      "q": "Qu'est-ce qui rend un hash de transaction « rare » ?",
+      "a": "Contrairement aux hashes de blocs, les hashes de transactions sont essentiellement aléatoires — ils peuvent commencer par n'importe quel caractère. Un hash de transaction qui commence par plusieurs zéros est statistiquement rare, comme trouver un trèfle à quatre feuilles. Plus il y a de zéros au début, plus la transaction est rare."
+    },
+    "huntHow": {
+      "q": "Comment chasser des transactions rares ?",
+      "a": "Comme les mineurs. Vous ajoutez des données aléatoires à votre transaction et vous calculez des hashes jusqu'à en trouver un qui commence par des zéros. Cela peut prendre de nombreux essais, mais lorsque vous réussissez, vous avez découvert quelque chose de rare."
+    },
+    "whatIsZeld": {
+      "q": "Qu'est-ce que ZELD ?",
+      "a": "ZELD est le token que vous gagnez lorsque vous trouvez ou créez une transaction Bitcoin dont le hash commence par au moins 6 zéros. Plus votre trouvaille est rare (plus de zéros), plus vous gagnez de ZELD."
+    },
+    "inCirculation": {
+      "q": "Y a-t-il déjà des tokens ZELD en circulation ?",
+      "a": "Oui. Depuis le lancement de Bitcoin en 2009, de nombreuses transactions se sont retrouvées par hasard avec des hashes commençant par 6+ zéros. Ces trésors accidentels sont déjà réclamables. Certains chasseurs en créent aussi intentionnellement."
+    },
+    "ownWithoutKnowing": {
+      "q": "Certaines personnes possèdent-elles du ZELD sans le savoir ?",
+      "a": "Absolument. Des milliers d'utilisateurs Bitcoin possèdent sans le savoir des transactions rares. Leur ZELD n'attend que d'être réclamé."
+    },
+    "centralized": {
+      "q": "ZeldHash est-il centralisé ? Qui le contrôle ?",
+      "a": "Personne. ZeldHash est entièrement décentralisé, tout comme Bitcoin. Les tokens ZELD peuvent être transférés comme n'importe quel actif Bitcoin. Il n'y a aucune autorité centrale."
+    },
+    "rewards": {
+      "q": "Comment fonctionne le système de récompenses ?",
+      "a": "Le protocole récompense la rareté. Une transaction avec 6 zéros en tête gagne du ZELD, et plus il y a de zéros, plus les récompenses sont grandes. À mesure que davantage de chasseurs rejoignent la quête, la concurrence augmente — mais il y a toujours quelque chose à trouver pour ceux qui continuent à chercher."
+    },
+    "startHunting": {
+      "q": "Comment commencer à chasser ?",
+      "a": "Visitez <site>zeldhash.com</site> et commencez votre quête. Chaque transaction est une chance de découvrir quelque chose de rare."
+    }
+  }
+}
+
+

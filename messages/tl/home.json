@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Mangaso ng mga Bihirang Transaksyon ng Bitcoin",
+    "description": "Mangaso ng pinakabihirang transaksyon ng Bitcoin. Maghanap ng transaction ID na nagsisimula sa 000000... at kumita ng ZELD tokens."
+  },
+  "hero": {
+    "titleLine1": "Mangaso ng mga",
+    "titleLine2": "Pinakabihirang Transaksyon ng Bitcoin",
+    "subtitleBeforeZeros": "May mga transaksyon ng Bitcoin na napakabihira — ang kanilang ID ay nagsisimula sa",
+    "subtitleAfterZeros": "Hanapin sila at kumita ng {token} tokens.",
+    "ctaBox": "⚡ Libu-libo ang may ZELD nang hindi nila alam. Ikaw ba?",
+    "addressPlaceholder": "Ilagay ang iyong Bitcoin address...",
+    "checkBalance": "Suriin ang Balanse"
+  },
+  "stats": {
+    "rareHashesFound": "Mga Bihirang Hash na Nahanap",
+    "zeldInCirculation": "ZELD na Umiikot",
+    "recordZeros": "Pinakamataas na Zeros",
+    "utxosTracked": "Mga UTXO na Sinusubaybayan"
+  },
+  "howItWorks": {
+    "label": "Paano ito gumagana",
+    "title": "Ang Pangangaso sa 60 Segundo",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Bawat transaksyon ay may ID",
+        "desc": "Parang serial number. Karamihan ay mukhang random: a7f3b2c1e9d8... Pero may iba na nagsisimula sa zeros.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Ang mga zeros ay bihira",
+        "desc": "Makakita ng 6 na zeros? 1 sa 16 milyong pagkakataon. 12 zeros? 1 sa 281 trilyong pagkakataon. Mga kayamanan ito.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Mangaso o tumuklas",
+        "desc": "Magmina ng bagong bihirang transaksyon gamit ang aming mga tool, o suriin kung ang iyong lumang transaksyon ay bihira na.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Kumita ng ZELD",
+        "desc": "Ang mga bihirang transaksyon ay kumikita ng ZELD tokens. Ilipat sila tulad ng Bitcoin. Walang tagapamagitan.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Bakit ito mahalaga",
+    "title": "Pagmimina para sa Lahat",
+    "intro": "Ang tradisyunal na Bitcoin mining ay nangangailangan ng milyun-milyong halaga ng hardware at sapat na kuryente para patakbuhin ang isang maliit na lungsod. Binabago ng ZELD ang laro.",
+    "oldHeader": "Pagmimina ng Bitcoin Blocks",
+    "newHeader": "Pagmimina ng ZELD Transactions",
+    "rows": [
+      ["$500K - $10M na hardware", "Ang iyong laptop"],
+      ["Napakalaking singil sa kuryente", "Halos wala"],
+      ["1 panalo bawat block", "Lahat ay pwedeng manalo"],
+      ["Kontrolado ng mga mining pool", "100% desentralisado"],
+      ["Kailangang makipagkumpitensya sa mga higante", "Makipagkumpitensya sa sarili mo"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Bulwagan ng Katanyagan",
+    "title": "Pinakabihirang mga Tuklas",
+    "leadingZeros": "{count} na paunang zero",
+    "recordSuffix": "— LAHAT NG PANAHON NA REKORD 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Simulan ang Iyong Pangangaso",
+    "subtitle": "Suriin ang iyong kasalukuyang balanse o i-download ang miner upang magsimulang mangaso.",
+    "checkBalance": "Suriin ang Balanse",
+    "downloadMiner": "I-download ang Miner"
+  }
+}

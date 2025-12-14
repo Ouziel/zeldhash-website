@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Caça às transações de Bitcoin mais raras. Encontra txids que começam com 000000... e ganha tokens ZELD. 100% descentralizado, sem premine, sem VC.",
+  "tagline": "A caça começou",
+  "nav": {
+    "hunt": "Caça",
+    "wallet": "Carteira",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "Whitepaper"
+  },
+  "footer": {
+    "protocol": "Protocolo",
+    "balances": "Saldos",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% descentralizado. Sem premine. Sem VC. Apenas matemática."
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Em Breve",
+    "description": "Esta funcionalidade está atualmente em desenvolvimento. Fique atento às atualizações!",
+    "status": "Em Desenvolvimento"
+  }
+}

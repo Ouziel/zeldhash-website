@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "ล่าธุรกรรม Bitcoin ที่หายากที่สุด ค้นหา Transaction ID ที่ขึ้นต้นด้วย 000000... และรับโทเค็น ZELD กระจายศูนย์ 100% ไม่มีการขุดล่วงหน้า ไม่มี VC",
+  "tagline": "การล่าเริ่มต้นแล้ว",
+  "nav": {
+    "hunt": "ล่า",
+    "wallet": "กระเป๋าเงิน",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "สมุดปกขาว"
+  },
+  "footer": {
+    "protocol": "โปรโตคอล",
+    "balances": "ยอดคงเหลือ",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "กระจายศูนย์ 100% ไม่มีการขุดล่วงหน้า ไม่มี VC มีแต่คณิตศาสตร์"
+  },
+  "language": {
+    "label": "ภาษา",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "เร็วๆ นี้",
+    "description": "ฟีเจอร์นี้กำลังอยู่ระหว่างการพัฒนา โปรดติดตามการอัปเดต!",
+    "status": "กำลังพัฒนา"
+  }
+}

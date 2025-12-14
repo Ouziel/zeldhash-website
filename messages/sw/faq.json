@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Maswali Yanayoulizwa Mara kwa Mara kuhusu ZeldHash",
+    "description": "Majibu kuhusu uwindaji wa miamala ya Bitcoin yenye mifumo adimu ya hash."
+  },
+  "badge": "Maswali",
+  "heading": "Maswali kuhusu ZeldHash",
+  "intro": "Kila kitu unachohitaji kujua kuhusu uwindaji wa miamala ya Bitcoin yenye mifumo adimu ya hash.",
+  "huntIsOn": "Uwindaji Umeanza.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "ZeldHash ni nini?",
+      "a": "ZeldHash ni itifaki inayotuza watumiaji wa Bitcoin wanaogundua au kuunda miamala yenye mifumo adimu ya hash — hasa, hash zinazoanza na sifuri nyingi. Fikiria kama uwindaji wa hazina kwenye blockchain ya Bitcoin."
+    },
+    "whyName": {
+      "q": "Kwa nini jina \"ZeldHash\"?",
+      "a1": "\"Zeld\" inatoka kwa neno la Kiholanzi zeldzaam, linalomaanisha \"adimu\". Ni jina linalofaa kwa itifaki iliyojitolea kuwinda miamala adimu zaidi kwenye blockchain ya Bitcoin. Sehemu ya \"hash\" inarejelea alama ya kidijitali inayofanya kila muamala kuwa wa kipekee.",
+      "a2": "Kwa hivyo ZeldHash maana yake halisi ni \"Hash Adimu\" — hasa tunachokiwinda."
+    },
+    "whatIsHash": {
+      "q": "Hash ni nini?",
+      "a1": "Hash ni kama alama ya vidole vya kidijitali. Ni kitambulisho cha kipekee kinachozalishwa kutoka kwa data yoyote — iwe ni picha, hati, au muamala wa Bitcoin. Kila hash ni mfuatano wa herufi 64 za hexadecimal.",
+      "a2": "Unaweza kuona mifano ya hash kwenye <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "Hii inahusiana vipi na Bitcoin?",
+      "a": "Kila bloku ya Bitcoin ina hash, na kila muamala ndani ya bloku una hash yake inayoitwa kitambulisho cha muamala (txid). Ikiwa umewahi kuangalia hash za bloku, unaweza kuwa umeona zinaanza na sifuri nyingi. Hiyo ni matokeo ya uchimbaji: wachimbaji huhesabu hash mara kwa mara hadi wapate moja yenye sifuri za kutosha mwanzoni."
+    },
+    "rareTxHash": {
+      "q": "Ni nini kinachofanya hash ya muamala kuwa \"adimu\"?",
+      "a": "Tofauti na hash za bloku, hash za miamala kimsingi ni za nasibu — zinaweza kuanza na herufi yoyote. Hash ya muamala inayoanza na sifuri nyingi ni adimu kitakwimu, kama kupata karafu yenye majani manne. Kadri sifuri za mbele zinavyoongezeka, ndivyo muamala unavyokuwa adimu zaidi."
+    },
+    "huntHow": {
+      "q": "Ninawinda vipi miamala adimu?",
+      "a": "Kama wachimbaji. Unaongeza data ya nasibu kwenye muamala wako na kuhesabu hash hadi upate moja inayoanza na sifuri. Inaweza kuchukua majaribio mengi, lakini ukifanikiwa, umegundua kitu adimu."
+    },
+    "whatIsZeld": {
+      "q": "ZELD ni nini?",
+      "a": "ZELD ni tokeni unayoipata unapopata au kuunda muamala wa Bitcoin wenye hash inayoanza na angalau sifuri 6. Kadri ugunduzi wako unavyokuwa adimu (sifuri zaidi), ndivyo ZELD unavyopata zaidi."
+    },
+    "inCirculation": {
+      "q": "Je, tayari kuna tokeni za ZELD zinazozunguka?",
+      "a": "Ndiyo. Tangu Bitcoin ilipoanzishwa mwaka 2009, miamala mingi imejikuta kwa bahati na hash zinazoanza na sifuri 6+. Hazina hizi za bahati tayari zinaweza kudaiwa. Baadhi ya wawindaji pia wanaziunda kimakusudi."
+    },
+    "ownWithoutKnowing": {
+      "q": "Je, watu wengine wanamiliki ZELD bila kujua?",
+      "a": "Kabisa. Maelfu ya watumiaji wa Bitcoin wanamiliki miamala adimu bila kujua. ZELD yao inasubiri kudaiwa."
+    },
+    "centralized": {
+      "q": "Je, ZeldHash ina usimamizi wa kati? Nani anaidhibiti?",
+      "a": "Hakuna. ZeldHash haina usimamizi wa kati kabisa, kama Bitcoin. Tokeni za ZELD zinaweza kuhamishwa kama mali yoyote ya Bitcoin. Hakuna mamlaka kuu."
+    },
+    "rewards": {
+      "q": "Mfumo wa tuzo unafanyaje kazi?",
+      "a": "Itifaki inatuza uadimu. Muamala wenye sifuri 6 za mbele unapata ZELD, na sifuri zaidi inamaanisha tuzo kubwa zaidi. Kadri wawindaji zaidi wanavyojiunga, ushindani unaongezeka — lakini daima kuna kitu cha kupata kwa wale wanaoendelea kutafuta."
+    },
+    "startHunting": {
+      "q": "Ninaanzaje kuwinda?",
+      "a": "Tembelea <site>zeldhash.com</site> na uanze safari yako. Kila muamala ni nafasi ya kugundua kitu adimu."
+    }
+  }
+}

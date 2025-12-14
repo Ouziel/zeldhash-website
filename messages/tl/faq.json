@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "ZeldHash FAQ",
+    "description": "Mga sagot tungkol sa pangangaso ng mga transaksyon ng Bitcoin na may bihirang hash pattern."
+  },
+  "badge": "FAQ",
+  "heading": "ZeldHash FAQ",
+  "intro": "Lahat ng kailangan mong malaman tungkol sa pangangaso ng mga transaksyon ng Bitcoin na may bihirang hash pattern.",
+  "huntIsOn": "Nagsimula na ang Pangangaso.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "Ano ang ZeldHash?",
+      "a": "Ang ZeldHash ay isang protokolo na nagbibigay ng gantimpala sa mga gumagamit ng Bitcoin na nakatuklas o gumawa ng mga transaksyon na may bihirang hash pattern — partikular, mga hash na nagsisimula sa maraming zeros. Isipin mo ito bilang isang pangangaso ng kayamanan sa Bitcoin blockchain."
+    },
+    "whyName": {
+      "q": "Bakit \"ZeldHash\" ang pangalan?",
+      "a1": "Ang \"Zeld\" ay nagmula sa salitang Dutch na zeldzaam, na nangangahulugang \"bihira\". Ito ay angkop na pangalan para sa isang protokolo na nakatuon sa pangangaso ng pinakabihirang transaksyon sa Bitcoin blockchain. Ang bahaging \"hash\" ay tumutukoy sa cryptographic fingerprint na nagbibigay ng kakaibang pagkakakilanlan sa bawat transaksyon.",
+      "a2": "Kaya ang literal na kahulugan ng ZeldHash ay \"Bihirang Hash\" — eksaktong ito ang hinahanap natin."
+    },
+    "whatIsHash": {
+      "q": "Ano ang hash?",
+      "a1": "Ang hash ay parang digital na fingerprint. Ito ay isang natatanging identifier na nabuo mula sa anumang piraso ng data — maging ito ay isang larawan, isang dokumento, o isang transaksyon ng Bitcoin. Bawat hash ay isang string ng 64 hexadecimal na karakter.",
+      "a2": "Maaari kang makakita ng mga halimbawa ng mga hash sa <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "Paano ito nauugnay sa Bitcoin?",
+      "a": "Bawat Bitcoin block ay may hash, at bawat transaksyon sa loob ng isang block ay may sariling hash na tinatawag na transaction ID (txid). Kung titingnan mo ang mga block hash, mapapansin mong nagsisimula ang mga ito sa maraming zeros. Ito ang resulta ng mining: paulit-ulit na kinukuwenta ng mga miner ang mga hash hanggang sa makakita sila ng isa na may sapat na mga nangunguna na zeros."
+    },
+    "rareTxHash": {
+      "q": "Ano ang nagpapabihira sa isang transaction hash?",
+      "a": "Hindi tulad ng mga block hash, ang mga transaction hash ay talagang random — maaari silang magsimula sa anumang karakter. Ang isang transaction hash na nagsisimula sa maraming zeros ay estadistikong bihira, tulad ng paghahanap ng four-leaf clover. Kung mas marami ang nangunguna na zeros, mas bihira ang transaksyon."
+    },
+    "huntHow": {
+      "q": "Paano ako mangaso ng mga bihirang transaksyon?",
+      "a": "Tulad ng mga miner. Magdadagdag ka ng random na data sa iyong transaksyon at magkukuwenta ng mga hash hanggang sa makakita ka ng isa na nagsisimula sa mga zeros. Maaaring maraming pagsubok ito, pero kapag nagtagumpay ka, nakatuklas ka ng isang bagay na bihira."
+    },
+    "whatIsZeld": {
+      "q": "Ano ang ZELD?",
+      "a": "Ang ZELD ay ang token na kikitain mo kapag nakahanap o nakagawa ka ng transaksyon ng Bitcoin na may hash na nagsisimula sa hindi bababa sa 6 na zeros. Kung mas bihira ang iyong nahanap (mas maraming zeros), mas maraming ZELD ang kikitain mo."
+    },
+    "inCirculation": {
+      "q": "Mayroon na bang mga ZELD token na umiikot?",
+      "a": "Oo. Mula noong inilunsad ang Bitcoin noong 2009, maraming transaksyon ang random na nagtapos na may mga hash na nagsisimula sa 6+ zeros. Ang mga aksidenteng kayamanang ito ay maaari nang i-claim. May mga mangangaso rin na sinasadyang gumagawa nito."
+    },
+    "ownWithoutKnowing": {
+      "q": "May mga taong may-ari ng ZELD nang hindi nila alam?",
+      "a": "Sigurado. Libu-libong gumagamit ng Bitcoin ang hindi namamalayang may-ari ng mga bihirang transaksyon. Ang kanilang ZELD ay naghihintay na i-claim."
+    },
+    "centralized": {
+      "q": "Ang ZeldHash ba ay sentralisado? Sino ang kumokontrol?",
+      "a": "Walang sinuman. Ang ZeldHash ay ganap na desentralisado, tulad ng Bitcoin. Ang mga ZELD token ay maaaring ilipat tulad ng anumang Bitcoin asset. Walang sentral na awtoridad."
+    },
+    "rewards": {
+      "q": "Paano gumagana ang sistema ng gantimpala?",
+      "a": "Ang protokolo ay nagbibigay ng gantimpala sa bihira. Ang isang transaksyon na may 6 na nangunguna na zeros ay kumikita ng ZELD, at mas maraming zeros ay nangangahulugang mas malaking gantimpala. Habang dumarami ang mga mangangaso, tumitindi ang kumpetisyon — ngunit palaging may mahahanap para sa mga patuloy na naghahanap."
+    },
+    "startHunting": {
+      "q": "Paano ako magsisimulang mangaso?",
+      "a": "Bisitahin ang <site>zeldhash.com</site> at simulan ang iyong misyon. Bawat transaksyon ay isang pagkakataong makatuklas ng isang bihira."
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "FAQ de ZeldHash",
+    "description": "Respuestas sobre la caza de transacciones de Bitcoin con patrones de hash raros."
+  },
+  "badge": "FAQ",
+  "heading": "FAQ de ZeldHash",
+  "intro": "Todo lo que necesitas saber sobre la caza de transacciones de Bitcoin con patrones de hash raros.",
+  "huntIsOn": "La caza ha comenzado.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "¿Qué es ZeldHash?",
+      "a": "ZeldHash es un protocolo que recompensa a usuarios de Bitcoin que descubren o crean transacciones con patrones de hash raros — en concreto, hashes que empiezan con varios ceros. Piénsalo como una búsqueda del tesoro en la blockchain de Bitcoin."
+    },
+    "whyName": {
+      "q": "¿Por qué el nombre \"ZeldHash\"?",
+      "a1": "\"Zeld\" viene de la palabra neerlandesa zeldzaam, que significa \"raro\". Es un nombre adecuado para un protocolo dedicado a cazar las transacciones más raras en la blockchain de Bitcoin. La parte \"hash\" se refiere a la huella criptográfica que hace única a cada transacción.",
+      "a2": "Así que ZeldHash significa literalmente \"hash raro\" — exactamente lo que estamos cazando."
+    },
+    "whatIsHash": {
+      "q": "¿Qué es un hash?",
+      "a1": "Un hash es como una huella digital. Es un identificador único generado a partir de cualquier dato — ya sea una imagen, un documento o una transacción de Bitcoin. Cada hash es una cadena de 64 caracteres hexadecimales.",
+      "a2": "Puedes ver ejemplos de hashes en <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "¿Cómo se relaciona esto con Bitcoin?",
+      "a": "Cada bloque de Bitcoin tiene un hash, y cada transacción dentro de un bloque tiene su propio hash llamado ID de transacción (txid). Si has visto hashes de bloques, quizá hayas notado que empiezan con muchos ceros. Eso es el resultado de la minería: los mineros calculan hashes repetidamente hasta encontrar uno con suficientes ceros iniciales."
+    },
+    "rareTxHash": {
+      "q": "¿Qué hace que un hash de transacción sea \"raro\"?",
+      "a": "A diferencia de los hashes de bloque, los hashes de transacción son esencialmente aleatorios — pueden empezar con cualquier carácter. Un hash de transacción que empieza con varios ceros es estadísticamente raro, como encontrar un trébol de cuatro hojas. Cuantos más ceros iniciales, más rara es la transacción."
+    },
+    "huntHow": {
+      "q": "¿Cómo cazo transacciones raras?",
+      "a": "Igual que los mineros. Añades datos aleatorios a tu transacción y calculas hashes hasta encontrar uno que empiece con ceros. Puede llevar muchos intentos, pero cuando lo consigues, has descubierto algo raro."
+    },
+    "whatIsZeld": {
+      "q": "¿Qué es ZELD?",
+      "a": "ZELD es el token que ganas cuando encuentras o creas una transacción de Bitcoin cuyo hash empieza con al menos 6 ceros. Cuanto más rara sea tu hallazgo (más ceros), más ZELD ganas."
+    },
+    "inCirculation": {
+      "q": "¿Ya hay tokens ZELD en circulación?",
+      "a": "Sí. Desde el lanzamiento de Bitcoin en 2009, muchas transacciones han acabado aleatoriamente con hashes que empiezan con 6+ ceros. Estos tesoros accidentales ya son reclamables. Algunos cazadores también los crean intencionalmente."
+    },
+    "ownWithoutKnowing": {
+      "q": "¿Hay gente que posee ZELD sin saberlo?",
+      "a": "Totalmente. Miles de usuarios de Bitcoin poseen transacciones raras sin darse cuenta. Su ZELD está esperando a ser reclamado."
+    },
+    "centralized": {
+      "q": "¿ZeldHash está centralizado? ¿Quién lo controla?",
+      "a": "Nadie. ZeldHash es totalmente descentralizado, igual que Bitcoin. Los tokens ZELD se pueden transferir como cualquier activo de Bitcoin. No hay una autoridad central."
+    },
+    "rewards": {
+      "q": "¿Cómo funciona el sistema de recompensas?",
+      "a": "El protocolo recompensa la rareza. Una transacción con 6 ceros iniciales gana ZELD, y más ceros significa mayores recompensas. A medida que más cazadores se unen, la competencia aumenta — pero siempre hay algo que encontrar para quienes siguen buscando."
+    },
+    "startHunting": {
+      "q": "¿Cómo empiezo a cazar?",
+      "a": "Visita <site>zeldhash.com</site> y comienza tu misión. Cada transacción es una oportunidad de descubrir algo raro."
+    }
+  }
+}
+
+

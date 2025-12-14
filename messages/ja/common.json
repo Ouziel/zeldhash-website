@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "最も希少なビットコイン取引を探せ。000000...で始まる取引IDを見つけてZELDトークンを獲得しよう。100%分散型、プレマインなし、VCなし。",
+  "tagline": "ハント開始",
+  "nav": {
+    "hunt": "ハント",
+    "wallet": "ウォレット",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "ホワイトペーパー"
+  },
+  "footer": {
+    "protocol": "プロトコル",
+    "balances": "残高",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100%分散型。プレマインなし。VCなし。ただ数学だけ。"
+  },
+  "language": {
+    "label": "言語",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "近日公開",
+    "description": "この機能は現在開発中です。アップデートをお待ちください！",
+    "status": "開発中"
+  }
+}

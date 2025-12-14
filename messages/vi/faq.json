@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Câu hỏi thường gặp về ZeldHash",
+    "description": "Giải đáp về cuộc săn lùng giao dịch Bitcoin với mẫu hash hiếm."
+  },
+  "badge": "FAQ",
+  "heading": "Câu hỏi thường gặp về ZeldHash",
+  "intro": "Mọi thứ bạn cần biết về cuộc săn lùng giao dịch Bitcoin với mẫu hash hiếm.",
+  "huntIsOn": "Cuộc săn bắt đầu.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "ZeldHash là gì?",
+      "a": "ZeldHash là một giao thức thưởng cho người dùng Bitcoin phát hiện hoặc tạo ra các giao dịch với mẫu hash hiếm — cụ thể là hash bắt đầu bằng nhiều số không. Hãy coi đó như một cuộc săn kho báu trên blockchain Bitcoin."
+    },
+    "whyName": {
+      "q": "Tại sao có tên \"ZeldHash\"?",
+      "a1": "\"Zeld\" xuất phát từ từ tiếng Hà Lan zeldzaam, có nghĩa là \"hiếm\". Đây là cái tên phù hợp cho một giao thức chuyên săn lùng các giao dịch hiếm nhất trên blockchain Bitcoin. Phần \"hash\" đề cập đến dấu vân tay mật mã làm cho mỗi giao dịch trở nên độc nhất.",
+      "a2": "Vì vậy ZeldHash nghĩa đen là \"Hash Hiếm\" — chính xác là những gì chúng ta đang săn lùng."
+    },
+    "whatIsHash": {
+      "q": "Hash là gì?",
+      "a1": "Hash giống như dấu vân tay kỹ thuật số. Nó là một mã định danh duy nhất được tạo ra từ bất kỳ dữ liệu nào — dù là hình ảnh, tài liệu, hay giao dịch Bitcoin. Mỗi hash là một chuỗi gồm 64 ký tự thập lục phân.",
+      "a2": "Bạn có thể xem ví dụ về hash trên <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "Điều này liên quan gì đến Bitcoin?",
+      "a": "Mỗi khối Bitcoin có một hash, và mỗi giao dịch bên trong một khối có hash riêng gọi là ID giao dịch (txid). Nếu bạn đã xem hash của khối, bạn có thể nhận thấy chúng bắt đầu bằng nhiều số không. Đó là kết quả của việc đào: thợ đào liên tục tính toán hash cho đến khi tìm được một hash với đủ số không ở đầu."
+    },
+    "rareTxHash": {
+      "q": "Điều gì làm cho hash giao dịch trở nên \"hiếm\"?",
+      "a": "Không giống như hash của khối, hash giao dịch về cơ bản là ngẫu nhiên — chúng có thể bắt đầu bằng bất kỳ ký tự nào. Một hash giao dịch bắt đầu bằng nhiều số không là hiếm về mặt thống kê, giống như tìm được cỏ bốn lá. Càng nhiều số không ở đầu, giao dịch càng hiếm."
+    },
+    "huntHow": {
+      "q": "Làm thế nào để săn các giao dịch hiếm?",
+      "a": "Giống như thợ đào. Bạn thêm dữ liệu ngẫu nhiên vào giao dịch và tính toán hash cho đến khi tìm được một hash bắt đầu bằng số không. Có thể mất nhiều lần thử, nhưng khi thành công, bạn đã phát hiện ra điều gì đó hiếm có."
+    },
+    "whatIsZeld": {
+      "q": "ZELD là gì?",
+      "a": "ZELD là token bạn nhận được khi tìm hoặc tạo ra một giao dịch Bitcoin có hash bắt đầu bằng ít nhất 6 số không. Phát hiện càng hiếm (càng nhiều số không), bạn càng nhận được nhiều ZELD."
+    },
+    "inCirculation": {
+      "q": "Đã có token ZELD đang lưu hành chưa?",
+      "a": "Có. Kể từ khi Bitcoin ra mắt năm 2009, nhiều giao dịch đã ngẫu nhiên có hash bắt đầu bằng 6+ số không. Những kho báu tình cờ này đã có thể được nhận. Một số thợ săn cũng cố ý tạo ra chúng."
+    },
+    "ownWithoutKnowing": {
+      "q": "Có người sở hữu ZELD mà không biết không?",
+      "a": "Hoàn toàn. Hàng nghìn người dùng Bitcoin vô tình sở hữu các giao dịch hiếm. ZELD của họ đang chờ được nhận."
+    },
+    "centralized": {
+      "q": "ZeldHash có tập trung không? Ai kiểm soát nó?",
+      "a": "Không ai. ZeldHash hoàn toàn phi tập trung, giống như Bitcoin. Token ZELD có thể được chuyển như bất kỳ tài sản Bitcoin nào. Không có cơ quan trung ương."
+    },
+    "rewards": {
+      "q": "Hệ thống thưởng hoạt động như thế nào?",
+      "a": "Giao thức thưởng cho sự hiếm có. Một giao dịch với 6 số không đầu sẽ nhận được ZELD, và càng nhiều số không nghĩa là phần thưởng càng lớn. Khi có nhiều thợ săn tham gia, cạnh tranh tăng lên — nhưng luôn có thứ gì đó để tìm cho những ai tiếp tục tìm kiếm."
+    },
+    "startHunting": {
+      "q": "Làm thế nào để bắt đầu săn?",
+      "a": "Truy cập <site>zeldhash.com</site> và bắt đầu cuộc hành trình. Mỗi giao dịch là một cơ hội để khám phá điều gì đó hiếm có."
+    }
+  }
+}

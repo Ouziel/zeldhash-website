@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Soalan Lazim ZeldHash",
+    "description": "Jawapan tentang pemburuan transaksi Bitcoin dengan corak hash yang jarang."
+  },
+  "badge": "Soalan Lazim",
+  "heading": "Soalan Lazim ZeldHash",
+  "intro": "Semua yang anda perlu tahu tentang pemburuan transaksi Bitcoin dengan corak hash yang jarang.",
+  "huntIsOn": "Pemburuan Bermula.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "Apa itu ZeldHash?",
+      "a": "ZeldHash ialah protokol yang memberi ganjaran kepada pengguna Bitcoin yang menemui atau mencipta transaksi dengan corak hash yang jarang — khususnya, hash yang bermula dengan banyak sifar. Anggap ia sebagai pemburuan harta karun di blockchain Bitcoin."
+    },
+    "whyName": {
+      "q": "Mengapa nama \"ZeldHash\"?",
+      "a1": "\"Zeld\" berasal daripada perkataan Belanda zeldzaam, yang bermaksud \"jarang\". Ia adalah nama yang sesuai untuk protokol yang didedikasikan untuk memburu transaksi paling jarang di blockchain Bitcoin. Bahagian \"hash\" merujuk kepada cap jari kriptografi yang menjadikan setiap transaksi unik.",
+      "a2": "Jadi ZeldHash secara literal bermaksud \"Hash Jarang\" — tepat apa yang kita buru."
+    },
+    "whatIsHash": {
+      "q": "Apa itu hash?",
+      "a1": "Hash ialah seperti cap jari digital. Ia ialah pengecam unik yang dijana daripada sebarang data — sama ada imej, dokumen atau transaksi Bitcoin. Setiap hash ialah rentetan 64 aksara heksadesimal.",
+      "a2": "Anda boleh melihat contoh hash di <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "Bagaimana ini berkaitan dengan Bitcoin?",
+      "a": "Setiap blok Bitcoin mempunyai hash, dan setiap transaksi dalam blok mempunyai hash sendiri yang dipanggil ID transaksi (txid). Jika anda pernah melihat hash blok, anda mungkin perasan ia bermula dengan banyak sifar. Itu adalah hasil perlombongan: pelombong berulang kali mengira hash sehingga mereka menjumpai satu dengan cukup sifar di hadapan."
+    },
+    "rareTxHash": {
+      "q": "Apa yang menjadikan hash transaksi \"jarang\"?",
+      "a": "Tidak seperti hash blok, hash transaksi pada dasarnya adalah rawak — ia boleh bermula dengan mana-mana aksara. Hash transaksi yang bermula dengan banyak sifar adalah jarang secara statistik, seperti mencari daun semanggi empat helai. Lebih banyak sifar di hadapan, lebih jarang transaksi itu."
+    },
+    "huntHow": {
+      "q": "Bagaimana saya memburu transaksi jarang?",
+      "a": "Sama seperti pelombong. Anda menambah data rawak ke transaksi anda dan mengira hash sehingga anda menjumpai satu yang bermula dengan sifar. Ia mungkin mengambil banyak percubaan, tetapi apabila anda berjaya, anda telah menemui sesuatu yang jarang."
+    },
+    "whatIsZeld": {
+      "q": "Apa itu ZELD?",
+      "a": "ZELD adalah token yang anda peroleh apabila anda menjumpai atau mencipta transaksi Bitcoin dengan hash bermula dengan sekurang-kurangnya 6 sifar. Lebih jarang penemuan anda (lebih banyak sifar), lebih banyak ZELD yang anda peroleh."
+    },
+    "inCirculation": {
+      "q": "Adakah sudah ada token ZELD dalam edaran?",
+      "a": "Ya. Sejak pelancaran Bitcoin pada 2009, banyak transaksi secara rawak berakhir dengan hash bermula dengan 6+ sifar. Harta karun tidak sengaja ini sudah boleh dituntut. Sesetengah pemburu juga menciptanya dengan sengaja."
+    },
+    "ownWithoutKnowing": {
+      "q": "Adakah sesetengah orang memiliki ZELD tanpa mengetahuinya?",
+      "a": "Sudah tentu. Ribuan pengguna Bitcoin tanpa sedar memiliki transaksi jarang. ZELD mereka menunggu untuk dituntut."
+    },
+    "centralized": {
+      "q": "Adakah ZeldHash berpusat? Siapa yang mengawalnya?",
+      "a": "Tiada siapa. ZeldHash sepenuhnya terdesentralisasi, sama seperti Bitcoin. Token ZELD boleh dipindahkan seperti mana-mana aset Bitcoin. Tiada pihak berkuasa pusat."
+    },
+    "rewards": {
+      "q": "Bagaimana sistem ganjaran berfungsi?",
+      "a": "Protokol memberi ganjaran untuk kejarangan. Transaksi dengan 6 sifar hadapan memperoleh ZELD, dan lebih banyak sifar bermakna ganjaran lebih besar. Apabila lebih ramai pemburu menyertai, persaingan meningkat — tetapi sentiasa ada sesuatu untuk ditemui bagi mereka yang terus mencari."
+    },
+    "startHunting": {
+      "q": "Bagaimana saya mula memburu?",
+      "a": "Lawati <site>zeldhash.com</site> dan mulakan pencarian anda. Setiap transaksi adalah peluang untuk menemui sesuatu yang jarang."
+    }
+  }
+}

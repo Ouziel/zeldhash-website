@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Jaag op Zeldzame Bitcoin-transacties",
+    "description": "Jaag op de zeldzaamste Bitcoin-transacties. Vind transactie-ID's die beginnen met 000000... en verdien ZELD-tokens."
+  },
+  "hero": {
+    "titleLine1": "Jaag op de",
+    "titleLine2": "zeldzaamste Bitcoin-transacties",
+    "subtitleBeforeZeros": "Sommige Bitcoin-transacties zijn extreem zeldzaam — hun ID begint met",
+    "subtitleAfterZeros": "Vind ze en verdien {token}-tokens.",
+    "ctaBox": "⚡ Duizenden bezitten ZELD zonder het te weten. Jij ook?",
+    "addressPlaceholder": "Voer je Bitcoin-adres in...",
+    "checkBalance": "Controleer saldo"
+  },
+  "stats": {
+    "rareHashesFound": "Zeldzame hashes gevonden",
+    "zeldInCirculation": "ZELD in omloop",
+    "recordZeros": "Recordaantal nullen",
+    "utxosTracked": "UTXO's gevolgd"
+  },
+  "howItWorks": {
+    "label": "Hoe het werkt",
+    "title": "De jacht in 60 seconden",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Elke transactie heeft een ID",
+        "desc": "Zoals een serienummer. De meeste zien er willekeurig uit: a7f3b2c1e9d8... Maar sommige beginnen met nullen.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Nullen zijn zeldzaam",
+        "desc": "6 nullen vinden? 1 op 16 miljoen kans. 12 nullen? 1 op 281 biljoen. Dit zijn schatten.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Jagen of ontdekken",
+        "desc": "Mine nieuwe zeldzame transacties met onze tools, of controleer of je oude transacties al zeldzaam zijn.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Verdien ZELD",
+        "desc": "Zeldzame transacties leveren ZELD-tokens op. Draag ze over zoals Bitcoin. Geen tussenpersonen.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Waarom het ertoe doet",
+    "title": "Mining voor iedereen",
+    "intro": "Traditionele Bitcoin-mining vereist miljoenen aan hardware en genoeg elektriciteit om een kleine stad van stroom te voorzien. ZELD verandert het spel.",
+    "oldHeader": "Bitcoin-blokmining",
+    "newHeader": "ZELD-transactiemining",
+    "rows": [
+      ["$500K - $10M hardware", "Je laptop"],
+      ["Enorme elektriciteitsrekeningen", "Bijna niets"],
+      ["1 winnaar per blok", "Iedereen kan winnen"],
+      ["Gecontroleerd door mining pools", "100% gedecentraliseerd"],
+      ["Concurreren met giganten", "Concurreer met jezelf"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Eregalerij",
+    "title": "Zeldzaamste Ontdekkingen",
+    "leadingZeros": "{count} leidende nullen",
+    "recordSuffix": "— RECORD ALLER TIJDEN 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Begin Je Jacht",
+    "subtitle": "Controleer je bestaande saldo of download de miner om te beginnen met jagen.",
+    "checkBalance": "Controleer saldo",
+    "downloadMiner": "Download de miner"
+  }
+}

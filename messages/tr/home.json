@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Nadir Bitcoin İşlemlerini Avlayın",
+    "description": "En nadir Bitcoin işlemlerini avlayın. 000000... ile başlayan işlem kimliklerini bulun ve ZELD token kazanın."
+  },
+  "hero": {
+    "titleLine1": "Bitcoin'in En Nadir",
+    "titleLine2": "İşlemlerini Avlayın",
+    "subtitleBeforeZeros": "Bazı Bitcoin işlemleri son derece nadirdir — kimlikleri şununla başlar:",
+    "subtitleAfterZeros": "Onları bulun ve {token} token kazanın.",
+    "ctaBox": "⚡ Binlerce kişi farkında olmadan ZELD sahibi. Ya siz?",
+    "addressPlaceholder": "Bitcoin adresinizi girin...",
+    "checkBalance": "Bakiyeyi Kontrol Et"
+  },
+  "stats": {
+    "rareHashesFound": "Bulunan Nadir Hash Sayısı",
+    "zeldInCirculation": "Dolaşımdaki ZELD",
+    "recordZeros": "Rekor Sıfırlar",
+    "utxosTracked": "Takip Edilen UTXO'lar"
+  },
+  "howItWorks": {
+    "label": "Nasıl çalışır",
+    "title": "60 Saniyede Av",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Her işlemin bir kimliği var",
+        "desc": "Seri numarası gibi. Çoğu rastgele görünür: a7f3b2c1e9d8... Ama bazıları sıfırlarla başlar.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Sıfırlar nadirdir",
+        "desc": "6 sıfır bulmak? 16 milyonda 1 şans. 12 sıfır? 281 trilyonda 1. Bunlar hazinelerdir.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Avla veya keşfet",
+        "desc": "Araçlarımızla yeni nadir işlemler üretin veya eski işlemlerinizin zaten nadir olup olmadığını kontrol edin.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "ZELD kazan",
+        "desc": "Nadir işlemler ZELD token kazandırır. Bitcoin gibi transfer edin. Aracı yok.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Neden önemli",
+    "title": "Herkes İçin Madencilik",
+    "intro": "Geleneksel Bitcoin madenciliği milyonlarca dolarlık donanım ve küçük bir şehri besleyecek kadar elektrik gerektirir. ZELD oyunu değiştiriyor.",
+    "oldHeader": "Bitcoin Blok Madenciliği",
+    "newHeader": "ZELD İşlem Madenciliği",
+    "rows": [
+      ["$500K - $10M donanım", "Dizüstü bilgisayarınız"],
+      ["Devasa elektrik faturaları", "Neredeyse hiçbir şey"],
+      ["Blok başına 1 kazanan", "Herkes kazanabilir"],
+      ["Madencilik havuzları kontrolünde", "%100 merkeziyetsiz"],
+      ["Devlerle rekabet gerekli", "Kendinizle rekabet edin"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Şöhret Salonu",
+    "title": "En Nadir Keşifler",
+    "leadingZeros": "{count} öncü sıfır",
+    "recordSuffix": "— TÜM ZAMANLARIN REKORU 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Avınıza Başlayın",
+    "subtitle": "Mevcut bakiyenizi kontrol edin veya avlanmaya başlamak için madenciyi indirin.",
+    "checkBalance": "Bakiyeyi Kontrol Et",
+    "downloadMiner": "Madenciyi İndir"
+  }
+}

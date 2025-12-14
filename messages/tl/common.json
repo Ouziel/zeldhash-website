@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Mangaso ng pinakabihirang transaksyon ng Bitcoin. Maghanap ng transaction ID na nagsisimula sa 000000... at kumita ng ZELD tokens. 100% desentralisado, walang premine, walang VC.",
+  "tagline": "Nagsimula na ang Pangangaso",
+  "nav": {
+    "hunt": "Mangaso",
+    "wallet": "Pitaka",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "Whitepaper"
+  },
+  "footer": {
+    "protocol": "Protokolo",
+    "balances": "Mga Balanse",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% desentralisado. Walang premine. Walang VC. Matematika lamang."
+  },
+  "language": {
+    "label": "Wika",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Malapit Na",
+    "description": "Kasalukuyang ginagawa ang feature na ito. Abangan ang mga update!",
+    "status": "Ginagawa"
+  }
+}

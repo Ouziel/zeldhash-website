@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Jage die seltensten Bitcoin-Transaktionen. Finde Transaktions-IDs, die mit 000000... beginnen, und verdiene ZELD-Token. 100% dezentralisiert, kein Premine, kein VC.",
+  "tagline": "Die Jagd ist eröffnet",
+  "nav": {
+    "hunt": "Jagd",
+    "wallet": "Wallet",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "Whitepaper"
+  },
+  "footer": {
+    "protocol": "Protokoll",
+    "balances": "Guthaben",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% dezentralisiert. Kein Premine. Kein VC. Nur Mathematik."
+  },
+  "language": {
+    "label": "Sprache",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Demnächst verfügbar",
+    "description": "Diese Funktion befindet sich derzeit in Entwicklung. Bleiben Sie dran!",
+    "status": "In Entwicklung"
+  }
+}

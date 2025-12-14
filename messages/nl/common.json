@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Jaag op de zeldzaamste Bitcoin-transacties. Vind transactie-ID's die beginnen met 000000... en verdien ZELD-tokens. 100% gedecentraliseerd, geen premine, geen VC.",
+  "tagline": "De Jacht is Begonnen",
+  "nav": {
+    "hunt": "Jacht",
+    "wallet": "Portemonnee",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "Whitepaper"
+  },
+  "footer": {
+    "protocol": "Protocol",
+    "balances": "Saldi",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% gedecentraliseerd. Geen premine. Geen VC. Alleen wiskunde."
+  },
+  "language": {
+    "label": "Taal",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Binnenkort Beschikbaar",
+    "description": "Deze functie is momenteel in ontwikkeling. Blijf op de hoogte!",
+    "status": "In Ontwikkeling"
+  }
+}

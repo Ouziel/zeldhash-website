@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Săn lùng giao dịch Bitcoin hiếm",
+    "description": "Săn lùng các giao dịch Bitcoin hiếm nhất. Tìm ID giao dịch bắt đầu bằng 000000... và nhận token ZELD."
+  },
+  "hero": {
+    "titleLine1": "Săn lùng các giao dịch",
+    "titleLine2": "Bitcoin hiếm nhất",
+    "subtitleBeforeZeros": "Một số giao dịch Bitcoin cực kỳ hiếm — ID của chúng bắt đầu bằng",
+    "subtitleAfterZeros": "Tìm thấy chúng và nhận token {token}.",
+    "ctaBox": "⚡ Hàng nghìn người sở hữu ZELD mà không biết. Còn bạn?",
+    "addressPlaceholder": "Nhập địa chỉ Bitcoin của bạn...",
+    "checkBalance": "Kiểm tra số dư"
+  },
+  "stats": {
+    "rareHashesFound": "Hash hiếm đã tìm thấy",
+    "zeldInCirculation": "ZELD đang lưu hành",
+    "recordZeros": "Kỷ lục số 0",
+    "utxosTracked": "UTXO được theo dõi"
+  },
+  "howItWorks": {
+    "label": "Cách hoạt động",
+    "title": "Cuộc săn trong 60 giây",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Mỗi giao dịch có một ID",
+        "desc": "Giống như số sê-ri. Hầu hết trông ngẫu nhiên: a7f3b2c1e9d8... Nhưng một số bắt đầu bằng số không.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Số không rất hiếm",
+        "desc": "Tìm 6 số không? Xác suất 1 trên 16 triệu. 12 số không? 1 trên 281 nghìn tỷ. Đây là những kho báu.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Săn hoặc khám phá",
+        "desc": "Tạo các giao dịch hiếm mới bằng công cụ của chúng tôi, hoặc kiểm tra xem các giao dịch cũ của bạn đã hiếm chưa.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Nhận ZELD",
+        "desc": "Các giao dịch hiếm mang lại token ZELD. Chuyển chúng như Bitcoin. Không trung gian.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Tại sao quan trọng",
+    "title": "Đào cho mọi người",
+    "intro": "Đào Bitcoin truyền thống cần hàng triệu đô la phần cứng và đủ điện để cung cấp cho một thành phố nhỏ. ZELD thay đổi cuộc chơi.",
+    "oldHeader": "Đào Khối Bitcoin",
+    "newHeader": "Đào Giao Dịch ZELD",
+    "rows": [
+      ["Phần cứng $500K - $10M", "Laptop của bạn"],
+      ["Hóa đơn điện khổng lồ", "Gần như không có"],
+      ["1 người thắng mỗi khối", "Ai cũng có thể thắng"],
+      ["Bị kiểm soát bởi các pool đào", "100% phi tập trung"],
+      ["Cần cạnh tranh với đại gia", "Cạnh tranh với chính mình"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Bảng vàng",
+    "title": "Phát hiện hiếm nhất",
+    "leadingZeros": "{count} số không đầu",
+    "recordSuffix": "— KỶ LỤC MỌI THỜI ĐẠI 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Bắt đầu cuộc săn",
+    "subtitle": "Kiểm tra số dư hiện tại của bạn hoặc tải xuống trình đào để bắt đầu săn.",
+    "checkBalance": "Kiểm tra số dư",
+    "downloadMiner": "Tải trình đào"
+  }
+}

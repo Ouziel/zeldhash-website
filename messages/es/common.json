@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Busca las transacciones de Bitcoin más raras. Encuentra IDs de transacciones que comiencen con 000000... y gana tokens ZELD. 100% descentralizado, sin preminado, sin VC.",
+  "tagline": "La caza ha comenzado",
+  "nav": {
+    "hunt": "Caza",
+    "wallet": "Cartera",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "Libro blanco"
+  },
+  "footer": {
+    "protocol": "Protocolo",
+    "balances": "Saldos",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% descentralizado. Sin preminado. Sin VC. Solo matemáticas."
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Próximamente",
+    "description": "Esta función está actualmente en desarrollo. ¡Mantente atento a las actualizaciones!",
+    "status": "En desarrollo"
+  }
+}

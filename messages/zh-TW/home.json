@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - 尋找稀有比特幣交易",
+    "description": "尋找最稀有的比特幣交易。發現以 000000... 開頭的交易 ID，賺取 ZELD 代幣。"
+  },
+  "hero": {
+    "titleLine1": "尋找比特幣",
+    "titleLine2": "最稀有的交易",
+    "subtitleBeforeZeros": "有些比特幣交易極其稀有——它們的 ID 以",
+    "subtitleAfterZeros": "開頭。找到它們，賺取 {token} 代幣。",
+    "ctaBox": "⚡ 數千人在不知情的情況下擁有 ZELD。你也有嗎？",
+    "addressPlaceholder": "輸入你的比特幣地址...",
+    "checkBalance": "查詢餘額"
+  },
+  "stats": {
+    "rareHashesFound": "已發現的稀有雜湊",
+    "zeldInCirculation": "流通中的 ZELD",
+    "recordZeros": "前導零紀錄",
+    "utxosTracked": "追蹤的 UTXO"
+  },
+  "howItWorks": {
+    "label": "運作方式",
+    "title": "60 秒了解狩獵",
+    "steps": [
+      {
+        "num": "01",
+        "title": "每筆交易都有一個 ID",
+        "desc": "就像序號一樣。大多數看起來是隨機的：a7f3b2c1e9d8... 但有些以零開頭。",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "零很稀有",
+        "desc": "找到 6 個零？機率是一千六百萬分之一。12 個零？機率是二百八十一兆分之一。這些是寶藏。",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "狩獵或發現",
+        "desc": "使用我們的工具挖掘新的稀有交易，或檢查你的舊交易是否已經是稀有的。",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "賺取 ZELD",
+        "desc": "稀有交易可賺取 ZELD 代幣。像比特幣一樣轉移它們。無需中間商。",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "為何重要",
+    "title": "人人可挖礦",
+    "intro": "傳統比特幣挖礦需要數百萬美元的硬體和足以為一座小城市供電的電力。ZELD 改變了遊戲規則。",
+    "oldHeader": "比特幣區塊挖礦",
+    "newHeader": "ZELD 交易挖礦",
+    "rows": [
+      ["價值 $50萬–$1000萬 的硬體", "你的筆記型電腦"],
+      ["龐大的電費帳單", "幾乎為零"],
+      ["每個區塊只有 1 個贏家", "人人都能贏"],
+      ["由礦池控制", "100% 去中心化"],
+      ["需要與巨頭競爭", "與自己競爭"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "名人堂",
+    "title": "最稀有的發現",
+    "leadingZeros": "{count} 個前導零",
+    "recordSuffix": "— 歷史最高紀錄 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "開始你的狩獵",
+    "subtitle": "查詢你現有的餘額，或下載挖礦程式開始狩獵。",
+    "checkBalance": "查詢餘額",
+    "downloadMiner": "下載挖礦程式"
+  }
+}

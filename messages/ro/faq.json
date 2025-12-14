@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "ZeldHash Întrebări frecvente",
+    "description": "Răspunsuri despre vânătoarea de tranzacții Bitcoin cu modele de hash rare."
+  },
+  "badge": "Întrebări frecvente",
+  "heading": "ZeldHash Întrebări frecvente",
+  "intro": "Tot ce trebuie să știi despre vânătoarea de tranzacții Bitcoin cu modele de hash rare.",
+  "huntIsOn": "Vânătoarea a început.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "Ce este ZeldHash?",
+      "a": "ZeldHash este un protocol care recompensează utilizatorii Bitcoin care descoperă sau creează tranzacții cu modele de hash rare — mai precis, hash-uri care încep cu mai multe zerouri. Gândește-te la asta ca la o vânătoare de comori pe blockchain-ul Bitcoin."
+    },
+    "whyName": {
+      "q": "De ce numele \"ZeldHash\"?",
+      "a1": "\"Zeld\" provine din cuvântul olandez zeldzaam, care înseamnă \"rar\". Este un nume potrivit pentru un protocol dedicat vânătorii celor mai rare tranzacții de pe blockchain-ul Bitcoin. Partea \"hash\" se referă la amprenta criptografică care face fiecare tranzacție unică.",
+      "a2": "Așadar, ZeldHash înseamnă literal \"Hash Rar\" — exact ceea ce vânăm."
+    },
+    "whatIsHash": {
+      "q": "Ce este un hash?",
+      "a1": "Un hash este ca o amprentă digitală. Este un identificator unic generat din orice tip de date — fie că este o imagine, un document sau o tranzacție Bitcoin. Fiecare hash este un șir de 64 de caractere hexazecimale.",
+      "a2": "Poți vedea exemple de hash-uri pe <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "Cum se leagă asta de Bitcoin?",
+      "a": "Fiecare bloc Bitcoin are un hash, și fiecare tranzacție din interiorul unui bloc are propriul hash numit ID de tranzacție (txid). Dacă te-ai uitat la hash-urile blocurilor, poate ai observat că încep cu multe zerouri. Acesta este rezultatul minatului: minerii calculează repetat hash-uri până găsesc unul cu suficiente zerouri inițiale."
+    },
+    "rareTxHash": {
+      "q": "Ce face un hash de tranzacție \"rar\"?",
+      "a": "Spre deosebire de hash-urile blocurilor, hash-urile tranzacțiilor sunt în esență aleatorii — pot începe cu orice caracter. Un hash de tranzacție care începe cu mai multe zerouri este statistic rar, ca și cum ai găsi un trifoi cu patru foi. Cu cât mai multe zerouri inițiale, cu atât mai rară este tranzacția."
+    },
+    "huntHow": {
+      "q": "Cum vânez tranzacții rare?",
+      "a": "La fel ca minerii. Adaugi date aleatorii la tranzacția ta și calculezi hash-uri până găsești unul care începe cu zerouri. Poate dura multe încercări, dar când reușești, ai descoperit ceva rar."
+    },
+    "whatIsZeld": {
+      "q": "Ce este ZELD?",
+      "a": "ZELD este tokenul pe care îl câștigi când găsești sau creezi o tranzacție Bitcoin cu un hash care începe cu cel puțin 6 zerouri. Cu cât descoperirea ta este mai rară (mai multe zerouri), cu atât mai mult ZELD câștigi."
+    },
+    "inCirculation": {
+      "q": "Există deja tokeni ZELD în circulație?",
+      "a": "Da. De la lansarea Bitcoin în 2009, multe tranzacții au ajuns aleatoriu să aibă hash-uri care încep cu 6+ zerouri. Aceste comori accidentale pot fi deja revendicate. Unii vânători le creează și intenționat."
+    },
+    "ownWithoutKnowing": {
+      "q": "Dețin unii oameni ZELD fără să știe?",
+      "a": "Absolut. Mii de utilizatori Bitcoin posedă fără să știe tranzacții rare. ZELD-ul lor așteaptă să fie revendicat."
+    },
+    "centralized": {
+      "q": "Este ZeldHash centralizat? Cine îl controlează?",
+      "a": "Nimeni. ZeldHash este complet descentralizat, la fel ca Bitcoin. Tokenii ZELD pot fi transferați ca orice activ Bitcoin. Nu există o autoritate centrală."
+    },
+    "rewards": {
+      "q": "Cum funcționează sistemul de recompense?",
+      "a": "Protocolul recompensează raritatea. O tranzacție cu 6 zerouri inițiale câștigă ZELD, iar mai multe zerouri înseamnă recompense mai mari. Pe măsură ce se alătură mai mulți vânători, competiția crește — dar întotdeauna există ceva de găsit pentru cei care continuă să caute."
+    },
+    "startHunting": {
+      "q": "Cum încep să vânez?",
+      "a": "Vizitează <site>zeldhash.com</site> și începe-ți aventura. Fiecare tranzacție este o șansă de a descoperi ceva rar."
+    }
+  }
+}

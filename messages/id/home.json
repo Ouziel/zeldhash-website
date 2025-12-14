@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Berburu Transaksi Bitcoin Langka",
+    "description": "Berburu transaksi Bitcoin paling langka. Temukan ID transaksi yang dimulai dengan 000000... dan dapatkan token ZELD."
+  },
+  "hero": {
+    "titleLine1": "Berburu Transaksi",
+    "titleLine2": "Bitcoin Paling Langka",
+    "subtitleBeforeZeros": "Beberapa transaksi Bitcoin sangat langka — ID-nya dimulai dengan",
+    "subtitleAfterZeros": "Temukan dan dapatkan token {token}.",
+    "ctaBox": "⚡ Ribuan orang memiliki ZELD tanpa menyadarinya. Termasuk Anda?",
+    "addressPlaceholder": "Masukkan alamat Bitcoin Anda...",
+    "checkBalance": "Cek Saldo"
+  },
+  "stats": {
+    "rareHashesFound": "Hash Langka Ditemukan",
+    "zeldInCirculation": "ZELD Beredar",
+    "recordZeros": "Rekor Nol",
+    "utxosTracked": "UTXO Terlacak"
+  },
+  "howItWorks": {
+    "label": "Cara kerjanya",
+    "title": "Perburuan dalam 60 Detik",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Setiap transaksi punya ID",
+        "desc": "Seperti nomor seri. Kebanyakan terlihat acak: a7f3b2c1e9d8... Tapi ada yang dimulai dengan nol.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Nol itu langka",
+        "desc": "Menemukan 6 nol? Peluang 1 banding 16 juta. 12 nol? 1 banding 281 triliun. Ini adalah harta karun.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Berburu atau temukan",
+        "desc": "Tambang transaksi langka baru dengan alat kami, atau cek apakah transaksi lama Anda sudah langka.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Dapatkan ZELD",
+        "desc": "Transaksi langka menghasilkan token ZELD. Transfer seperti Bitcoin. Tanpa perantara.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Mengapa ini penting",
+    "title": "Menambang untuk Semua Orang",
+    "intro": "Penambangan Bitcoin tradisional membutuhkan jutaan dolar untuk perangkat keras dan listrik yang cukup untuk menerangi kota kecil. ZELD mengubah permainan.",
+    "oldHeader": "Penambangan Blok Bitcoin",
+    "newHeader": "Penambangan Transaksi ZELD",
+    "rows": [
+      ["Perangkat keras $500K - $10M", "Laptop Anda"],
+      ["Tagihan listrik besar", "Hampir tidak ada"],
+      ["1 pemenang per blok", "Semua orang bisa menang"],
+      ["Dikendalikan oleh pool penambang", "100% terdesentralisasi"],
+      ["Harus bersaing dengan raksasa", "Bersaing dengan diri sendiri"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Galeri Kehormatan",
+    "title": "Penemuan Paling Langka",
+    "leadingZeros": "{count} nol di depan",
+    "recordSuffix": "— REKOR SEPANJANG MASA 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Mulai Perburuan Anda",
+    "subtitle": "Cek saldo Anda atau unduh miner untuk mulai berburu.",
+    "checkBalance": "Cek Saldo",
+    "downloadMiner": "Unduh Miner"
+  }
+}

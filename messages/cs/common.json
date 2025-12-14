@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Lovte nejvzácnější bitcoinové transakce. Najděte ID transakcí začínající na 000000... a získejte tokeny ZELD. 100% decentralizováno, bez předtěžby, bez VC.",
+  "tagline": "Lov začíná",
+  "nav": {
+    "hunt": "Lov",
+    "wallet": "Peněženka",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "Bílá kniha"
+  },
+  "footer": {
+    "protocol": "Protokol",
+    "balances": "Zůstatky",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% decentralizováno. Bez předtěžby. Bez VC. Jen matematika."
+  },
+  "language": {
+    "label": "Jazyk",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Již brzy",
+    "description": "Tato funkce je momentálně ve vývoji. Sledujte novinky!",
+    "status": "Ve vývoji"
+  }
+}

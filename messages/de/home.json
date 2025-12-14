@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Jage seltene Bitcoin-Transaktionen",
+    "description": "Jage die seltensten Bitcoin-Transaktionen. Finde Transaktions-IDs, die mit 000000... beginnen, und verdiene ZELD-Token."
+  },
+  "hero": {
+    "titleLine1": "Jage nach den",
+    "titleLine2": "seltensten Bitcoin-Transaktionen",
+    "subtitleBeforeZeros": "Manche Bitcoin-Transaktionen sind extrem selten — ihre ID beginnt mit",
+    "subtitleAfterZeros": "Finde sie und verdiene {token}-Token.",
+    "ctaBox": "⚡ Tausende besitzen ZELD, ohne es zu wissen. Gehörst du dazu?",
+    "addressPlaceholder": "Gib deine Bitcoin-Adresse ein...",
+    "checkBalance": "Guthaben prüfen"
+  },
+  "stats": {
+    "rareHashesFound": "Seltene Hashes gefunden",
+    "zeldInCirculation": "ZELD im Umlauf",
+    "recordZeros": "Rekord-Nullen",
+    "utxosTracked": "Verfolgte UTXOs"
+  },
+  "howItWorks": {
+    "label": "So funktioniert es",
+    "title": "Die Jagd in 60 Sekunden",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Jede Transaktion hat eine ID",
+        "desc": "Wie eine Seriennummer. Die meisten sehen zufällig aus: a7f3b2c1e9d8... Aber manche beginnen mit Nullen.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Nullen sind selten",
+        "desc": "6 Nullen finden? Chance von 1 zu 16 Millionen. 12 Nullen? 1 zu 281 Billionen. Das sind Schätze.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Jagen oder entdecken",
+        "desc": "Erzeuge neue seltene Transaktionen mit unseren Tools oder prüfe, ob deine alten Transaktionen bereits selten sind.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "ZELD verdienen",
+        "desc": "Seltene Transaktionen bringen ZELD-Token. Übertrage sie wie Bitcoin. Keine Zwischenhändler.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Warum es wichtig ist",
+    "title": "Mining für alle",
+    "intro": "Traditionelles Bitcoin-Mining erfordert Millionen an Hardware und genug Strom, um eine Kleinstadt zu versorgen. ZELD verändert das Spiel.",
+    "oldHeader": "Bitcoin-Block-Mining",
+    "newHeader": "ZELD-Transaktions-Mining",
+    "rows": [
+      ["$500K - $10M Hardware", "Dein Laptop"],
+      ["Massive Stromrechnungen", "Fast nichts"],
+      ["1 Gewinner pro Block", "Jeder kann gewinnen"],
+      ["Kontrolliert von Mining-Pools", "100% dezentralisiert"],
+      ["Gegen Giganten antreten", "Gegen dich selbst antreten"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Ruhmeshalle",
+    "title": "Seltenste Entdeckungen",
+    "leadingZeros": "{count} führende Nullen",
+    "recordSuffix": "— Allzeitrekord 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Starte deine Jagd",
+    "subtitle": "Prüfe dein bestehendes Guthaben oder lade den Miner herunter, um mit der Jagd zu beginnen.",
+    "checkBalance": "Guthaben prüfen",
+    "downloadMiner": "Miner herunterladen"
+  }
+}

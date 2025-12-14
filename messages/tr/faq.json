@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "ZeldHash SSS",
+    "description": "Nadir hash desenlerine sahip Bitcoin işlemlerini avlama hakkında yanıtlar."
+  },
+  "badge": "SSS",
+  "heading": "ZeldHash SSS",
+  "intro": "Nadir hash desenlerine sahip Bitcoin işlemlerini avlama hakkında bilmeniz gereken her şey.",
+  "huntIsOn": "Av Başladı.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "ZeldHash nedir?",
+      "a": "ZeldHash, nadir hash desenlerine sahip Bitcoin işlemlerini keşfeden veya oluşturan kullanıcıları ödüllendiren bir protokoldür — özellikle birden fazla sıfırla başlayan hash'ler. Bunu Bitcoin blok zincirinde bir hazine avı olarak düşünün."
+    },
+    "whyName": {
+      "q": "Neden \"ZeldHash\" adı?",
+      "a1": "\"Zeld\", \"nadir\" anlamına gelen Hollandaca zeldzaam kelimesinden gelir. Bitcoin blok zincirindeki en nadir işlemleri avlamaya adanmış bir protokol için uygun bir isimdir. \"Hash\" kısmı ise her işlemi benzersiz kılan kriptografik parmak izini ifade eder.",
+      "a2": "Yani ZeldHash tam anlamıyla \"Nadir Hash\" demektir — tam da aradığımız şey."
+    },
+    "whatIsHash": {
+      "q": "Hash nedir?",
+      "a1": "Hash, dijital bir parmak izi gibidir. Herhangi bir veri parçasından — ister bir görüntü, ister bir belge veya bir Bitcoin işlemi olsun — üretilen benzersiz bir tanımlayıcıdır. Her hash 64 onaltılık karakterden oluşan bir dizedir.",
+      "a2": "<mempool>mempool.space</mempool> üzerinde hash örneklerini görebilirsiniz."
+    },
+    "bitcoinRelation": {
+      "q": "Bu Bitcoin ile nasıl ilişkili?",
+      "a": "Her Bitcoin bloğunun bir hash'i vardır ve bir bloktaki her işlemin işlem kimliği (txid) adı verilen kendi hash'i vardır. Blok hash'lerine baktıysanız, birçok sıfırla başladıklarını fark etmiş olabilirsiniz. Bu, madenciliğin sonucudur: madenciler yeterince öncü sıfıra sahip bir hash bulana kadar tekrar tekrar hash hesaplarlar."
+    },
+    "rareTxHash": {
+      "q": "Bir işlem hash'ini \"nadir\" yapan nedir?",
+      "a": "Blok hash'lerinin aksine, işlem hash'leri esasen rastgeledir — herhangi bir karakterle başlayabilirler. Birden fazla sıfırla başlayan bir işlem hash'i istatistiksel olarak nadirdir, dört yapraklı yonca bulmak gibi. Ne kadar çok öncü sıfır varsa, işlem o kadar nadirdir."
+    },
+    "huntHow": {
+      "q": "Nadir işlemleri nasıl avlarım?",
+      "a": "Tıpkı madenciler gibi. İşleminize rastgele veri eklersiniz ve sıfırlarla başlayan bir hash bulana kadar hash hesaplarsınız. Birçok deneme gerektirebilir, ancak başardığınızda nadir bir şey keşfetmiş olursunuz."
+    },
+    "whatIsZeld": {
+      "q": "ZELD nedir?",
+      "a": "ZELD, en az 6 sıfırla başlayan bir hash'e sahip bir Bitcoin işlemi bulduğunuzda veya oluşturduğunuzda kazandığınız tokendir. Bulduğunuz ne kadar nadir ise (daha fazla sıfır), o kadar çok ZELD kazanırsınız."
+    },
+    "inCirculation": {
+      "q": "Dolaşımda zaten ZELD tokenleri var mı?",
+      "a": "Evet. Bitcoin'in 2009'daki lansmanından bu yana, birçok işlem rastgele olarak 6+ sıfırla başlayan hash'lerle sonuçlandı. Bu tesadüfi hazineler zaten talep edilebilir. Bazı avcılar da bunları kasıtlı olarak oluşturuyor."
+    },
+    "ownWithoutKnowing": {
+      "q": "Bazı insanlar farkında olmadan ZELD'e sahip mi?",
+      "a": "Kesinlikle. Binlerce Bitcoin kullanıcısı bilmeden nadir işlemlere sahip. ZELD'leri talep edilmeyi bekliyor."
+    },
+    "centralized": {
+      "q": "ZeldHash merkezileştirilmiş mi? Kim kontrol ediyor?",
+      "a": "Hiç kimse. ZeldHash, tıpkı Bitcoin gibi tamamen merkeziyetsizdir. ZELD tokenleri herhangi bir Bitcoin varlığı gibi transfer edilebilir. Merkezi bir otorite yoktur."
+    },
+    "rewards": {
+      "q": "Ödül sistemi nasıl çalışıyor?",
+      "a": "Protokol nadirliği ödüllendirir. 6 öncü sıfıra sahip bir işlem ZELD kazandırır ve daha fazla sıfır daha büyük ödüller anlamına gelir. Daha fazla avcı katıldıkça rekabet artar — ancak aramaya devam edenler için her zaman bulunacak bir şey vardır."
+    },
+    "startHunting": {
+      "q": "Avlanmaya nasıl başlarım?",
+      "a": "<site>zeldhash.com</site> adresini ziyaret edin ve arayışınıza başlayın. Her işlem nadir bir şey keşfetme şansıdır."
+    }
+  }
+}

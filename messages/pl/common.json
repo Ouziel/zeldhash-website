@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Poluj na najrzadsze transakcje Bitcoin. Znajdź identyfikatory transakcji zaczynające się od 000000... i zdobądź tokeny ZELD. 100% zdecentralizowane, bez premine, bez VC.",
+  "tagline": "Polowanie rozpoczęte",
+  "nav": {
+    "hunt": "Polowanie",
+    "wallet": "Portfel",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "Biała Księga"
+  },
+  "footer": {
+    "protocol": "Protokół",
+    "balances": "Salda",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% zdecentralizowane. Bez premine. Bez VC. Tylko matematyka."
+  },
+  "language": {
+    "label": "Język",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Wkrótce",
+    "description": "Ta funkcja jest obecnie w trakcie rozwoju. Śledź aktualizacje!",
+    "status": "W Rozwoju"
+  }
+}

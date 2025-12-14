@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-sans), "DM Sans", system-ui, sans-serif;
+  --font-mono: var(--font-mono), "JetBrains Mono", ui-monospace, monospace;
+  --font-serif: var(--font-serif), "Crimson Pro", Georgia, serif;
+  --font-display: var(--font-display), "Cormorant", Georgia, serif;
+
+  /* Gold color palette */
+  --color-gold-50: #fefce8;
+  --color-gold-100: #fef9c3;
+  --color-gold-200: #f4e4a6;
+  --color-gold-300: #efd06e;
+  --color-gold-400: #d4af37;
+  --color-gold-500: #b8960c;
+  --color-gold-600: #9a7b0a;
+  --color-gold-700: #7c5f08;
+  --color-gold-800: #5e4706;
+  --color-gold-900: #3f2f04;
+  --color-gold-950: #201802;
+
+  /* Dark theme colors */
+  --color-dark-50: #f7f7f8;
+  --color-dark-100: #e8e6e3;
+  --color-dark-200: #a0a0a0;
+  --color-dark-300: #888888;
+  --color-dark-400: #777777;
+  --color-dark-500: #666666;
+  --color-dark-600: #555555;
+  --color-dark-700: #444444;
+  --color-dark-800: #1e1e28;
+  --color-dark-900: #12121a;
+  --color-dark-950: #0a0a0f;
+}
+
+:root {
+  --foreground: #e8e6e3;
+  --background: #0a0a0f;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Custom utilities */
+.text-gradient-gold {
+  background: linear-gradient(135deg, #d4af37 0%, #f4e4a6 50%, #d4af37 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.bg-gradient-gold {
+  background: linear-gradient(135deg, #d4af37 0%, #b8960c 100%);
+}
+
+.bg-gradient-gold-hover {
+  background: linear-gradient(135deg, #f4e4a6 0%, #d4af37 100%);
+}
+
+/* Focus styles */
+input:focus {
+  outline: none;
+  border-color: rgba(212, 175, 55, 0.5);
+}
+
+input::placeholder {
+  color: #555;
+}
+
+/* Animation for floating zeros */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}

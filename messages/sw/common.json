@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Winda miamala adimu ya Bitcoin. Pata vitambulisho vya miamala vinavyoanza na 000000... na upate tokeni za ZELD. Imegatuliwa 100%, hakuna premine, hakuna VC.",
+  "tagline": "Uwindaji Umeanza",
+  "nav": {
+    "hunt": "Winda",
+    "wallet": "Pochi",
+    "faq": "Maswali",
+    "github": "GitHub",
+    "whitepaper": "Karatasi Nyeupe"
+  },
+  "footer": {
+    "protocol": "Itifaki",
+    "balances": "Salio",
+    "faq": "Maswali",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "Imegatuliwa 100%. Hakuna premine. Hakuna VC. Hisabati tu."
+  },
+  "language": {
+    "label": "Lugha",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Inakuja Hivi Karibuni",
+    "description": "Kipengele hiki kiko katika maendeleo. Endelea kufuatilia!",
+    "status": "Inaendelezwa"
+  }
+}

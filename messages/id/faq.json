@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "FAQ ZeldHash",
+    "description": "Jawaban tentang perburuan transaksi Bitcoin dengan pola hash langka."
+  },
+  "badge": "FAQ",
+  "heading": "FAQ ZeldHash",
+  "intro": "Semua yang perlu Anda ketahui tentang perburuan transaksi Bitcoin dengan pola hash langka.",
+  "huntIsOn": "Perburuan Dimulai.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "Apa itu ZeldHash?",
+      "a": "ZeldHash adalah protokol yang memberi hadiah kepada pengguna Bitcoin yang menemukan atau membuat transaksi dengan pola hash langka — khususnya, hash yang dimulai dengan banyak nol. Anggap saja seperti berburu harta karun di blockchain Bitcoin."
+    },
+    "whyName": {
+      "q": "Mengapa dinamakan \"ZeldHash\"?",
+      "a1": "\"Zeld\" berasal dari kata Belanda zeldzaam, yang berarti \"langka\". Ini nama yang cocok untuk protokol yang didedikasikan untuk berburu transaksi paling langka di blockchain Bitcoin. Bagian \"hash\" mengacu pada sidik jari kriptografi yang membuat setiap transaksi unik.",
+      "a2": "Jadi ZeldHash secara harfiah berarti \"Hash Langka\" — persis apa yang kita buru."
+    },
+    "whatIsHash": {
+      "q": "Apa itu hash?",
+      "a1": "Hash seperti sidik jari digital. Ini adalah pengenal unik yang dihasilkan dari potongan data apa pun — baik itu gambar, dokumen, atau transaksi Bitcoin. Setiap hash adalah string dari 64 karakter heksadesimal.",
+      "a2": "Anda bisa melihat contoh hash di <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "Bagaimana hubungannya dengan Bitcoin?",
+      "a": "Setiap blok Bitcoin memiliki hash, dan setiap transaksi di dalam blok memiliki hash-nya sendiri yang disebut ID transaksi (txid). Jika Anda pernah melihat hash blok, Anda mungkin memperhatikan bahwa hash tersebut dimulai dengan banyak nol. Itu adalah hasil penambangan: penambang berulang kali menghitung hash sampai mereka menemukan satu dengan cukup nol di depan."
+    },
+    "rareTxHash": {
+      "q": "Apa yang membuat hash transaksi \"langka\"?",
+      "a": "Tidak seperti hash blok, hash transaksi pada dasarnya acak — bisa dimulai dengan karakter apa saja. Hash transaksi yang dimulai dengan banyak nol secara statistik langka, seperti menemukan daun semanggi empat. Semakin banyak nol di depan, semakin langka transaksinya."
+    },
+    "huntHow": {
+      "q": "Bagaimana cara berburu transaksi langka?",
+      "a": "Sama seperti penambang. Anda menambahkan data acak ke transaksi Anda dan menghitung hash sampai Anda menemukan satu yang dimulai dengan nol. Mungkin butuh banyak percobaan, tapi ketika Anda berhasil, Anda telah menemukan sesuatu yang langka."
+    },
+    "whatIsZeld": {
+      "q": "Apa itu ZELD?",
+      "a": "ZELD adalah token yang Anda dapatkan ketika Anda menemukan atau membuat transaksi Bitcoin dengan hash yang dimulai dengan setidaknya 6 nol. Semakin langka temuan Anda (lebih banyak nol), semakin banyak ZELD yang Anda dapatkan."
+    },
+    "inCirculation": {
+      "q": "Apakah sudah ada token ZELD yang beredar?",
+      "a": "Ya. Sejak peluncuran Bitcoin pada 2009, banyak transaksi secara acak berakhir dengan hash yang dimulai dengan 6+ nol. Harta karun yang tidak disengaja ini sudah bisa diklaim. Beberapa pemburu juga membuatnya dengan sengaja."
+    },
+    "ownWithoutKnowing": {
+      "q": "Apakah ada orang yang memiliki ZELD tanpa menyadarinya?",
+      "a": "Tentu saja. Ribuan pengguna Bitcoin tanpa sadar memiliki transaksi langka. ZELD mereka menunggu untuk diklaim."
+    },
+    "centralized": {
+      "q": "Apakah ZeldHash terpusat? Siapa yang mengendalikannya?",
+      "a": "Tidak ada. ZeldHash sepenuhnya terdesentralisasi, sama seperti Bitcoin. Token ZELD dapat ditransfer seperti aset Bitcoin apa pun. Tidak ada otoritas pusat."
+    },
+    "rewards": {
+      "q": "Bagaimana sistem hadiah bekerja?",
+      "a": "Protokol memberi hadiah berdasarkan kelangkaan. Transaksi dengan 6 nol di depan mendapat ZELD, dan lebih banyak nol berarti hadiah lebih besar. Semakin banyak pemburu bergabung, persaingan meningkat — tapi selalu ada sesuatu untuk ditemukan bagi mereka yang terus mencari."
+    },
+    "startHunting": {
+      "q": "Bagaimana cara mulai berburu?",
+      "a": "Kunjungi <site>zeldhash.com</site> dan mulai pencarian Anda. Setiap transaksi adalah kesempatan untuk menemukan sesuatu yang langka."
+    }
+  }
+}

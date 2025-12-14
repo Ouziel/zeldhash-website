@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "En nadir Bitcoin işlemlerini avlayın. 000000... ile başlayan işlem kimliklerini bulun ve ZELD token kazanın. %100 merkeziyetsiz, ön madencilik yok, risk sermayesi yok.",
+  "tagline": "Av Başladı",
+  "nav": {
+    "hunt": "Avla",
+    "wallet": "Cüzdan",
+    "faq": "SSS",
+    "github": "GitHub",
+    "whitepaper": "Teknik Belge"
+  },
+  "footer": {
+    "protocol": "Protokol",
+    "balances": "Bakiyeler",
+    "faq": "SSS",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "%100 merkeziyetsiz. Ön madencilik yok. Risk sermayesi yok. Sadece matematik."
+  },
+  "language": {
+    "label": "Dil",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Yakında",
+    "description": "Bu özellik şu anda geliştirme aşamasındadır. Güncellemeler için takipte kalın!",
+    "status": "Geliştirme Aşamasında"
+  }
+}

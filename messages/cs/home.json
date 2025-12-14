@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Lovte vzácné bitcoinové transakce",
+    "description": "Lovte nejvzácnější bitcoinové transakce. Najděte ID transakcí začínající na 000000... a získejte tokeny ZELD."
+  },
+  "hero": {
+    "titleLine1": "Lovte nejvzácnější",
+    "titleLine2": "bitcoinové transakce",
+    "subtitleBeforeZeros": "Některé bitcoinové transakce jsou extrémně vzácné — jejich ID začíná na",
+    "subtitleAfterZeros": "Najděte je a získejte tokeny {token}.",
+    "ctaBox": "⚡ Tisíce lidí vlastní ZELD, aniž by to věděli. Patříte mezi ně?",
+    "addressPlaceholder": "Zadejte svou bitcoinovou adresu...",
+    "checkBalance": "Zkontrolovat zůstatek"
+  },
+  "stats": {
+    "rareHashesFound": "Nalezeno vzácných hashů",
+    "zeldInCirculation": "ZELD v oběhu",
+    "recordZeros": "Rekordní počet nul",
+    "utxosTracked": "Sledovaných UTXO"
+  },
+  "howItWorks": {
+    "label": "Jak to funguje",
+    "title": "Lov za 60 sekund",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Každá transakce má ID",
+        "desc": "Jako sériové číslo. Většina vypadá náhodně: a7f3b2c1e9d8... Ale některá začínají nulami.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Nuly jsou vzácné",
+        "desc": "Najít 6 nul? Šance 1 ku 16 milionům. 12 nul? 1 ku 281 bilionům. To jsou poklady.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Lovte nebo objevujte",
+        "desc": "Těžte nové vzácné transakce pomocí našich nástrojů, nebo zjistěte, zda vaše staré transakce jsou už vzácné.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Získejte ZELD",
+        "desc": "Vzácné transakce přinášejí tokeny ZELD. Převádějte je jako Bitcoin. Bez prostředníků.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Proč na tom záleží",
+    "title": "Těžba pro každého",
+    "intro": "Tradiční těžba Bitcoinu vyžaduje miliony za hardware a dost elektřiny na zásobení malého města. ZELD mění pravidla hry.",
+    "oldHeader": "Těžba bitcoinových bloků",
+    "newHeader": "Těžba transakcí ZELD",
+    "rows": [
+      ["Hardware za $500K - $10M", "Váš notebook"],
+      ["Obrovské účty za elektřinu", "Téměř nic"],
+      ["1 vítěz na blok", "Vyhrát může každý"],
+      ["Ovládáno těžebními pooly", "100% decentralizováno"],
+      ["Musíte soutěžit s giganty", "Soutěžíte sami se sebou"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Síň slávy",
+    "title": "Nejvzácnější objevy",
+    "leadingZeros": "{count} úvodních nul",
+    "recordSuffix": "— REKORD VŠECH DOB 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Začněte lovit",
+    "subtitle": "Zkontrolujte svůj stávající zůstatek nebo si stáhněte těžaře a začněte lovit.",
+    "checkBalance": "Zkontrolovat zůstatek",
+    "downloadMiner": "Stáhnout těžaře"
+  }
+}

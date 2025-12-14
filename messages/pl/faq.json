@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "ZeldHash FAQ",
+    "description": "Odpowiedzi na pytania dotyczące polowania na transakcje Bitcoin z rzadkimi wzorcami hashy."
+  },
+  "badge": "FAQ",
+  "heading": "ZeldHash FAQ",
+  "intro": "Wszystko, co musisz wiedzieć o polowaniu na transakcje Bitcoin z rzadkimi wzorcami hashy.",
+  "huntIsOn": "Polowanie rozpoczęte.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "Czym jest ZeldHash?",
+      "a": "ZeldHash to protokół nagradzający użytkowników Bitcoina, którzy odkrywają lub tworzą transakcje z rzadkimi wzorcami hashy — konkretnie hashe zaczynające się od wielu zer. Pomyśl o tym jak o polowaniu na skarby na blockchainie Bitcoina."
+    },
+    "whyName": {
+      "q": "Dlaczego nazwa \"ZeldHash\"?",
+      "a1": "\"Zeld\" pochodzi od holenderskiego słowa zeldzaam, które oznacza \"rzadki\". To odpowiednia nazwa dla protokołu poświęconego polowaniu na najrzadsze transakcje na blockchainie Bitcoina. Część \"hash\" odnosi się do kryptograficznego odcisku palca, który czyni każdą transakcję unikalną.",
+      "a2": "ZeldHash dosłownie oznacza \"Rzadki Hash\" — dokładnie to, na co polujemy."
+    },
+    "whatIsHash": {
+      "q": "Czym jest hash?",
+      "a1": "Hash jest jak cyfrowy odcisk palca. To unikalny identyfikator generowany z dowolnych danych — czy to obrazu, dokumentu, czy transakcji Bitcoin. Każdy hash to ciąg 64 znaków szesnastkowych.",
+      "a2": "Możesz zobaczyć przykłady hashy na <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "Jak to się ma do Bitcoina?",
+      "a": "Każdy blok Bitcoin ma hash, a każda transakcja wewnątrz bloku ma swój własny hash zwany identyfikatorem transakcji (txid). Jeśli przyglądałeś się hashom bloków, mogłeś zauważyć, że zaczynają się od wielu zer. To wynik kopania: górnicy wielokrotnie obliczają hashe, aż znajdą taki z wystarczającą liczbą wiodących zer."
+    },
+    "rareTxHash": {
+      "q": "Co sprawia, że hash transakcji jest \"rzadki\"?",
+      "a": "W przeciwieństwie do hashy bloków, hashe transakcji są zasadniczo losowe — mogą zaczynać się od dowolnego znaku. Hash transakcji zaczynający się od wielu zer jest statystycznie rzadki, jak znalezienie czterolistnej koniczyny. Im więcej wiodących zer, tym rzadsza transakcja."
+    },
+    "huntHow": {
+      "q": "Jak polować na rzadkie transakcje?",
+      "a": "Tak jak górnicy. Dodajesz losowe dane do transakcji i obliczasz hashe, aż znajdziesz taki zaczynający się od zer. Może to wymagać wielu prób, ale gdy Ci się uda, odkryłeś coś rzadkiego."
+    },
+    "whatIsZeld": {
+      "q": "Czym jest ZELD?",
+      "a": "ZELD to token, który zdobywasz, gdy znajdziesz lub utworzysz transakcję Bitcoin z hashem zaczynającym się od co najmniej 6 zer. Im rzadsze Twoje znalezisko (więcej zer), tym więcej ZELD zdobywasz."
+    },
+    "inCirculation": {
+      "q": "Czy są już tokeny ZELD w obiegu?",
+      "a": "Tak. Od uruchomienia Bitcoina w 2009 roku wiele transakcji przypadkowo zakończyło się hashami zaczynającymi się od 6+ zer. Te przypadkowe skarby są już do odebrania. Niektórzy łowcy też tworzą je celowo."
+    },
+    "ownWithoutKnowing": {
+      "q": "Czy niektórzy ludzie posiadają ZELD nie wiedząc o tym?",
+      "a": "Absolutnie. Tysiące użytkowników Bitcoina nieświadomie posiada rzadkie transakcje. Ich ZELD czeka na odebranie."
+    },
+    "centralized": {
+      "q": "Czy ZeldHash jest scentralizowany? Kto to kontroluje?",
+      "a": "Nikt. ZeldHash jest w pełni zdecentralizowany, tak jak Bitcoin. Tokeny ZELD można przesyłać jak każdy zasób Bitcoina. Nie ma centralnej władzy."
+    },
+    "rewards": {
+      "q": "Jak działa system nagród?",
+      "a": "Protokół nagradza rzadkość. Transakcja z 6 wiodącymi zerami przynosi ZELD, a więcej zer oznacza większe nagrody. Wraz z dołączaniem większej liczby łowców, konkurencja rośnie — ale zawsze jest coś do znalezienia dla tych, którzy szukają."
+    },
+    "startHunting": {
+      "q": "Jak zacząć polowanie?",
+      "a": "Odwiedź <site>zeldhash.com</site> i rozpocznij swoją przygodę. Każda transakcja to szansa na odkrycie czegoś rzadkiego."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Berburu transaksi Bitcoin paling langka. Temukan ID transaksi yang dimulai dengan 000000... dan dapatkan token ZELD. 100% terdesentralisasi, tanpa premine, tanpa VC.",
+  "tagline": "Perburuan Dimulai",
+  "nav": {
+    "hunt": "Berburu",
+    "wallet": "Dompet",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "Whitepaper"
+  },
+  "footer": {
+    "protocol": "Protokol",
+    "balances": "Saldo",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% terdesentralisasi. Tanpa premine. Tanpa VC. Hanya matematika."
+  },
+  "language": {
+    "label": "Bahasa",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Segera Hadir",
+    "description": "Fitur ini sedang dalam pengembangan. Nantikan pembaruannya!",
+    "status": "Dalam Pengembangan"
+  }
+}

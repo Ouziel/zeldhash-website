@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Vânează tranzacții Bitcoin rare",
+    "description": "Vânează cele mai rare tranzacții Bitcoin. Găsește ID-uri de tranzacții care încep cu 000000... și câștigă tokeni ZELD."
+  },
+  "hero": {
+    "titleLine1": "Vânează cele mai",
+    "titleLine2": "rare tranzacții Bitcoin",
+    "subtitleBeforeZeros": "Unele tranzacții Bitcoin sunt extrem de rare — ID-ul lor începe cu",
+    "subtitleAfterZeros": "Găsește-le și câștigă tokeni {token}.",
+    "ctaBox": "⚡ Mii de oameni dețin ZELD fără să știe. Și tu?",
+    "addressPlaceholder": "Introdu adresa ta Bitcoin...",
+    "checkBalance": "Verifică soldul"
+  },
+  "stats": {
+    "rareHashesFound": "Hash-uri rare găsite",
+    "zeldInCirculation": "ZELD în circulație",
+    "recordZeros": "Record de zerouri",
+    "utxosTracked": "UTXO-uri urmărite"
+  },
+  "howItWorks": {
+    "label": "Cum funcționează",
+    "title": "Vânătoarea în 60 de secunde",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Fiecare tranzacție are un ID",
+        "desc": "Ca un număr de serie. Cele mai multe par aleatorii: a7f3b2c1e9d8... Dar unele încep cu zerouri.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Zerourile sunt rare",
+        "desc": "Să găsești 6 zerouri? Șansă de 1 la 16 milioane. 12 zerouri? 1 la 281 de trilioane. Acestea sunt comori.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Vânează sau descoperă",
+        "desc": "Minează tranzacții rare noi cu uneltele noastre, sau verifică dacă tranzacțiile tale vechi sunt deja rare.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Câștigă ZELD",
+        "desc": "Tranzacțiile rare câștigă tokeni ZELD. Transferă-i ca Bitcoin. Fără intermediari.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "De ce contează",
+    "title": "Minerit pentru toată lumea",
+    "intro": "Minatul tradițional de Bitcoin necesită milioane în hardware și suficientă electricitate pentru a alimenta un mic oraș. ZELD schimbă jocul.",
+    "oldHeader": "Minat de blocuri Bitcoin",
+    "newHeader": "Minat de tranzacții ZELD",
+    "rows": [
+      ["Hardware de $500K - $10M", "Laptopul tău"],
+      ["Facturi uriașe la electricitate", "Aproape nimic"],
+      ["1 câștigător per bloc", "Toată lumea poate câștiga"],
+      ["Controlat de pool-uri de minare", "100% descentralizat"],
+      ["Trebuie să concurezi cu giganții", "Concurezi cu tine însuți"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Galeria Famei",
+    "title": "Cele mai rare descoperiri",
+    "leadingZeros": "{count} zerouri inițiale",
+    "recordSuffix": "— RECORD ABSOLUT 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Începe vânătoarea",
+    "subtitle": "Verifică soldul tău existent sau descarcă minerul pentru a începe vânătoarea.",
+    "checkBalance": "Verifică soldul",
+    "downloadMiner": "Descarcă minerul"
+  }
+}

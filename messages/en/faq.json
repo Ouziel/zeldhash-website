@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "ZeldHash FAQ",
+    "description": "Answers about the hunt for Bitcoin transactions with rare hash patterns."
+  },
+  "badge": "FAQ",
+  "heading": "ZeldHash FAQ",
+  "intro": "Everything you need to know about the hunt for Bitcoin transactions with rare hash patterns.",
+  "huntIsOn": "The Hunt is On.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "What is ZeldHash?",
+      "a": "ZeldHash is a protocol that rewards Bitcoin users who discover or create transactions with rare hash patterns — specifically, hashes that start with multiple zeros. Think of it as a treasure hunt on the Bitcoin blockchain."
+    },
+    "whyName": {
+      "q": "Why the name \"ZeldHash\"?",
+      "a1": "\"Zeld\" comes from the Dutch word zeldzaam, which means \"rare\". It is a fitting name for a protocol dedicated to hunting the rarest transactions on the Bitcoin blockchain. The \"hash\" part refers to the cryptographic fingerprint that makes each transaction unique.",
+      "a2": "So ZeldHash literally means \"Rare Hash\" — exactly what we are hunting for."
+    },
+    "whatIsHash": {
+      "q": "What is a hash?",
+      "a1": "A hash is like a digital fingerprint. It is a unique identifier generated from any piece of data — whether it is an image, a document, or a Bitcoin transaction. Every hash is a string of 64 hexadecimal characters.",
+      "a2": "You can see examples of hashes on <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "How does this relate to Bitcoin?",
+      "a": "Every Bitcoin block has a hash, and every transaction inside a block has its own hash called a transaction ID (txid). If you have looked at block hashes, you may have noticed they start with many zeros. That is the result of mining: miners repeatedly calculate hashes until they find one with enough leading zeros."
+    },
+    "rareTxHash": {
+      "q": "What makes a transaction hash \"rare\"?",
+      "a": "Unlike block hashes, transaction hashes are essentially random — they can start with any character. A transaction hash beginning with multiple zeros is statistically rare, like finding a four-leaf clover. The more leading zeros, the rarer the transaction."
+    },
+    "huntHow": {
+      "q": "How do I hunt for rare transactions?",
+      "a": "Just like miners. You add random data to your transaction and compute hashes until you find one that starts with zeros. It can take many attempts, but when you succeed, you have discovered something rare."
+    },
+    "whatIsZeld": {
+      "q": "What is ZELD?",
+      "a": "ZELD is the token you earn when you find or create a Bitcoin transaction with a hash starting with at least 6 zeros. The rarer your find (more zeros), the more ZELD you earn."
+    },
+    "inCirculation": {
+      "q": "Are there already ZELD tokens in circulation?",
+      "a": "Yes. Since Bitcoin's launch in 2009, many transactions have randomly ended up with hashes starting with 6+ zeros. These accidental treasures are already claimable. Some hunters also create them intentionally."
+    },
+    "ownWithoutKnowing": {
+      "q": "Do some people own ZELD without knowing it?",
+      "a": "Absolutely. Thousands of Bitcoin users unknowingly possess rare transactions. Their ZELD is waiting to be claimed."
+    },
+    "centralized": {
+      "q": "Is ZeldHash centralized? Who controls it?",
+      "a": "No one. ZeldHash is fully decentralized, just like Bitcoin. ZELD tokens can be transferred like any Bitcoin asset. There is no central authority."
+    },
+    "rewards": {
+      "q": "How does the reward system work?",
+      "a": "The protocol rewards rarity. A transaction with 6 leading zeros earns ZELD, and more zeros means greater rewards. As more hunters join, competition increases — but there is always something to find for those who keep searching."
+    },
+    "startHunting": {
+      "q": "How do I start hunting?",
+      "a": "Visit <site>zeldhash.com</site> and begin your quest. Every transaction is a chance to uncover something rare."
+    }
+  }
+}
+
+

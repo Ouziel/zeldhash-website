@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "सबसे दुर्लभ Bitcoin लेनदेन की खोज करें। 000000... से शुरू होने वाले लेनदेन ID खोजें और ZELD टोकन कमाएं। 100% विकेंद्रीकृत, कोई प्रीमाइन नहीं, कोई VC नहीं।",
+  "tagline": "शिकार शुरू हो गया है",
+  "nav": {
+    "hunt": "शिकार",
+    "wallet": "वॉलेट",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "श्वेतपत्र"
+  },
+  "footer": {
+    "protocol": "प्रोटोकॉल",
+    "balances": "शेष राशि",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% विकेंद्रीकृत। कोई प्रीमाइन नहीं। कोई VC नहीं। बस गणित।"
+  },
+  "language": {
+    "label": "भाषा",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "जल्द आ रहा है",
+    "description": "यह सुविधा वर्तमान में विकास के अधीन है। अपडेट के लिए बने रहें!",
+    "status": "विकास में"
+  }
+}

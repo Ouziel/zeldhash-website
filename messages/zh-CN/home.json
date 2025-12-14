@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - 寻找稀有比特币交易",
+    "description": "寻找最稀有的比特币交易。发现以 000000... 开头的交易 ID，赚取 ZELD 代币。"
+  },
+  "hero": {
+    "titleLine1": "寻找比特币的",
+    "titleLine2": "最稀有的交易",
+    "subtitleBeforeZeros": "某些比特币交易极其稀有——它们的 ID 以",
+    "subtitleAfterZeros": "开头。找到它们，赚取 {token} 代币。",
+    "ctaBox": "⚡ 成千上万的人不知道自己拥有 ZELD。你呢？",
+    "addressPlaceholder": "输入你的比特币地址...",
+    "checkBalance": "查询余额"
+  },
+  "stats": {
+    "rareHashesFound": "已发现稀有哈希",
+    "zeldInCirculation": "流通中的 ZELD",
+    "recordZeros": "前导零纪录",
+    "utxosTracked": "追踪的 UTXO"
+  },
+  "howItWorks": {
+    "label": "工作原理",
+    "title": "60 秒了解狩猎",
+    "steps": [
+      {
+        "num": "01",
+        "title": "每笔交易都有一个 ID",
+        "desc": "就像序列号。大多数看起来是随机的：a7f3b2c1e9d8... 但有些以零开头。",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "零很稀有",
+        "desc": "找到 6 个零？一千六百万分之一的概率。12 个零？281 万亿分之一。这些是宝藏。",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "狩猎或发现",
+        "desc": "用我们的工具挖掘新的稀有交易，或检查你的旧交易是否已经是稀有的。",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "赚取 ZELD",
+        "desc": "稀有交易可以赚取 ZELD 代币。像比特币一样转移它们。没有中间商。",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "为什么重要",
+    "title": "人人可挖矿",
+    "intro": "传统比特币挖矿需要数百万美元的硬件和足以供应一个小城市的电力。ZELD 改变了游戏规则。",
+    "oldHeader": "比特币区块挖矿",
+    "newHeader": "ZELD 交易挖矿",
+    "rows": [
+      ["价值 $50万–$1000万 的硬件", "你的笔记本电脑"],
+      ["巨额电费账单", "几乎为零"],
+      ["每个区块只有 1 个赢家", "人人都能赢"],
+      ["由矿池控制", "100% 去中心化"],
+      ["需要与巨头竞争", "与自己竞争"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "名人堂",
+    "title": "最稀有的发现",
+    "leadingZeros": "{count} 个前导零",
+    "recordSuffix": "— 历史最高纪录 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "开始你的狩猎",
+    "subtitle": "查询你现有的余额，或下载挖矿程序开始狩猎。",
+    "checkBalance": "查询余额",
+    "downloadMiner": "下载挖矿程序"
+  }
+}

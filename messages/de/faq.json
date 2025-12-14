@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "ZeldHash FAQ",
+    "description": "Antworten zur Jagd nach Bitcoin-Transaktionen mit seltenen Hash-Mustern."
+  },
+  "badge": "FAQ",
+  "heading": "ZeldHash FAQ",
+  "intro": "Alles, was du über die Jagd nach Bitcoin-Transaktionen mit seltenen Hash-Mustern wissen musst.",
+  "huntIsOn": "Die Jagd ist eröffnet.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "Was ist ZeldHash?",
+      "a": "ZeldHash ist ein Protokoll, das Bitcoin-Nutzer belohnt, die Transaktionen mit seltenen Hash-Mustern entdecken oder erstellen — insbesondere Hashes, die mit mehreren Nullen beginnen. Stell es dir wie eine Schatzsuche auf der Bitcoin-Blockchain vor."
+    },
+    "whyName": {
+      "q": "Warum der Name 'ZeldHash'?",
+      "a1": "'Zeld' kommt vom niederländischen Wort zeldzaam, was 'selten' bedeutet. Es ist ein passender Name für ein Protokoll, das sich der Jagd nach den seltensten Transaktionen auf der Bitcoin-Blockchain widmet. Der 'Hash'-Teil bezieht sich auf den kryptografischen Fingerabdruck, der jede Transaktion einzigartig macht.",
+      "a2": "ZeldHash bedeutet also wörtlich 'Seltener Hash' — genau das, wonach wir suchen."
+    },
+    "whatIsHash": {
+      "q": "Was ist ein Hash?",
+      "a1": "Ein Hash ist wie ein digitaler Fingerabdruck. Es ist eine eindeutige Kennung, die aus beliebigen Daten generiert wird — sei es ein Bild, ein Dokument oder eine Bitcoin-Transaktion. Jeder Hash ist eine Zeichenkette aus 64 hexadezimalen Zeichen.",
+      "a2": "Du kannst Beispiele für Hashes auf <mempool>mempool.space</mempool> sehen."
+    },
+    "bitcoinRelation": {
+      "q": "Wie hängt das mit Bitcoin zusammen?",
+      "a": "Jeder Bitcoin-Block hat einen Hash, und jede Transaktion innerhalb eines Blocks hat ihren eigenen Hash, genannt Transaktions-ID (txid). Wenn du dir Block-Hashes angesehen hast, ist dir vielleicht aufgefallen, dass sie mit vielen Nullen beginnen. Das ist das Ergebnis des Minings: Miner berechnen wiederholt Hashes, bis sie einen mit genügend führenden Nullen finden."
+    },
+    "rareTxHash": {
+      "q": "Was macht einen Transaktions-Hash 'selten'?",
+      "a": "Im Gegensatz zu Block-Hashes sind Transaktions-Hashes im Wesentlichen zufällig — sie können mit jedem beliebigen Zeichen beginnen. Ein Transaktions-Hash, der mit mehreren Nullen beginnt, ist statistisch selten, wie ein vierblättriges Kleeblatt zu finden. Je mehr führende Nullen, desto seltener die Transaktion."
+    },
+    "huntHow": {
+      "q": "Wie jage ich seltene Transaktionen?",
+      "a": "Genau wie Miner. Du fügst deiner Transaktion zufällige Daten hinzu und berechnest Hashes, bis du einen findest, der mit Nullen beginnt. Es kann viele Versuche dauern, aber wenn du Erfolg hast, hast du etwas Seltenes entdeckt."
+    },
+    "whatIsZeld": {
+      "q": "Was ist ZELD?",
+      "a": "ZELD ist der Token, den du verdienst, wenn du eine Bitcoin-Transaktion mit einem Hash findest oder erstellst, der mit mindestens 6 Nullen beginnt. Je seltener dein Fund (mehr Nullen), desto mehr ZELD verdienst du."
+    },
+    "inCirculation": {
+      "q": "Gibt es bereits ZELD-Token im Umlauf?",
+      "a": "Ja. Seit dem Start von Bitcoin im Jahr 2009 sind viele Transaktionen zufällig mit Hashes gelandet, die mit 6+ Nullen beginnen. Diese zufälligen Schätze können bereits beansprucht werden. Manche Jäger erstellen sie auch absichtlich."
+    },
+    "ownWithoutKnowing": {
+      "q": "Besitzen manche Menschen ZELD, ohne es zu wissen?",
+      "a": "Absolut. Tausende von Bitcoin-Nutzern besitzen unwissentlich seltene Transaktionen. Ihr ZELD wartet darauf, beansprucht zu werden."
+    },
+    "centralized": {
+      "q": "Ist ZeldHash zentralisiert? Wer kontrolliert es?",
+      "a": "Niemand. ZeldHash ist vollständig dezentralisiert, genau wie Bitcoin. ZELD-Token können wie jedes Bitcoin-Asset übertragen werden. Es gibt keine zentrale Instanz."
+    },
+    "rewards": {
+      "q": "Wie funktioniert das Belohnungssystem?",
+      "a": "Das Protokoll belohnt Seltenheit. Eine Transaktion mit 6 führenden Nullen verdient ZELD, und mehr Nullen bedeuten größere Belohnungen. Mit mehr Jägern steigt der Wettbewerb — aber es gibt immer etwas zu finden für diejenigen, die weiter suchen."
+    },
+    "startHunting": {
+      "q": "Wie fange ich mit der Jagd an?",
+      "a": "Besuche <site>zeldhash.com</site> und beginne deine Suche. Jede Transaktion ist eine Chance, etwas Seltenes zu entdecken."
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Winda Miamala Adimu ya Bitcoin",
+    "description": "Winda miamala adimu ya Bitcoin. Pata vitambulisho vya miamala vinavyoanza na 000000... na upate tokeni za ZELD."
+  },
+  "hero": {
+    "titleLine1": "Winda Miamala",
+    "titleLine2": "Adimu ya Bitcoin",
+    "subtitleBeforeZeros": "Baadhi ya miamala ya Bitcoin ni adimu sana — kitambulisho chake kinaanza na",
+    "subtitleAfterZeros": "Ipate na upokee tokeni za {token}.",
+    "ctaBox": "⚡ Maelfu wanamiliki ZELD bila kujua. Je, wewe?",
+    "addressPlaceholder": "Ingiza anwani yako ya Bitcoin...",
+    "checkBalance": "Angalia Salio"
+  },
+  "stats": {
+    "rareHashesFound": "Hashi adimu zilizopatikana",
+    "zeldInCirculation": "ZELD kwenye mzunguko",
+    "recordZeros": "Rekodi ya sufuri",
+    "utxosTracked": "UTXO Zinazofuatiliwa"
+  },
+  "howItWorks": {
+    "label": "Jinsi inavyofanya kazi",
+    "title": "Uwindaji kwa Sekunde 60",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Kila muamala una kitambulisho",
+        "desc": "Kama nambari ya mfululizo. Nyingi zinaonekana bila mpangilio: a7f3b2c1e9d8... Lakini zingine zinaanza na sifuri.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Sifuri ni adimu",
+        "desc": "Kupata sifuri 6? Nafasi 1 kati ya milioni 16. Sifuri 12? 1 kati ya trilioni 281. Hizi ni hazina.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Winda au gundua",
+        "desc": "Chimbua miamala mipya adimu kwa zana zetu, au angalia kama miamala yako ya zamani tayari ni adimu.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Pata ZELD",
+        "desc": "Miamala adimu inapata tokeni za ZELD. Zihamishe kama Bitcoin. Bila wapatanishi.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Kwa nini ni muhimu",
+    "title": "Uchimbaji kwa Kila Mtu",
+    "intro": "Uchimbaji wa kawaida wa Bitcoin unahitaji mamilioni ya dola katika vifaa na umeme wa kutosha kuendesha mji mdogo. ZELD inabadilisha mchezo.",
+    "oldHeader": "Uchimbaji wa Bloku za Bitcoin",
+    "newHeader": "Uchimbaji wa Miamala ya ZELD",
+    "rows": [
+      ["Vifaa vya $500K - $10M", "Kompyuta yako ya mkononi"],
+      ["Bili kubwa za umeme", "Karibu hakuna"],
+      ["Mshindi 1 kwa kila bloku", "Kila mtu anaweza kushinda"],
+      ["Inadhibitiwa na vikundi vya uchimbaji", "100% imegatuliwa"],
+      ["Lazima ushindane na majitu", "Shindana na wewe mwenyewe"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Ukumbi wa Umaarufu",
+    "title": "Ugunduzi Adimu Zaidi",
+    "leadingZeros": "{count} sufuri za mwanzo",
+    "recordSuffix": "— REKODI YA WAKATI WOTE 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Anza Uwindaji Wako",
+    "subtitle": "Angalia salio lako lililopo au pakua mchimbaji kuanza kuwinda.",
+    "checkBalance": "Angalia Salio",
+    "downloadMiner": "Pakua Mchimbaji"
+  }
+}

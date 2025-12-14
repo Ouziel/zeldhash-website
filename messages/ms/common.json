@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Buru transaksi Bitcoin paling jarang. Cari ID transaksi bermula dengan 000000... dan dapatkan token ZELD. 100% terdesentralisasi, tiada premine, tiada VC.",
+  "tagline": "Pemburuan Bermula",
+  "nav": {
+    "hunt": "Buru",
+    "wallet": "Dompet",
+    "faq": "Soalan Lazim",
+    "github": "GitHub",
+    "whitepaper": "Kertas Putih"
+  },
+  "footer": {
+    "protocol": "Protokol",
+    "balances": "Baki",
+    "faq": "Soalan Lazim",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% terdesentralisasi. Tiada premine. Tiada VC. Hanya matematik."
+  },
+  "language": {
+    "label": "Bahasa",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Akan Datang",
+    "description": "Ciri ini sedang dalam pembangunan. Nantikan kemas kini!",
+    "status": "Dalam Pembangunan"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Poluj na rzadkie transakcje Bitcoin",
+    "description": "Poluj na najrzadsze transakcje Bitcoin. Znajdź identyfikatory transakcji zaczynające się od 000000... i zdobądź tokeny ZELD."
+  },
+  "hero": {
+    "titleLine1": "Poluj na najrzadsze",
+    "titleLine2": "transakcje Bitcoin",
+    "subtitleBeforeZeros": "Niektóre transakcje Bitcoin są niezwykle rzadkie — ich ID zaczyna się od",
+    "subtitleAfterZeros": "Znajdź je i zdobądź tokeny {token}.",
+    "ctaBox": "⚡ Tysiące osób posiada ZELD, nie wiedząc o tym. A Ty?",
+    "addressPlaceholder": "Wprowadź swój adres Bitcoin...",
+    "checkBalance": "Sprawdź saldo"
+  },
+  "stats": {
+    "rareHashesFound": "Znalezione rzadkie hashe",
+    "zeldInCirculation": "ZELD w obiegu",
+    "recordZeros": "Rekord zer",
+    "utxosTracked": "Śledzone UTXO"
+  },
+  "howItWorks": {
+    "label": "Jak to działa",
+    "title": "Polowanie w 60 sekund",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Każda transakcja ma ID",
+        "desc": "Jak numer seryjny. Większość wygląda losowo: a7f3b2c1e9d8... Ale niektóre zaczynają się od zer.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Zera są rzadkie",
+        "desc": "Znalezienie 6 zer? Szansa 1 na 16 milionów. 12 zer? 1 na 281 bilionów. To są skarby.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Poluj lub odkrywaj",
+        "desc": "Wydobywaj nowe rzadkie transakcje naszymi narzędziami albo sprawdź, czy Twoje stare transakcje są już rzadkie.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Zdobądź ZELD",
+        "desc": "Rzadkie transakcje przynoszą tokeny ZELD. Przesyłaj je jak Bitcoin. Bez pośredników.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Dlaczego to ma znaczenie",
+    "title": "Kopanie dla każdego",
+    "intro": "Tradycyjne kopanie Bitcoina wymaga sprzętu za miliony dolarów i tyle energii, by zasilić małe miasto. ZELD zmienia zasady gry.",
+    "oldHeader": "Kopanie bloków Bitcoina",
+    "newHeader": "Kopanie transakcji ZELD",
+    "rows": [
+      ["Sprzęt za $500K - $10M", "Twój laptop"],
+      ["Ogromne rachunki za prąd", "Prawie nic"],
+      ["1 zwycięzca na blok", "Każdy może wygrać"],
+      ["Kontrolowane przez pule wydobywcze", "100% zdecentralizowane"],
+      ["Konkurencja z gigantami", "Konkurujesz sam ze sobą"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Galeria sławy",
+    "title": "Najrzadsze odkrycia",
+    "leadingZeros": "{count} wiodących zer",
+    "recordSuffix": "— REKORD WSZECH CZASÓW 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Rozpocznij polowanie",
+    "subtitle": "Sprawdź swoje istniejące saldo lub pobierz koparkę, aby zacząć polować.",
+    "checkBalance": "Sprawdź saldo",
+    "downloadMiner": "Pobierz koparkę"
+  }
+}

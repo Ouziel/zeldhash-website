@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "ZeldHash - Hunt for Rare Bitcoin Transactions",
+    "description": "Hunt for the rarest Bitcoin transactions. Find transaction IDs starting with 000000... and earn ZELD tokens."
+  },
+  "hero": {
+    "titleLine1": "Hunt for Bitcoin's",
+    "titleLine2": "Rarest Transactions",
+    "subtitleBeforeZeros": "Some Bitcoin transactions are extremely rare — their ID starts with",
+    "subtitleAfterZeros": "Find them and earn {token} tokens.",
+    "ctaBox": "⚡ Thousands own ZELD without knowing it. Do you?",
+    "addressPlaceholder": "Enter your Bitcoin address...",
+    "checkBalance": "Check Balance"
+  },
+  "stats": {
+    "rareHashesFound": "Rare Hashes Found",
+    "zeldInCirculation": "ZELD in Circulation",
+    "recordZeros": "Record Zeros",
+    "utxosTracked": "UTXOs Tracked"
+  },
+  "howItWorks": {
+    "label": "How it works",
+    "title": "The Hunt in 60 Seconds",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Every transaction has an ID",
+        "desc": "Like a serial number. Most look random: a7f3b2c1e9d8... But some start with zeros.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Zeros are rare",
+        "desc": "Finding 6 zeros? 1 in 16 million chance. 12 zeros? 1 in 281 trillion. These are treasures.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Hunt or discover",
+        "desc": "Mine new rare transactions with our tools, or check if your old transactions are already rare.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Earn ZELD",
+        "desc": "Rare transactions earn ZELD tokens. Transfer them like Bitcoin. No middlemen.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Why it matters",
+    "title": "Mining for Everyone",
+    "intro": "Traditional Bitcoin mining requires millions in hardware and enough electricity to power a small city. ZELD changes the game.",
+    "oldHeader": "Bitcoin Block Mining",
+    "newHeader": "ZELD Transaction Mining",
+    "rows": [
+      ["$500K - $10M hardware", "Your laptop"],
+      ["Massive electricity bills", "Almost nothing"],
+      ["1 winner per block", "Everyone can win"],
+      ["Controlled by mining pools", "100% decentralized"],
+      ["Need to compete with giants", "Compete with yourself"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Hall of Fame",
+    "title": "Rarest Discoveries",
+    "leadingZeros": "{count} leading zeros",
+    "recordSuffix": "— ALL TIME RECORD 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Start Your Hunt",
+    "subtitle": "Check your existing balance or download the miner to start hunting.",
+    "checkBalance": "Check Balance",
+    "downloadMiner": "Download Miner"
+  }
+}
+
+

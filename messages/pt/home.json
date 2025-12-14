@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "ZeldHash - Caça às transações raras de Bitcoin",
+    "description": "Caça às transações de Bitcoin mais raras. Encontra txids que começam com 000000... e ganha tokens ZELD."
+  },
+  "hero": {
+    "titleLine1": "Caça às",
+    "titleLine2": "transações mais raras de Bitcoin",
+    "subtitleBeforeZeros": "Algumas transações de Bitcoin são extremamente raras — o seu ID começa com",
+    "subtitleAfterZeros": "Encontra-as e ganha tokens {token}.",
+    "ctaBox": "⚡ Milhares possuem ZELD sem saber. E tu?",
+    "addressPlaceholder": "Introduz o teu endereço Bitcoin...",
+    "checkBalance": "Verificar saldo"
+  },
+  "stats": {
+    "rareHashesFound": "Hashes raros encontrados",
+    "zeldInCirculation": "ZELD em circulação",
+    "recordZeros": "Recorde de zeros",
+    "utxosTracked": "UTXOs rastreados"
+  },
+  "howItWorks": {
+    "label": "Como funciona",
+    "title": "A caça em 60 segundos",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Cada transação tem um ID",
+        "desc": "Como um número de série. A maioria parece aleatória: a7f3b2c1e9d8... Mas algumas começam com zeros.",
+        "icon": "🔢"
+      },
+      {
+        "num": "02",
+        "title": "Os zeros são raros",
+        "desc": "Encontrar 6 zeros? 1 em 16 milhões. 12 zeros? 1 em 281 triliões. São tesouros.",
+        "icon": "💎"
+      },
+      {
+        "num": "03",
+        "title": "Caça ou descobre",
+        "desc": "Minera novas transações raras com as nossas ferramentas, ou verifica se as tuas transações antigas já são raras.",
+        "icon": "🎯"
+      },
+      {
+        "num": "04",
+        "title": "Ganha ZELD",
+        "desc": "As transações raras geram tokens ZELD. Transfere-os como Bitcoin. Sem intermediários.",
+        "icon": "🏆"
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Porque importa",
+    "title": "Mineração para todos",
+    "intro": "A mineração tradicional de Bitcoin requer milhões em hardware e eletricidade suficiente para alimentar uma pequena cidade. O ZELD muda o jogo.",
+    "oldHeader": "Mineração de blocos de Bitcoin",
+    "newHeader": "Mineração de transações ZELD",
+    "rows": [
+      ["$500K - $10M em hardware", "O teu portátil"],
+      ["Contas de eletricidade enormes", "Quase nada"],
+      ["1 vencedor por bloco", "Todos podem ganhar"],
+      ["Controlado por pools de mineração", "100% descentralizado"],
+      ["Competir contra gigantes", "Compete contigo mesmo"]
+    ]
+  },
+  "hallOfFame": {
+    "label": "Galeria da Fama",
+    "title": "Descobertas mais raras",
+    "leadingZeros": "{count} zeros iniciais",
+    "recordSuffix": "— RECORDE DE TODOS OS TEMPOS 🏆",
+    "tokenLabel": "ZELD"
+  },
+  "cta": {
+    "title": "Começa a tua caça",
+    "subtitle": "Verifica o teu saldo atual ou descarrega o minerador para começar a caçar.",
+    "checkBalance": "Verificar saldo",
+    "downloadMiner": "Descarregar minerador"
+  }
+}

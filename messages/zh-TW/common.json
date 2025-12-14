@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "尋找最稀有的比特幣交易。發現以 000000... 開頭的交易 ID，賺取 ZELD 代幣。100% 去中心化，無預挖，無風投。",
+  "tagline": "狩獵開始了",
+  "nav": {
+    "hunt": "狩獵",
+    "wallet": "錢包",
+    "faq": "常見問題",
+    "github": "GitHub",
+    "whitepaper": "白皮書"
+  },
+  "footer": {
+    "protocol": "協議",
+    "balances": "餘額",
+    "faq": "常見問題",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% 去中心化。無預挖。無風投。純粹數學。"
+  },
+  "language": {
+    "label": "語言",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "即將推出",
+    "description": "此功能目前正在開發中。敬請期待更新！",
+    "status": "開發中"
+  }
+}

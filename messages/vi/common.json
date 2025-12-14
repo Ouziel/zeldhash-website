@@ -1,0 +1,31 @@
+{
+  "siteTitle": "ZeldHash",
+  "siteDescription": "Săn lùng các giao dịch Bitcoin hiếm nhất. Tìm ID giao dịch bắt đầu bằng 000000... và nhận token ZELD. 100% phi tập trung, không premine, không VC.",
+  "tagline": "Cuộc săn bắt đầu",
+  "nav": {
+    "hunt": "Săn",
+    "wallet": "Ví",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "whitepaper": "Sách trắng"
+  },
+  "footer": {
+    "protocol": "Giao thức",
+    "balances": "Số dư",
+    "faq": "FAQ",
+    "github": "GitHub",
+    "twitter": "Twitter",
+    "motto": "100% phi tập trung. Không premine. Không VC. Chỉ có toán học."
+  },
+  "language": {
+    "label": "Ngôn ngữ",
+    "en": "EN",
+    "fr": "FR",
+    "es": "ES"
+  },
+  "comingSoon": {
+    "title": "Sắp Ra Mắt",
+    "description": "Tính năng này đang được phát triển. Hãy theo dõi cập nhật!",
+    "status": "Đang Phát Triển"
+  }
+}

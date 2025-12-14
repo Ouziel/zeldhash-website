@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "ZeldHash FAQ",
+    "description": "Antwoorden over de jacht op Bitcoin-transacties met zeldzame hashpatronen."
+  },
+  "badge": "FAQ",
+  "heading": "ZeldHash FAQ",
+  "intro": "Alles wat je moet weten over de jacht op Bitcoin-transacties met zeldzame hashpatronen.",
+  "huntIsOn": "De Jacht is Begonnen.",
+  "items": {
+    "whatIsZeldHash": {
+      "q": "Wat is ZeldHash?",
+      "a": "ZeldHash is een protocol dat Bitcoin-gebruikers beloont die transacties ontdekken of creëren met zeldzame hashpatronen — specifiek hashes die beginnen met meerdere nullen. Zie het als een schattenjacht op de Bitcoin-blockchain."
+    },
+    "whyName": {
+      "q": "Waarom de naam \"ZeldHash\"?",
+      "a1": "\"Zeld\" komt van het Nederlandse woord zeldzaam. Het is een passende naam voor een protocol dat gewijd is aan het jagen op de zeldzaamste transacties op de Bitcoin-blockchain. Het \"hash\"-gedeelte verwijst naar de cryptografische vingerafdruk die elke transactie uniek maakt.",
+      "a2": "Dus ZeldHash betekent letterlijk \"Zeldzame Hash\" — precies waar we naar op jacht zijn."
+    },
+    "whatIsHash": {
+      "q": "Wat is een hash?",
+      "a1": "Een hash is als een digitale vingerafdruk. Het is een unieke identificatie gegenereerd uit elk stuk data — of het nu een afbeelding is, een document, of een Bitcoin-transactie. Elke hash is een reeks van 64 hexadecimale tekens.",
+      "a2": "Je kunt voorbeelden van hashes bekijken op <mempool>mempool.space</mempool>."
+    },
+    "bitcoinRelation": {
+      "q": "Wat heeft dit met Bitcoin te maken?",
+      "a": "Elk Bitcoin-block heeft een hash, en elke transactie in een blok heeft zijn eigen hash genaamd een transactie-ID (txid). Als je naar blok-hashes hebt gekeken, heb je misschien gemerkt dat ze beginnen met veel nullen. Dat is het resultaat van mining: miners berekenen herhaaldelijk hashes totdat ze er een vinden met genoeg leidende nullen."
+    },
+    "rareTxHash": {
+      "q": "Wat maakt een transactiehash \"zeldzaam\"?",
+      "a": "In tegenstelling tot blok-hashes zijn transactiehashes in wezen willekeurig — ze kunnen met elk karakter beginnen. Een transactiehash die begint met meerdere nullen is statistisch zeldzaam, zoals het vinden van een klavertje vier. Hoe meer leidende nullen, hoe zeldzamer de transactie."
+    },
+    "huntHow": {
+      "q": "Hoe jaag ik op zeldzame transacties?",
+      "a": "Net als miners. Je voegt willekeurige data toe aan je transactie en berekent hashes totdat je er een vindt die begint met nullen. Het kan vele pogingen kosten, maar wanneer je slaagt, heb je iets zeldzaams ontdekt."
+    },
+    "whatIsZeld": {
+      "q": "Wat is ZELD?",
+      "a": "ZELD is de token die je verdient wanneer je een Bitcoin-transactie vindt of creëert met een hash die begint met minstens 6 nullen. Hoe zeldzamer je vondst (meer nullen), hoe meer ZELD je verdient."
+    },
+    "inCirculation": {
+      "q": "Zijn er al ZELD-tokens in omloop?",
+      "a": "Ja. Sinds de lancering van Bitcoin in 2009 zijn veel transacties per toeval geëindigd met hashes die beginnen met 6+ nullen. Deze toevallige schatten zijn al te claimen. Sommige jagers creëren ze ook opzettelijk."
+    },
+    "ownWithoutKnowing": {
+      "q": "Bezitten sommige mensen ZELD zonder het te weten?",
+      "a": "Absoluut. Duizenden Bitcoin-gebruikers bezitten onbewust zeldzame transacties. Hun ZELD wacht om geclaimd te worden."
+    },
+    "centralized": {
+      "q": "Is ZeldHash gecentraliseerd? Wie heeft de controle?",
+      "a": "Niemand. ZeldHash is volledig gedecentraliseerd, net als Bitcoin. ZELD-tokens kunnen worden overgedragen zoals elk Bitcoin-asset. Er is geen centrale autoriteit."
+    },
+    "rewards": {
+      "q": "Hoe werkt het beloningssysteem?",
+      "a": "Het protocol beloont zeldzaamheid. Een transactie met 6 leidende nullen levert ZELD op, en meer nullen betekent grotere beloningen. Naarmate meer jagers meedoen, neemt de concurrentie toe — maar er is altijd iets te vinden voor degenen die blijven zoeken."
+    },
+    "startHunting": {
+      "q": "Hoe begin ik met jagen?",
+      "a": "Bezoek <site>zeldhash.com</site> en begin je zoektocht. Elke transactie is een kans om iets zeldzaams te ontdekken."
+    }
+  }
+}
