@@ -18,12 +18,12 @@ export async function CTASection() {
             {t("cta.checkBalance")}
           </Button>
           <Button
-            as="a"
-            href="https://github.com/ouziel-slama/myhashisnice/"
+            as="link"
+            href="/wallet"
             variant="secondary"
             size="lg"
           >
-            {t("cta.downloadMiner")}
+            {t("cta.startHunting")}
           </Button>
         </div>
       </div>

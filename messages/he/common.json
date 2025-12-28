@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "צאו לצוד את עסקאות הביטקוין הנדירות ביותר. מצאו מזהי עסקאות שמתחילים ב-000000... והרוויחו אסימוני ZELD. מבוזר לחלוטין, ללא הקצאה מוקדמת, ללא הון סיכון.",
   "tagline": "הציד החל",
+  "logoAlt": "לוגו ZeldHash",
   "nav": {
     "hunt": "ציד",
     "wallet": "ארנק",
     "faq": "שאלות נפוצות",
     "github": "GitHub",
-    "whitepaper": "מסמך לבן"
+    "whitepaper": "מסמך לבן",
+    "toggleMenu": "החלף תפריט ניווט",
+    "openNav": "פתח ניווט"
   },
   "footer": {
     "protocol": "פרוטוקול",
@@ -27,5 +30,12 @@
     "title": "בקרוב",
     "description": "תכונה זו נמצאת כעת בפיתוח. הישארו מעודכנים!",
     "status": "בפיתוח"
+  },
+  "wallet": {
+    "description": "ארנק ביטקוין מאובטח בדפדפן שלך. צור, נהל וחתום על עסקאות ישירות מ-ZeldHash.",
+    "subtitle": "צוד, שלח וקבל Zeld ישירות מהדפדפן שלך.",
+    "securityNote": "הצפנת AES-256-GCM • תקני BIP32/39/84/86 • מאוחסן מקומית בדפדפן שלך",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }

@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "Mangaso ng pinakabihirang transaksyon ng Bitcoin. Maghanap ng transaction ID na nagsisimula sa 000000... at kumita ng ZELD tokens. 100% desentralisado, walang premine, walang VC.",
   "tagline": "Nagsimula na ang Pangangaso",
+  "logoAlt": "Logo ng ZeldHash",
   "nav": {
     "hunt": "Mangaso",
     "wallet": "Pitaka",
     "faq": "FAQ",
     "github": "GitHub",
-    "whitepaper": "Whitepaper"
+    "whitepaper": "Whitepaper",
+    "toggleMenu": "I-toggle ang menu ng nabigasyon",
+    "openNav": "Buksan ang nabigasyon"
   },
   "footer": {
     "protocol": "Protokolo",
@@ -27,5 +30,12 @@
     "title": "Malapit Na",
     "description": "Kasalukuyang ginagawa ang feature na ito. Abangan ang mga update!",
     "status": "Ginagawa"
+  },
+  "wallet": {
+    "description": "Ligtas na Bitcoin wallet sa iyong browser. Lumikha, pamahalaan at lagdaan ang mga transaksyon direkta mula sa ZeldHash.",
+    "subtitle": "Mangaso, magpadala at tumanggap ng Zeld direkta mula sa iyong browser.",
+    "securityNote": "AES-256-GCM encryption • BIP32/39/84/86 standards • Nakaimbak nang lokal sa iyong browser",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }

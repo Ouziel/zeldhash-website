@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Begin Je Jacht",
-    "subtitle": "Controleer je bestaande saldo of download de miner om te beginnen met jagen.",
+    "subtitle": "Controleer je bestaande saldo of begin met jagen in je browser.",
     "checkBalance": "Controleer saldo",
-    "downloadMiner": "Download de miner"
+    "startHunting": "Begin met jagen"
   }
 }

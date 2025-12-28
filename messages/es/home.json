@@ -71,9 +71,9 @@
   },
   "cta": {
     "title": "Empieza tu caza",
-    "subtitle": "Consulta tu saldo actual o descarga el minero para empezar a cazar.",
+    "subtitle": "Consulta tu saldo actual o empieza a cazar en tu navegador.",
     "checkBalance": "Consultar saldo",
-    "downloadMiner": "Descargar minero"
+    "startHunting": "Empezar a cazar"
   }
 }
 

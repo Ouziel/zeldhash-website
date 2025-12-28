@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Začněte lovit",
-    "subtitle": "Zkontrolujte svůj stávající zůstatek nebo si stáhněte těžaře a začněte lovit.",
+    "subtitle": "Zkontrolujte svůj stávající zůstatek nebo začněte lovit ve svém prohlížeči.",
     "checkBalance": "Zkontrolovat zůstatek",
-    "downloadMiner": "Stáhnout těžaře"
+    "startHunting": "Začít lovit"
   }
 }

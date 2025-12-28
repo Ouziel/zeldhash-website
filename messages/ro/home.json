@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Începe vânătoarea",
-    "subtitle": "Verifică soldul tău existent sau descarcă minerul pentru a începe vânătoarea.",
+    "subtitle": "Verifică soldul tău existent sau începe să vânezi în browser.",
     "checkBalance": "Verifică soldul",
-    "downloadMiner": "Descarcă minerul"
+    "startHunting": "Începe vânătoarea"
   }
 }

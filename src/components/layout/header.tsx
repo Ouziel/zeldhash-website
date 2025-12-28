@@ -12,7 +12,6 @@ type NavLink = {
 };
 
 const NAV_LINKS: NavLink[] = [
-  { href: "/hunt", labelKey: "nav.hunt" },
   { href: "/wallet", labelKey: "nav.wallet" },
   { href: "/faq", labelKey: "nav.faq" },
 ] as const;
@@ -139,12 +138,12 @@ export function Header() {
 
       <button
         type="button"
-        aria-label="Toggle navigation menu"
+        aria-label={t("nav.toggleMenu")}
         aria-expanded={isMenuOpen}
         onClick={() => setIsMenuOpen((prev) => !prev)}
         className="md:hidden inline-flex h-10 w-10 items-center justify-center rounded-md border border-gold-400/20 text-dark-200 hover:border-gold-400/40 hover:text-gold-400 transition-colors"
       >
-        <span className="sr-only">Open navigation</span>
+        <span className="sr-only">{t("nav.openNav")}</span>
         <div className="space-y-1.5">
           <span className="block h-0.5 w-6 bg-current" />
           <span className="block h-0.5 w-6 bg-current" />

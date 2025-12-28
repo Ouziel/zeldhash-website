@@ -71,9 +71,9 @@
   },
   "cta": {
     "title": "Commencez la chasse",
-    "subtitle": "Vérifiez votre solde existant ou téléchargez le mineur pour commencer à chasser.",
+    "subtitle": "Vérifiez votre solde existant ou commencez à chasser dans votre navigateur.",
     "checkBalance": "Vérifier le solde",
-    "downloadMiner": "Télécharger le mineur"
+    "startHunting": "Commencer la chasse"
   }
 }
 

@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "開始你的狩獵",
-    "subtitle": "查詢你現有的餘額，或下載挖礦程式開始狩獵。",
+    "subtitle": "查詢你現有的餘額，或在瀏覽器中開始狩獵。",
     "checkBalance": "查詢餘額",
-    "downloadMiner": "下載挖礦程式"
+    "startHunting": "開始狩獵"
   }
 }

@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Avınıza Başlayın",
-    "subtitle": "Mevcut bakiyenizi kontrol edin veya avlanmaya başlamak için madenciyi indirin.",
+    "subtitle": "Mevcut bakiyenizi kontrol edin veya tarayıcınızda avlanmaya başlayın.",
     "checkBalance": "Bakiyeyi Kontrol Et",
-    "downloadMiner": "Madenciyi İndir"
+    "startHunting": "Avlanmaya Başla"
   }
 }

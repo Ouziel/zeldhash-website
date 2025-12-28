@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "开始你的狩猎",
-    "subtitle": "查询你现有的余额，或下载挖矿程序开始狩猎。",
+    "subtitle": "查询你现有的余额，或在浏览器中开始狩猎。",
     "checkBalance": "查询余额",
-    "downloadMiner": "下载挖矿程序"
+    "startHunting": "开始狩猎"
   }
 }

@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Starte deine Jagd",
-    "subtitle": "Prüfe dein bestehendes Guthaben oder lade den Miner herunter, um mit der Jagd zu beginnen.",
+    "subtitle": "Prüfe dein bestehendes Guthaben oder starte die Jagd in deinem Browser.",
     "checkBalance": "Guthaben prüfen",
-    "downloadMiner": "Miner herunterladen"
+    "startHunting": "Jagd starten"
   }
 }

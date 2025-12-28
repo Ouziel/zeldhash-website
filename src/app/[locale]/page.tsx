@@ -14,15 +14,15 @@ export async function generateMetadata({params}: Props) {
 
   const t = await getTranslations({locale, namespace: 'home'});
 
+  const alternateLanguages = Object.fromEntries(
+    locales.map(loc => [loc, `/${loc}`])
+  );
+
   return {
     title: t('meta.title'),
     description: t('meta.description'),
     alternates: {
-      languages: {
-        en: '/en',
-        fr: '/fr',
-        es: '/es'
-      }
+      languages: alternateLanguages
     }
   };
 }

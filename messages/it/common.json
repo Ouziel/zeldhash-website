@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "Caccia alle transazioni Bitcoin più rare. Trova ID di transazione che iniziano con 000000... e guadagna token ZELD. 100% decentralizzato, nessun premine, nessun VC.",
   "tagline": "La caccia è iniziata",
+  "logoAlt": "Logo ZeldHash",
   "nav": {
     "hunt": "Caccia",
     "wallet": "Portafoglio",
     "faq": "FAQ",
     "github": "GitHub",
-    "whitepaper": "Whitepaper"
+    "whitepaper": "Whitepaper",
+    "toggleMenu": "Attiva/disattiva menu di navigazione",
+    "openNav": "Apri navigazione"
   },
   "footer": {
     "protocol": "Protocollo",
@@ -27,5 +30,12 @@
     "title": "Prossimamente",
     "description": "Questa funzione è attualmente in fase di sviluppo. Resta aggiornato!",
     "status": "In sviluppo"
+  },
+  "wallet": {
+    "description": "Portafoglio Bitcoin sicuro nel tuo browser. Crea, gestisci e firma transazioni direttamente da ZeldHash.",
+    "subtitle": "Caccia, invia e ricevi Zeld direttamente dal tuo browser.",
+    "securityNote": "Crittografia AES-256-GCM • Standard BIP32/39/84/86 • Memorizzato localmente nel tuo browser",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }

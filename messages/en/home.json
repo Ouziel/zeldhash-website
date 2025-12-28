@@ -71,9 +71,9 @@
   },
   "cta": {
     "title": "Start Your Hunt",
-    "subtitle": "Check your existing balance or download the miner to start hunting.",
+    "subtitle": "Check your existing balance or start hunting in your browser.",
     "checkBalance": "Check Balance",
-    "downloadMiner": "Download Miner"
+    "startHunting": "Start Hunting"
   }
 }
 

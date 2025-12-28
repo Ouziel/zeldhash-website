@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Bắt đầu cuộc săn",
-    "subtitle": "Kiểm tra số dư hiện tại của bạn hoặc tải xuống trình đào để bắt đầu săn.",
+    "subtitle": "Kiểm tra số dư hiện tại của bạn hoặc bắt đầu săn trong trình duyệt.",
     "checkBalance": "Kiểm tra số dư",
-    "downloadMiner": "Tải trình đào"
+    "startHunting": "Bắt đầu săn"
   }
 }

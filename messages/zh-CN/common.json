@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "寻找最稀有的比特币交易。发现以 000000... 开头的交易 ID，赚取 ZELD 代币。100% 去中心化，无预挖，无风投。",
   "tagline": "狩猎开始了",
+  "logoAlt": "ZeldHash 标志",
   "nav": {
     "hunt": "狩猎",
     "wallet": "钱包",
     "faq": "常见问题",
     "github": "GitHub",
-    "whitepaper": "白皮书"
+    "whitepaper": "白皮书",
+    "toggleMenu": "切换导航菜单",
+    "openNav": "打开导航"
   },
   "footer": {
     "protocol": "协议",
@@ -27,5 +30,12 @@
     "title": "即将推出",
     "description": "此功能目前正在开发中。敬请期待更新！",
     "status": "开发中"
+  },
+  "wallet": {
+    "description": "浏览器中的安全比特币钱包。直接从 ZeldHash 创建、管理和签署交易。",
+    "subtitle": "直接从浏览器狩猎、发送和接收 Zeld。",
+    "securityNote": "AES-256-GCM 加密 • BIP32/39/84/86 标准 • 本地存储在您的浏览器中",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }

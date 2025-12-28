@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Simulan ang Iyong Pangangaso",
-    "subtitle": "Suriin ang iyong kasalukuyang balanse o i-download ang miner upang magsimulang mangaso.",
+    "subtitle": "Suriin ang iyong kasalukuyang balanse o magsimulang mangaso sa iyong browser.",
     "checkBalance": "Suriin ang Balanse",
-    "downloadMiner": "I-download ang Miner"
+    "startHunting": "Magsimulang Mangaso"
   }
 }

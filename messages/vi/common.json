@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "Săn lùng các giao dịch Bitcoin hiếm nhất. Tìm ID giao dịch bắt đầu bằng 000000... và nhận token ZELD. 100% phi tập trung, không premine, không VC.",
   "tagline": "Cuộc săn bắt đầu",
+  "logoAlt": "Logo ZeldHash",
   "nav": {
     "hunt": "Săn",
     "wallet": "Ví",
     "faq": "FAQ",
     "github": "GitHub",
-    "whitepaper": "Sách trắng"
+    "whitepaper": "Sách trắng",
+    "toggleMenu": "Chuyển đổi menu điều hướng",
+    "openNav": "Mở điều hướng"
   },
   "footer": {
     "protocol": "Giao thức",
@@ -27,5 +30,12 @@
     "title": "Sắp Ra Mắt",
     "description": "Tính năng này đang được phát triển. Hãy theo dõi cập nhật!",
     "status": "Đang Phát Triển"
+  },
+  "wallet": {
+    "description": "Ví Bitcoin an toàn trong trình duyệt của bạn. Tạo, quản lý và ký giao dịch trực tiếp từ ZeldHash.",
+    "subtitle": "Săn, gửi và nhận Zeld trực tiếp từ trình duyệt của bạn.",
+    "securityNote": "Mã hóa AES-256-GCM • Tiêu chuẩn BIP32/39/84/86 • Lưu trữ cục bộ trong trình duyệt của bạn",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }

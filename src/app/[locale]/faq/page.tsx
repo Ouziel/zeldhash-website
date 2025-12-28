@@ -22,15 +22,15 @@ export async function generateMetadata({params}: Props) {
 
   const t = await getTranslations({locale, namespace: 'faq'});
 
+  const alternateLanguages = Object.fromEntries(
+    locales.map(loc => [loc, `/${loc}/faq`])
+  );
+
   return {
     title: t('meta.title'),
     description: t('meta.description'),
     alternates: {
-      languages: {
-        en: '/en/faq',
-        fr: '/fr/faq',
-        es: '/es/faq'
-      }
+      languages: alternateLanguages
     }
   };
 }
@@ -133,9 +133,8 @@ export default async function FAQPage({params}: Props) {
 
   return (
     <div className="w-full">
-      <section className="w-full px-6 md:px-12 pt-16 pb-12 border-b border-gold-400/10 bg-black/30">
+      <section className="w-full px-6 md:px-12 pt-6 pb-6 border-b border-gold-400/10 bg-black/30">
         <div className="max-w-[900px] mx-auto">
-          <Badge className="mb-5">{t('badge')}</Badge>
           <h1 className="text-[clamp(40px,7vw,64px)] font-light leading-[1.1] tracking-[-1.5px] mb-4 font-serif">
             {t('heading')}
           </h1>

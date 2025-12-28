@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "Poluj na najrzadsze transakcje Bitcoin. Znajdź identyfikatory transakcji zaczynające się od 000000... i zdobądź tokeny ZELD. 100% zdecentralizowane, bez premine, bez VC.",
   "tagline": "Polowanie rozpoczęte",
+  "logoAlt": "Logo ZeldHash",
   "nav": {
     "hunt": "Polowanie",
     "wallet": "Portfel",
     "faq": "FAQ",
     "github": "GitHub",
-    "whitepaper": "Biała Księga"
+    "whitepaper": "Biała Księga",
+    "toggleMenu": "Przełącz menu nawigacji",
+    "openNav": "Otwórz nawigację"
   },
   "footer": {
     "protocol": "Protokół",
@@ -27,5 +30,12 @@
     "title": "Wkrótce",
     "description": "Ta funkcja jest obecnie w trakcie rozwoju. Śledź aktualizacje!",
     "status": "W Rozwoju"
+  },
+  "wallet": {
+    "description": "Bezpieczny portfel Bitcoin w przeglądarce. Twórz, zarządzaj i podpisuj transakcje bezpośrednio z ZeldHash.",
+    "subtitle": "Poluj, wysyłaj i odbieraj Zeld bezpośrednio z przeglądarki.",
+    "securityNote": "Szyfrowanie AES-256-GCM • Standardy BIP32/39/84/86 • Przechowywane lokalnie w przeglądarce",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }

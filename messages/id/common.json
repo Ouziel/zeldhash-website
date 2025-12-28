@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "Berburu transaksi Bitcoin paling langka. Temukan ID transaksi yang dimulai dengan 000000... dan dapatkan token ZELD. 100% terdesentralisasi, tanpa premine, tanpa VC.",
   "tagline": "Perburuan Dimulai",
+  "logoAlt": "Logo ZeldHash",
   "nav": {
     "hunt": "Berburu",
     "wallet": "Dompet",
     "faq": "FAQ",
     "github": "GitHub",
-    "whitepaper": "Whitepaper"
+    "whitepaper": "Whitepaper",
+    "toggleMenu": "Alihkan menu navigasi",
+    "openNav": "Buka navigasi"
   },
   "footer": {
     "protocol": "Protokol",
@@ -27,5 +30,12 @@
     "title": "Segera Hadir",
     "description": "Fitur ini sedang dalam pengembangan. Nantikan pembaruannya!",
     "status": "Dalam Pengembangan"
+  },
+  "wallet": {
+    "description": "Dompet Bitcoin aman di browser Anda. Buat, kelola, dan tanda tangani transaksi langsung dari ZeldHash.",
+    "subtitle": "Berburu, kirim, dan terima Zeld langsung dari browser Anda.",
+    "securityNote": "Enkripsi AES-256-GCM • Standar BIP32/39/84/86 • Disimpan secara lokal di browser Anda",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }

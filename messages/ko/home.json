@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "헌팅을 시작하세요",
-    "subtitle": "기존 잔액을 확인하거나 채굴기를 다운로드하여 헌팅을 시작하세요.",
+    "subtitle": "기존 잔액을 확인하거나 브라우저에서 헌팅을 시작하세요.",
     "checkBalance": "잔액 확인",
-    "downloadMiner": "채굴기 다운로드"
+    "startHunting": "헌팅 시작"
   }
 }

@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Mulakan Pemburuan Anda",
-    "subtitle": "Semak baki sedia ada anda atau muat turun pelombong untuk mula memburu.",
+    "subtitle": "Semak baki sedia ada anda atau mula memburu dalam pelayar anda.",
     "checkBalance": "Semak Baki",
-    "downloadMiner": "Muat Turun Pelombong"
+    "startHunting": "Mula Memburu"
   }
 }

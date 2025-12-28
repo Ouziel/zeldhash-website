@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Rozpocznij polowanie",
-    "subtitle": "Sprawdź swoje istniejące saldo lub pobierz koparkę, aby zacząć polować.",
+    "subtitle": "Sprawdź swoje istniejące saldo lub zacznij polować w przeglądarce.",
     "checkBalance": "Sprawdź saldo",
-    "downloadMiner": "Pobierz koparkę"
+    "startHunting": "Zacznij polować"
   }
 }

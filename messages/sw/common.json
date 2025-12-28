@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "Winda miamala adimu ya Bitcoin. Pata vitambulisho vya miamala vinavyoanza na 000000... na upate tokeni za ZELD. Imegatuliwa 100%, hakuna premine, hakuna VC.",
   "tagline": "Uwindaji Umeanza",
+  "logoAlt": "Nembo ya ZeldHash",
   "nav": {
     "hunt": "Winda",
     "wallet": "Pochi",
     "faq": "Maswali",
     "github": "GitHub",
-    "whitepaper": "Karatasi Nyeupe"
+    "whitepaper": "Karatasi Nyeupe",
+    "toggleMenu": "Badilisha menyu ya urambazaji",
+    "openNav": "Fungua urambazaji"
   },
   "footer": {
     "protocol": "Itifaki",
@@ -27,5 +30,12 @@
     "title": "Inakuja Hivi Karibuni",
     "description": "Kipengele hiki kiko katika maendeleo. Endelea kufuatilia!",
     "status": "Inaendelezwa"
+  },
+  "wallet": {
+    "description": "Pochi salama ya Bitcoin kwenye kivinjari chako. Unda, simamia na saini miamala moja kwa moja kutoka ZeldHash.",
+    "subtitle": "Winda, tuma na pokea Zeld moja kwa moja kutoka kivinjari chako.",
+    "securityNote": "Usimbaji wa AES-256-GCM • Viwango vya BIP32/39/84/86 • Imehifadhiwa ndani ya kivinjari chako",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }

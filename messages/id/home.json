@@ -71,8 +71,8 @@
   },
   "cta": {
     "title": "Mulai Perburuan Anda",
-    "subtitle": "Cek saldo Anda atau unduh miner untuk mulai berburu.",
+    "subtitle": "Cek saldo Anda atau mulai berburu di browser Anda.",
     "checkBalance": "Cek Saldo",
-    "downloadMiner": "Unduh Miner"
+    "startHunting": "Mulai Berburu"
   }
 }

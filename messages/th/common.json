@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "ล่าธุรกรรม Bitcoin ที่หายากที่สุด ค้นหา Transaction ID ที่ขึ้นต้นด้วย 000000... และรับโทเค็น ZELD กระจายศูนย์ 100% ไม่มีการขุดล่วงหน้า ไม่มี VC",
   "tagline": "การล่าเริ่มต้นแล้ว",
+  "logoAlt": "โลโก้ ZeldHash",
   "nav": {
     "hunt": "ล่า",
     "wallet": "กระเป๋าเงิน",
     "faq": "FAQ",
     "github": "GitHub",
-    "whitepaper": "สมุดปกขาว"
+    "whitepaper": "สมุดปกขาว",
+    "toggleMenu": "สลับเมนูนำทาง",
+    "openNav": "เปิดการนำทาง"
   },
   "footer": {
     "protocol": "โปรโตคอล",
@@ -27,5 +30,12 @@
     "title": "เร็วๆ นี้",
     "description": "ฟีเจอร์นี้กำลังอยู่ระหว่างการพัฒนา โปรดติดตามการอัปเดต!",
     "status": "กำลังพัฒนา"
+  },
+  "wallet": {
+    "description": "กระเป๋าเงิน Bitcoin ที่ปลอดภัยในเบราว์เซอร์ของคุณ สร้าง จัดการ และลงนามธุรกรรมโดยตรงจาก ZeldHash",
+    "subtitle": "ล่า ส่ง และรับ Zeld โดยตรงจากเบราว์เซอร์ของคุณ",
+    "securityNote": "การเข้ารหัส AES-256-GCM • มาตรฐาน BIP32/39/84/86 • จัดเก็บในเครื่องในเบราว์เซอร์ของคุณ",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }

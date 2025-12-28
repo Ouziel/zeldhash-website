@@ -2,12 +2,15 @@
   "siteTitle": "ZeldHash",
   "siteDescription": "Lovte nejvzácnější bitcoinové transakce. Najděte ID transakcí začínající na 000000... a získejte tokeny ZELD. 100% decentralizováno, bez předtěžby, bez VC.",
   "tagline": "Lov začíná",
+  "logoAlt": "Logo ZeldHash",
   "nav": {
     "hunt": "Lov",
     "wallet": "Peněženka",
     "faq": "FAQ",
     "github": "GitHub",
-    "whitepaper": "Bílá kniha"
+    "whitepaper": "Bílá kniha",
+    "toggleMenu": "Přepnout navigační menu",
+    "openNav": "Otevřít navigaci"
   },
   "footer": {
     "protocol": "Protokol",
@@ -27,5 +30,12 @@
     "title": "Již brzy",
     "description": "Tato funkce je momentálně ve vývoji. Sledujte novinky!",
     "status": "Ve vývoji"
+  },
+  "wallet": {
+    "description": "Bezpečná bitcoinová peněženka ve vašem prohlížeči. Vytvářejte, spravujte a podepisujte transakce přímo ze ZeldHash.",
+    "subtitle": "Lovte, posílejte a přijímejte Zeld přímo z vašeho prohlížeče.",
+    "securityNote": "Šifrování AES-256-GCM • Standardy BIP32/39/84/86 • Uloženo lokálně ve vašem prohlížeči",
+    "titlePrefix": "Zeld",
+    "titleSuffix": "Wallet"
   }
 }
