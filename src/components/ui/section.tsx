@@ -14,13 +14,13 @@ interface SectionTitleProps {
 
 export function Section({ children, className = "", id }: SectionProps) {
   return (
-    <section id={id} className={`w-full py-[100px] px-6 md:px-12 ${className}`}>
-      <div className="max-w-[1000px] mx-auto">{children}</div>
+    <section id={id} className={`w-full py-[50px] px-6 md:px-12 ${className}`}>
+      <div className="max-w-[900px] mx-auto">{children}</div>
     </section>
   );
 }
 
-export function SectionTitle({ label, title, className = "" }: SectionTitleProps) {
+export function SectionTitle({ label, title, className = "mb-8" }: SectionTitleProps) {
   return (
     <div className={className}>
       {label && (
@@ -28,7 +28,7 @@ export function SectionTitle({ label, title, className = "" }: SectionTitleProps
           {label}
         </h2>
       )}
-      <h3 className="text-[42px] font-light tracking-[-1px] mb-16 font-serif">
+      <h3 className="text-[42px] font-light tracking-[-1px] font-serif">
         {title}
       </h3>
     </div>

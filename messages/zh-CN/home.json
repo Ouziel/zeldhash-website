@@ -8,9 +8,21 @@
     "titleLine2": "最稀有的交易",
     "subtitleBeforeZeros": "某些比特币交易极其稀有——它们的 ID 以",
     "subtitleAfterZeros": "开头。找到它们，赚取 {token} 代币。",
-    "ctaBox": "⚡ 成千上万的人不知道自己拥有 ZELD。你呢？",
-    "addressPlaceholder": "输入你的比特币地址...",
-    "checkBalance": "查询余额"
+    "tagline": "100%去中心化 · 无预挖 · 无风投 · 只有数学。",
+    "cta": {
+      "hunt": {
+        "title": "开始狩猎",
+        "button": "打开钱包"
+      },
+      "explorer": {
+        "title": "查看余额",
+        "button": "探索"
+      },
+      "learn": {
+        "title": "了解更多",
+        "button": "问 ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "已发现稀有哈希",
@@ -55,11 +67,26 @@
     "oldHeader": "比特币区块挖矿",
     "newHeader": "ZELD 交易挖矿",
     "rows": [
-      ["价值 $50万–$1000万 的硬件", "你的笔记本电脑"],
-      ["巨额电费账单", "几乎为零"],
-      ["每个区块只有 1 个赢家", "人人都能赢"],
-      ["由矿池控制", "100% 去中心化"],
-      ["需要与巨头竞争", "与自己竞争"]
+      [
+        "价值 $50万–$1000万 的硬件",
+        "你的笔记本电脑"
+      ],
+      [
+        "巨额电费账单",
+        "几乎为零"
+      ],
+      [
+        "每个区块只有 1 个赢家",
+        "人人都能赢"
+      ],
+      [
+        "由矿池控制",
+        "100% 去中心化"
+      ],
+      [
+        "需要与巨头竞争",
+        "与自己竞争"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "开始你的狩猎",
-    "subtitle": "查询你现有的余额，或在浏览器中开始狩猎。",
-    "checkBalance": "查询余额",
-    "startHunting": "开始狩猎"
+    "title": "准备好狩猎了吗？",
+    "subtitle": "加入成千上万的猎人，发现比特币最稀有的交易。",
+    "startHunting": "开始狩猎",
+    "checkBalance": "探索",
+    "askZeldAI": "问 ZeldAI"
   }
 }

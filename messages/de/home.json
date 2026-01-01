@@ -8,9 +8,21 @@
     "titleLine2": "seltensten Bitcoin-Transaktionen",
     "subtitleBeforeZeros": "Manche Bitcoin-Transaktionen sind extrem selten — ihre ID beginnt mit",
     "subtitleAfterZeros": "Finde sie und verdiene {token} Token.",
-    "ctaBox": "⚡ Tausende besitzen ZELD, ohne es zu wissen. Gehörst du dazu?",
-    "addressPlaceholder": "Gib deine Bitcoin-Adresse ein...",
-    "checkBalance": "Guthaben prüfen"
+    "tagline": "100% Dezentralisiert · Kein Premine · Kein VC · Nur Mathematik.",
+    "cta": {
+      "hunt": {
+        "title": "Jagd starten",
+        "button": "Wallet öffnen"
+      },
+      "explorer": {
+        "title": "Kontostand prüfen",
+        "button": "Erkunden"
+      },
+      "learn": {
+        "title": "Mehr erfahren",
+        "button": "ZeldAI fragen"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Seltene Hashes gefunden",
@@ -55,11 +67,26 @@
     "oldHeader": "Bitcoin-Block-Mining",
     "newHeader": "ZELD-Transaktions-Mining",
     "rows": [
-      ["$500K - $10M Hardware", "Dein Laptop"],
-      ["Massive Stromrechnungen", "Fast nichts"],
-      ["1 Gewinner pro Block", "Jeder kann gewinnen"],
-      ["Kontrolliert von Mining-Pools", "100% dezentralisiert"],
-      ["Gegen Giganten antreten", "Gegen dich selbst antreten"]
+      [
+        "$500K - $10M Hardware",
+        "Dein Laptop"
+      ],
+      [
+        "Massive Stromrechnungen",
+        "Fast nichts"
+      ],
+      [
+        "1 Gewinner pro Block",
+        "Jeder kann gewinnen"
+      ],
+      [
+        "Kontrolliert von Mining-Pools",
+        "100% dezentralisiert"
+      ],
+      [
+        "Gegen Giganten antreten",
+        "Gegen dich selbst antreten"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Starte deine Jagd",
-    "subtitle": "Prüfe dein bestehendes Guthaben oder starte die Jagd in deinem Browser.",
-    "checkBalance": "Guthaben prüfen",
-    "startHunting": "Jagd starten"
+    "title": "Bereit zur Jagd?",
+    "subtitle": "Schließen Sie sich Tausenden von Jägern an, die Bitcoins seltenste Transaktionen entdecken.",
+    "startHunting": "Jagd starten",
+    "checkBalance": "Erkunden",
+    "askZeldAI": "ZeldAI fragen"
   }
 }

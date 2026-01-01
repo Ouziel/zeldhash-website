@@ -64,16 +64,25 @@ function formatTxid(txid: string) {
 }
 
 function StatCard({label, value, highlight = false}: {label: string; value: string | number; highlight?: boolean}) {
+  const valueStr = String(value);
+  // Adjust font size based on value length to prevent overflow
+  const getFontSizeClass = () => {
+    if (valueStr.length > 20) return "text-xs sm:text-sm";
+    if (valueStr.length > 15) return "text-sm sm:text-base";
+    if (valueStr.length > 10) return "text-base sm:text-lg";
+    return "text-lg";
+  };
+
   return (
     <div className={`
-      p-4 rounded-lg border
+      p-4 rounded-lg border overflow-hidden
       ${highlight 
         ? "bg-gradient-to-br from-gold-400/15 to-gold-400/5 border-gold-400/30" 
         : "bg-white/[0.02] border-white/5"
       }
     `}>
       <div className="text-xs text-dark-400 uppercase tracking-wider mb-1">{label}</div>
-      <div className={`text-lg font-mono ${highlight ? "text-gold-400" : "text-white"}`}>
+      <div className={`font-mono break-all ${getFontSizeClass()} ${highlight ? "text-gold-400" : "text-white"}`}>
         {value}
       </div>
     </div>
@@ -297,11 +306,11 @@ export default async function TransactionPage({params}: Props) {
         ) : (
           <>
             {/* UTXO Summary */}
-            <div className="mb-10 p-6 rounded-xl bg-white/[0.02] border border-white/10">
+            <div className="mb-10 p-6 rounded-xl bg-white/[0.02] border border-white/10 overflow-hidden">
               <div className="text-sm text-dark-400 uppercase tracking-wider mb-2">{t("explorer.totalUtxoBalance")}</div>
-              <div className="text-3xl md:text-4xl font-light font-mono text-gold-400">
+              <div className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-light font-mono text-gold-400 break-all">
                 {formatBalance(totalBalance / ZELD_DECIMALS, locale)}
-                <span className="text-base ml-2 text-gold-400/70">{t("explorer.tokenLabel")}</span>
+                <span className="text-sm sm:text-base ml-2 text-gold-400/70">{t("explorer.tokenLabel")}</span>
               </div>
               <div className="text-sm text-dark-400 mt-2">
                 {t("explorer.utxoCount", {count: utxos.length})}

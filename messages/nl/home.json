@@ -8,9 +8,21 @@
     "titleLine2": "Zeldzaamste Bitcoin-transacties",
     "subtitleBeforeZeros": "Sommige Bitcoin-transacties zijn extreem zeldzaam — hun ID begint met",
     "subtitleAfterZeros": "Vind ze en verdien {token}-tokens.",
-    "ctaBox": "⚡ Duizenden bezitten ZELD zonder het te weten. Jij ook?",
-    "addressPlaceholder": "Voer je Bitcoin-adres in...",
-    "checkBalance": "Controleer saldo"
+    "tagline": "100% Gedecentraliseerd · Geen premine · Geen VC · Puur wiskunde.",
+    "cta": {
+      "hunt": {
+        "title": "Start de jacht",
+        "button": "Open wallet"
+      },
+      "explorer": {
+        "title": "Controleer je saldo",
+        "button": "Verkennen"
+      },
+      "learn": {
+        "title": "Meer leren",
+        "button": "Vraag ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Zeldzame hashes gevonden",
@@ -55,11 +67,26 @@
     "oldHeader": "Bitcoin-blokmining",
     "newHeader": "ZELD-transactiemining",
     "rows": [
-      ["$500K - $10M hardware", "Je laptop"],
-      ["Enorme elektriciteitsrekeningen", "Bijna niets"],
-      ["1 winnaar per blok", "Iedereen kan winnen"],
-      ["Gecontroleerd door mining pools", "100% gedecentraliseerd"],
-      ["Concurreren met giganten", "Concurreer met jezelf"]
+      [
+        "$500K - $10M hardware",
+        "Je laptop"
+      ],
+      [
+        "Enorme elektriciteitsrekeningen",
+        "Bijna niets"
+      ],
+      [
+        "1 winnaar per blok",
+        "Iedereen kan winnen"
+      ],
+      [
+        "Gecontroleerd door mining pools",
+        "100% gedecentraliseerd"
+      ],
+      [
+        "Concurreren met giganten",
+        "Concurreer met jezelf"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Begin Je Jacht",
-    "subtitle": "Controleer je bestaande saldo of begin met jagen in je browser.",
-    "checkBalance": "Controleer saldo",
-    "startHunting": "Begin met jagen"
+    "title": "Klaar om te jagen?",
+    "subtitle": "Sluit je aan bij duizenden jagers die de zeldzaamste Bitcoin-transacties ontdekken.",
+    "startHunting": "Start de jacht",
+    "checkBalance": "Verkennen",
+    "askZeldAI": "Vraag ZeldAI"
   }
 }

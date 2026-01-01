@@ -299,8 +299,8 @@ export default async function FAQPage({params}: Props) {
         <ZeldAIHeader />
       </Suspense>
 
-      <Section className="pt-12 pb-12">
-        <SectionTitle title={t('heading')} className="mb-10" />
+      <Section className="!pt-6 !pb-12">
+        <SectionTitle title={t('heading')} className="mb-6" />
 
         <FAQTabs 
           categoryLabels={categoryLabels}

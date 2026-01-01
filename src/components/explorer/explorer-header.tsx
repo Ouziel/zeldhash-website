@@ -73,7 +73,7 @@ export function ExplorerHeader() {
   };
 
   return (
-    <section className="w-full px-6 md:px-12 pt-6 pb-10 border-b border-gold-400/10 bg-black/30">
+    <section className="w-full px-6 md:px-12 pt-6 pb-5 border-b border-gold-400/10 bg-black/30">
       <div className="max-w-[900px] mx-auto space-y-6">
         <h1 className="text-[clamp(40px,7vw,64px)] font-light leading-[1.1] tracking-[-1.5px] font-serif">
           {t("explorer.title")}

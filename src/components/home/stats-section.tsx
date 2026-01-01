@@ -31,7 +31,7 @@ export async function StatsSection() {
   ] as const;
 
   return (
-    <section className="w-full px-6 md:px-12 py-12 border-y border-gold-400/10 bg-black/30">
+    <section className="w-full px-6 md:px-12 py-6 border-y border-gold-400/10 bg-black/30">
       <div className="max-w-[1000px] mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
         {STATS.map((stat) => (
           <div key={stat.label}>

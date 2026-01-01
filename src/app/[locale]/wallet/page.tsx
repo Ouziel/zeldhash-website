@@ -37,7 +37,7 @@ export default async function WalletPage({params}: Props) {
 
   return (
     <div className="w-full">
-      <section className="w-full px-6 md:px-12 pt-6 pb-6 border-b border-gold-400/10 bg-black/30">
+      <section className="w-full px-6 md:px-12 pt-6 pb-3 border-b border-gold-400/10 bg-black/30">
         <div className="max-w-[900px] mx-auto">
           <h1 className="text-[clamp(40px,7vw,64px)] font-light leading-[1.1] tracking-[-1.5px] mb-4 font-serif">
             <span className="text-gradient-gold">{t('wallet.titlePrefix')}</span>{t('wallet.titleSuffix')}
@@ -48,7 +48,7 @@ export default async function WalletPage({params}: Props) {
         </div>
       </section>
 
-      <Section className="pt-12 pb-12">
+      <Section className="!pt-6 !pb-12">
         {/* Wallet Card */}
         <div className="max-w-[720px] mx-auto">
           <ZeldWalletWrapper key={locale} locale={locale} />

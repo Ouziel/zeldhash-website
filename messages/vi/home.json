@@ -8,9 +8,21 @@
     "titleLine2": "Bitcoin hiếm nhất",
     "subtitleBeforeZeros": "Một số giao dịch Bitcoin cực kỳ hiếm — ID của chúng bắt đầu bằng",
     "subtitleAfterZeros": "Tìm thấy chúng và nhận {token} token.",
-    "ctaBox": "⚡ Hàng nghìn người sở hữu ZELD mà không biết. Còn bạn?",
-    "addressPlaceholder": "Nhập địa chỉ Bitcoin của bạn...",
-    "checkBalance": "Kiểm tra số dư"
+    "tagline": "100% Phi tập trung · Không premine · Không VC · Chỉ toán học.",
+    "cta": {
+      "hunt": {
+        "title": "Bắt đầu săn",
+        "button": "Mở ví"
+      },
+      "explorer": {
+        "title": "Kiểm tra số dư",
+        "button": "Khám phá"
+      },
+      "learn": {
+        "title": "Tìm hiểu thêm",
+        "button": "Hỏi ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Hash hiếm đã tìm thấy",
@@ -55,11 +67,26 @@
     "oldHeader": "Đào Khối Bitcoin",
     "newHeader": "Đào Giao Dịch ZELD",
     "rows": [
-      ["Phần cứng $500K - $10M", "Laptop của bạn"],
-      ["Hóa đơn điện khổng lồ", "Gần như không có"],
-      ["1 người thắng mỗi khối", "Ai cũng có thể thắng"],
-      ["Bị kiểm soát bởi các pool đào", "100% phi tập trung"],
-      ["Cần cạnh tranh với đại gia", "Cạnh tranh với chính mình"]
+      [
+        "Phần cứng $500K - $10M",
+        "Laptop của bạn"
+      ],
+      [
+        "Hóa đơn điện khổng lồ",
+        "Gần như không có"
+      ],
+      [
+        "1 người thắng mỗi khối",
+        "Ai cũng có thể thắng"
+      ],
+      [
+        "Bị kiểm soát bởi các pool đào",
+        "100% phi tập trung"
+      ],
+      [
+        "Cần cạnh tranh với đại gia",
+        "Cạnh tranh với chính mình"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Bắt đầu cuộc săn",
-    "subtitle": "Kiểm tra số dư hiện tại của bạn hoặc bắt đầu săn trong trình duyệt.",
-    "checkBalance": "Kiểm tra số dư",
-    "startHunting": "Bắt đầu săn"
+    "title": "Sẵn sàng săn?",
+    "subtitle": "Tham gia cùng hàng nghìn thợ săn khám phá các giao dịch Bitcoin hiếm nhất.",
+    "startHunting": "Bắt đầu săn",
+    "checkBalance": "Khám phá",
+    "askZeldAI": "Hỏi ZeldAI"
   }
 }

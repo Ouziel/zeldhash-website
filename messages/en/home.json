@@ -8,9 +8,21 @@
     "titleLine2": "Rarest Transactions",
     "subtitleBeforeZeros": "Some Bitcoin transactions are extremely rare — their ID starts with",
     "subtitleAfterZeros": "Find them and earn {token} tokens.",
-    "ctaBox": "⚡ Thousands own ZELD without knowing it. Do you?",
-    "addressPlaceholder": "Enter your Bitcoin address...",
-    "checkBalance": "Check Balance"
+    "tagline": "100% Decentralized · No Premine · No VC · Just Math.",
+    "cta": {
+      "hunt": {
+        "title": "Start the Hunt",
+        "button": "Open Wallet"
+      },
+      "explorer": {
+        "title": "Check Your Balance",
+        "button": "Explore"
+      },
+      "learn": {
+        "title": "Learn More",
+        "button": "Ask ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Rare Hashes Found",
@@ -55,11 +67,26 @@
     "oldHeader": "Bitcoin Block Mining",
     "newHeader": "ZELD Transaction Mining",
     "rows": [
-      ["$500K - $10M hardware", "Your laptop"],
-      ["Massive electricity bills", "Almost nothing"],
-      ["1 winner per block", "Everyone can win"],
-      ["Controlled by mining pools", "100% decentralized"],
-      ["Need to compete with giants", "Compete with yourself"]
+      [
+        "$500K - $10M hardware",
+        "Your laptop"
+      ],
+      [
+        "Massive electricity bills",
+        "Almost nothing"
+      ],
+      [
+        "1 winner per block",
+        "Everyone can win"
+      ],
+      [
+        "Controlled by mining pools",
+        "100% decentralized"
+      ],
+      [
+        "Need to compete with giants",
+        "Compete with yourself"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Start Your Hunt",
-    "subtitle": "Check your existing balance or start hunting in your browser.",
-    "checkBalance": "Check Balance",
-    "startHunting": "Start Hunting"
+    "title": "Ready to Hunt?",
+    "subtitle": "Join thousands of hunters discovering Bitcoin's rarest transactions.",
+    "startHunting": "Start Hunting",
+    "checkBalance": "Explore",
+    "askZeldAI": "Ask ZeldAI"
   }
 }

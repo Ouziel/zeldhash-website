@@ -52,16 +52,25 @@ function formatTxid(txid: string, zeroCount: number) {
 }
 
 function StatCard({label, value, highlight = false}: {label: string; value: string | number; highlight?: boolean}) {
+  const valueStr = String(value);
+  // Adjust font size based on value length to prevent overflow
+  const getFontSizeClass = () => {
+    if (valueStr.length > 20) return "text-xs sm:text-sm";
+    if (valueStr.length > 15) return "text-sm sm:text-base";
+    if (valueStr.length > 10) return "text-base sm:text-lg";
+    return "text-lg";
+  };
+
   return (
     <div className={`
-      p-4 rounded-lg border
+      p-4 rounded-lg border overflow-hidden
       ${highlight 
         ? "bg-gradient-to-br from-gold-400/15 to-gold-400/5 border-gold-400/30" 
         : "bg-white/[0.02] border-white/5"
       }
     `}>
       <div className="text-xs text-dark-400 uppercase tracking-wider mb-1">{label}</div>
-      <div className={`text-lg font-mono ${highlight ? "text-gold-400" : "text-white"}`}>
+      <div className={`font-mono break-all ${getFontSizeClass()} ${highlight ? "text-gold-400" : "text-white"}`}>
         {value}
       </div>
     </div>

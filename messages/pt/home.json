@@ -8,9 +8,21 @@
     "titleLine2": "transações mais raras de Bitcoin",
     "subtitleBeforeZeros": "Algumas transações de Bitcoin são extremamente raras — o seu ID começa com",
     "subtitleAfterZeros": "Encontre-as e ganhe tokens {token}.",
-    "ctaBox": "⚡ Milhares possuem ZELD sem saber. E você?",
-    "addressPlaceholder": "Introduza o seu endereço Bitcoin...",
-    "checkBalance": "Verificar saldo"
+    "tagline": "100% Descentralizado · Sem premine · Sem VC · Apenas matemática.",
+    "cta": {
+      "hunt": {
+        "title": "Iniciar a caça",
+        "button": "Abrir carteira"
+      },
+      "explorer": {
+        "title": "Verificar seu saldo",
+        "button": "Explorar"
+      },
+      "learn": {
+        "title": "Saiba mais",
+        "button": "Perguntar ao ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Hashes raros encontrados",
@@ -55,11 +67,26 @@
     "oldHeader": "Mineração de blocos de Bitcoin",
     "newHeader": "Mineração de transações ZELD",
     "rows": [
-      ["$500K - $10M em hardware", "O seu portátil"],
-      ["Contas de eletricidade enormes", "Quase nada"],
-      ["1 vencedor por bloco", "Todos podem ganhar"],
-      ["Controlado por pools de mineração", "100% descentralizado"],
-      ["Competir contra gigantes", "Compita consigo mesmo"]
+      [
+        "$500K - $10M em hardware",
+        "O seu portátil"
+      ],
+      [
+        "Contas de eletricidade enormes",
+        "Quase nada"
+      ],
+      [
+        "1 vencedor por bloco",
+        "Todos podem ganhar"
+      ],
+      [
+        "Controlado por pools de mineração",
+        "100% descentralizado"
+      ],
+      [
+        "Competir contra gigantes",
+        "Compita consigo mesmo"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Comece a sua caça",
-    "subtitle": "Verifique o seu saldo atual ou comece a caçar no seu navegador.",
-    "checkBalance": "Verificar saldo",
-    "startHunting": "Começar a caçar"
+    "title": "Pronto para caçar?",
+    "subtitle": "Junte-se a milhares de caçadores descobrindo as transações Bitcoin mais raras.",
+    "startHunting": "Iniciar a caça",
+    "checkBalance": "Explorar",
+    "askZeldAI": "Perguntar ao ZeldAI"
   }
 }

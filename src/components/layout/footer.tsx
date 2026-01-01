@@ -24,11 +24,11 @@ export async function Footer() {
   const renderIcon = (icon?: FooterLink["icon"]) => {
     switch (icon) {
       case "wallet":
-        return <WalletIcon className="w-4 h-4" />;
+        return <WalletIcon className="w-4 h-4 text-gold-400" />;
       case "explorer":
-        return <ExplorerIcon className="w-4 h-4" />;
+        return <ExplorerIcon className="w-4 h-4 text-gold-400" />;
       case "zeldai":
-        return <ZeldAIIcon className="w-4 h-4" />;
+        return <ZeldAIIcon className="w-4 h-4 text-gold-400" />;
       case "pdf":
         return <PdfIcon className="w-5 h-5" />;
       case "github":

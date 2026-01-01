@@ -169,11 +169,11 @@ export default async function AddressPage({params}: Props) {
           </h2>
         </div>
 
-        <div className="mb-10 p-6 rounded-xl bg-gradient-to-br from-gold-400/10 to-gold-400/5 border border-gold-400/30">
+        <div className="mb-10 p-6 rounded-xl bg-gradient-to-br from-gold-400/10 to-gold-400/5 border border-gold-400/30 overflow-hidden">
           <div className="text-sm text-dark-400 uppercase tracking-wider mb-2">{t("explorer.totalBalance")}</div>
-          <div className="text-3xl md:text-4xl font-light font-mono text-gold-400">
+          <div className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-light font-mono text-gold-400 break-all">
             {formatBalance(totalBalance / ZELD_DECIMALS, locale)}
-            <span className="text-base ml-2 text-gold-400/70">{t("explorer.tokenLabel")}</span>
+            <span className="text-sm sm:text-base ml-2 text-gold-400/70">{t("explorer.tokenLabel")}</span>
           </div>
           <div className="text-sm text-dark-400 mt-2">
             {t("explorer.utxoCount", {count: utxos.length})}

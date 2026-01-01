@@ -8,9 +8,21 @@
     "titleLine2": "Adimu ya Bitcoin",
     "subtitleBeforeZeros": "Baadhi ya miamala ya Bitcoin ni adimu sana — kitambulisho chake kinaanza na",
     "subtitleAfterZeros": "Ipate na upokee tokeni za {token}.",
-    "ctaBox": "⚡ Maelfu wanamiliki ZELD bila kujua. Je, wewe?",
-    "addressPlaceholder": "Ingiza anwani yako ya Bitcoin...",
-    "checkBalance": "Angalia Salio"
+    "tagline": "100% Kutokuwa na Serikali Kuu · Hakuna Premine · Hakuna VC · Hisabati tu.",
+    "cta": {
+      "hunt": {
+        "title": "Anza uwindaji",
+        "button": "Fungua pochi"
+      },
+      "explorer": {
+        "title": "Angalia salio lako",
+        "button": "Chunguza"
+      },
+      "learn": {
+        "title": "Jifunze zaidi",
+        "button": "Uliza ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Hashi adimu zilizopatikana",
@@ -55,11 +67,26 @@
     "oldHeader": "Uchimbaji wa Bloku za Bitcoin",
     "newHeader": "Uchimbaji wa Miamala ya ZELD",
     "rows": [
-      ["Vifaa vya $500K - $10M", "Kompyuta yako ya mkononi"],
-      ["Bili kubwa za umeme", "Karibu hakuna"],
-      ["Mshindi 1 kwa kila bloku", "Kila mtu anaweza kushinda"],
-      ["Inadhibitiwa na vikundi vya uchimbaji", "100% imegatuliwa"],
-      ["Lazima ushindane na majitu", "Shindana na wewe mwenyewe"]
+      [
+        "Vifaa vya $500K - $10M",
+        "Kompyuta yako ya mkononi"
+      ],
+      [
+        "Bili kubwa za umeme",
+        "Karibu hakuna"
+      ],
+      [
+        "Mshindi 1 kwa kila bloku",
+        "Kila mtu anaweza kushinda"
+      ],
+      [
+        "Inadhibitiwa na vikundi vya uchimbaji",
+        "100% imegatuliwa"
+      ],
+      [
+        "Lazima ushindane na majitu",
+        "Shindana na wewe mwenyewe"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Anza Uwindaji Wako",
-    "subtitle": "Angalia salio lako lililopo au anza kuwinda kwenye kivinjari chako.",
-    "checkBalance": "Angalia Salio",
-    "startHunting": "Anza Kuwinda"
+    "title": "Uko tayari kuwinda?",
+    "subtitle": "Jiunge na maelfu ya wawindaji wanaogundua miamala adimu ya Bitcoin.",
+    "startHunting": "Anza uwindaji",
+    "checkBalance": "Chunguza",
+    "askZeldAI": "Uliza ZeldAI"
   }
 }

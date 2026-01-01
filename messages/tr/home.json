@@ -8,9 +8,21 @@
     "titleLine2": "İşlemlerini Avlayın",
     "subtitleBeforeZeros": "Bazı Bitcoin işlemleri son derece nadirdir — kimlikleri şununla başlar:",
     "subtitleAfterZeros": "Onları bulun ve {token} token kazanın.",
-    "ctaBox": "⚡ Binlerce kişi farkında olmadan ZELD sahibi. Ya siz?",
-    "addressPlaceholder": "Bitcoin adresinizi girin...",
-    "checkBalance": "Bakiyeyi Kontrol Et"
+    "tagline": "100% Merkeziyetsiz · Ön madencilik yok · VC yok · Sadece matematik.",
+    "cta": {
+      "hunt": {
+        "title": "Avı başlat",
+        "button": "Cüzdanı aç"
+      },
+      "explorer": {
+        "title": "Bakiyeni kontrol et",
+        "button": "Keşfet"
+      },
+      "learn": {
+        "title": "Daha fazla öğren",
+        "button": "ZeldAI'ya sor"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Bulunan Nadir Hash Sayısı",
@@ -55,11 +67,26 @@
     "oldHeader": "Bitcoin Blok Madenciliği",
     "newHeader": "ZELD İşlem Madenciliği",
     "rows": [
-      ["$500K - $10M donanım", "Dizüstü bilgisayarınız"],
-      ["Devasa elektrik faturaları", "Neredeyse hiçbir şey"],
-      ["Blok başına 1 kazanan", "Herkes kazanabilir"],
-      ["Madencilik havuzları kontrolünde", "%100 merkeziyetsiz"],
-      ["Devlerle rekabet gerekli", "Kendinizle rekabet edin"]
+      [
+        "$500K - $10M donanım",
+        "Dizüstü bilgisayarınız"
+      ],
+      [
+        "Devasa elektrik faturaları",
+        "Neredeyse hiçbir şey"
+      ],
+      [
+        "Blok başına 1 kazanan",
+        "Herkes kazanabilir"
+      ],
+      [
+        "Madencilik havuzları kontrolünde",
+        "%100 merkeziyetsiz"
+      ],
+      [
+        "Devlerle rekabet gerekli",
+        "Kendinizle rekabet edin"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Avınıza Başlayın",
-    "subtitle": "Mevcut bakiyenizi kontrol edin veya tarayıcınızda avlanmaya başlayın.",
-    "checkBalance": "Bakiyeyi Kontrol Et",
-    "startHunting": "Avlanmaya Başla"
+    "title": "Ava hazır mısın?",
+    "subtitle": "Bitcoin'in en nadir işlemlerini keşfeden binlerce avcıya katılın.",
+    "startHunting": "Avı başlat",
+    "checkBalance": "Keşfet",
+    "askZeldAI": "ZeldAI'ya sor"
   }
 }

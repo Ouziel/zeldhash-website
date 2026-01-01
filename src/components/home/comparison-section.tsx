@@ -7,7 +7,7 @@ export async function ComparisonSection() {
   const rows = t.raw("comparison.rows") as ComparisonRow[];
 
   return (
-    <section className="w-full py-[100px] px-6 md:px-12 bg-gradient-to-b from-gold-400/20 via-gold-400/10 to-transparent">
+    <section className="w-full py-[50px] px-6 md:px-12 bg-gradient-to-b from-gold-400/20 via-gold-400/10 to-transparent">
       <div className="max-w-[900px] mx-auto">
         <h2 className="text-sm uppercase tracking-[3px] text-gold-400 mb-4">
           {t("comparison.label")}

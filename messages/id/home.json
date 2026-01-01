@@ -8,9 +8,21 @@
     "titleLine2": "Bitcoin Paling Langka",
     "subtitleBeforeZeros": "Beberapa transaksi Bitcoin sangat langka — ID-nya dimulai dengan",
     "subtitleAfterZeros": "Temukan dan dapatkan token {token}.",
-    "ctaBox": "⚡ Ribuan orang memiliki ZELD tanpa menyadarinya. Termasuk Anda?",
-    "addressPlaceholder": "Masukkan alamat Bitcoin Anda...",
-    "checkBalance": "Cek Saldo"
+    "tagline": "100% Terdesentralisasi · Tanpa Premine · Tanpa VC · Hanya matematika.",
+    "cta": {
+      "hunt": {
+        "title": "Mulai berburu",
+        "button": "Buka dompet"
+      },
+      "explorer": {
+        "title": "Cek saldo Anda",
+        "button": "Jelajahi"
+      },
+      "learn": {
+        "title": "Pelajari lebih lanjut",
+        "button": "Tanya ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Hash Langka Ditemukan",
@@ -55,11 +67,26 @@
     "oldHeader": "Penambangan Blok Bitcoin",
     "newHeader": "Penambangan Transaksi ZELD",
     "rows": [
-      ["Perangkat keras $500K - $10M", "Laptop Anda"],
-      ["Tagihan listrik besar", "Hampir tidak ada"],
-      ["1 pemenang per blok", "Semua orang bisa menang"],
-      ["Dikendalikan oleh pool penambang", "100% terdesentralisasi"],
-      ["Harus bersaing dengan raksasa", "Bersaing dengan diri sendiri"]
+      [
+        "Perangkat keras $500K - $10M",
+        "Laptop Anda"
+      ],
+      [
+        "Tagihan listrik besar",
+        "Hampir tidak ada"
+      ],
+      [
+        "1 pemenang per blok",
+        "Semua orang bisa menang"
+      ],
+      [
+        "Dikendalikan oleh pool penambang",
+        "100% terdesentralisasi"
+      ],
+      [
+        "Harus bersaing dengan raksasa",
+        "Bersaing dengan diri sendiri"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Mulai Perburuan Anda",
-    "subtitle": "Cek saldo Anda atau mulai berburu di browser Anda.",
-    "checkBalance": "Cek Saldo",
-    "startHunting": "Mulai Berburu"
+    "title": "Siap berburu?",
+    "subtitle": "Bergabunglah dengan ribuan pemburu yang menemukan transaksi Bitcoin paling langka.",
+    "startHunting": "Mulai berburu",
+    "checkBalance": "Jelajahi",
+    "askZeldAI": "Tanya ZeldAI"
   }
 }

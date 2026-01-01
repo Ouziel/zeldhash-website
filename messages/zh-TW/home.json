@@ -8,9 +8,21 @@
     "titleLine2": "最稀有的交易",
     "subtitleBeforeZeros": "有些比特幣交易極其稀有——它們的 ID 以",
     "subtitleAfterZeros": "開頭。找到它們，賺取 {token} 代幣。",
-    "ctaBox": "⚡ 數千人在不知情的情況下擁有 ZELD。你也有嗎？",
-    "addressPlaceholder": "輸入你的比特幣地址...",
-    "checkBalance": "查詢餘額"
+    "tagline": "100%去中心化 · 無預挖 · 無風投 · 只有數學。",
+    "cta": {
+      "hunt": {
+        "title": "開始狩獵",
+        "button": "打開錢包"
+      },
+      "explorer": {
+        "title": "查看餘額",
+        "button": "探索"
+      },
+      "learn": {
+        "title": "了解更多",
+        "button": "問 ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "已發現的稀有雜湊",
@@ -55,11 +67,26 @@
     "oldHeader": "比特幣區塊挖礦",
     "newHeader": "ZELD 交易挖礦",
     "rows": [
-      ["價值 $50萬–$1000萬 的硬體", "你的筆記型電腦"],
-      ["龐大的電費帳單", "幾乎為零"],
-      ["每個區塊只有 1 個贏家", "人人都能贏"],
-      ["由礦池控制", "100% 去中心化"],
-      ["需要與巨頭競爭", "與自己競爭"]
+      [
+        "價值 $50萬–$1000萬 的硬體",
+        "你的筆記型電腦"
+      ],
+      [
+        "龐大的電費帳單",
+        "幾乎為零"
+      ],
+      [
+        "每個區塊只有 1 個贏家",
+        "人人都能贏"
+      ],
+      [
+        "由礦池控制",
+        "100% 去中心化"
+      ],
+      [
+        "需要與巨頭競爭",
+        "與自己競爭"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "開始你的狩獵",
-    "subtitle": "查詢你現有的餘額，或在瀏覽器中開始狩獵。",
-    "checkBalance": "查詢餘額",
-    "startHunting": "開始狩獵"
+    "title": "準備好狩獵了嗎？",
+    "subtitle": "加入成千上萬的獵人，發現比特幣最稀有的交易。",
+    "startHunting": "開始狩獵",
+    "checkBalance": "探索",
+    "askZeldAI": "問 ZeldAI"
   }
 }

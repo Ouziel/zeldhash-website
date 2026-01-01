@@ -14,7 +14,7 @@ export async function HowItWorksSection() {
 
   return (
     <Section id="hunt">
-      <SectionTitle label={t("howItWorks.label")} title={t("howItWorks.title")} />
+      <SectionTitle label={t("howItWorks.label")} title={t("howItWorks.title")} className="mb-12" />
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
         {steps.map((step) => (

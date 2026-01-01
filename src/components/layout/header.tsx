@@ -19,13 +19,14 @@ const NAV_LINKS: NavLink[] = [
 ] as const;
 
 const NavIcon = ({ icon, className = "w-4 h-4" }: { icon: NavLink["icon"]; className?: string }) => {
+  const goldClass = `${className} text-gold-400`;
   switch (icon) {
     case "wallet":
-      return <WalletIcon className={className} />;
+      return <WalletIcon className={goldClass} />;
     case "explorer":
-      return <ExplorerIcon className={className} />;
+      return <ExplorerIcon className={goldClass} />;
     case "zeldai":
-      return <ZeldAIIcon className={className} />;
+      return <ZeldAIIcon className={goldClass} />;
   }
 };
 
@@ -57,15 +58,15 @@ export function Header() {
   }
 
   return (
-    <header className="relative px-6 md:px-12 py-6 flex justify-between items-center border-b border-gold-400/10">
+    <header className="relative px-6 lg:px-12 py-6 flex justify-between items-center border-b border-gold-400/10">
       <div className="flex items-center gap-3">
         <Logo />
-        <span className="text-gold-400 text-2xl md:text-[28px] font-display tracking-tight">
+        <span className="text-gold-400 text-2xl lg:text-[28px] font-display tracking-tight">
           {t("tagline")}
         </span>
       </div>
 
-      <div className="hidden md:flex items-center gap-6">
+      <div className="hidden lg:flex items-center gap-6">
         <nav className="flex gap-8 text-sm uppercase tracking-[1px] items-center">
           {NAV_LINKS.map((link) => (
             <Link key={link.href} href={link.href} className="text-dark-200 hover:text-gold-400 transition-colors flex items-center gap-1.5">
@@ -155,7 +156,7 @@ export function Header() {
         aria-label={t("nav.toggleMenu")}
         aria-expanded={isMenuOpen}
         onClick={() => setIsMenuOpen((prev) => !prev)}
-        className="md:hidden inline-flex h-10 w-10 items-center justify-center rounded-md border border-gold-400/20 text-dark-200 hover:border-gold-400/40 hover:text-gold-400 transition-colors"
+        className="lg:hidden inline-flex h-10 w-10 items-center justify-center rounded-md border border-gold-400/20 text-dark-200 hover:border-gold-400/40 hover:text-gold-400 transition-colors"
       >
         <span className="sr-only">{t("nav.openNav")}</span>
         <div className="space-y-1.5">
@@ -166,7 +167,7 @@ export function Header() {
       </button>
 
       {isMenuOpen ? (
-        <div className="absolute end-6 top-[72px] z-20 w-56 rounded-lg border border-gold-400/15 bg-dark-900/95 backdrop-blur shadow-lg md:hidden">
+        <div className="absolute end-6 top-[72px] z-20 w-56 rounded-lg border border-gold-400/15 bg-dark-900/95 backdrop-blur shadow-lg lg:hidden">
           <nav className="flex flex-col divide-y divide-gold-400/10 text-sm uppercase tracking-[1px]">
             {NAV_LINKS.map((link) => (
               <Link

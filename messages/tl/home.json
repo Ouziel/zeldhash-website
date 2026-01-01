@@ -8,9 +8,21 @@
     "titleLine2": "Pinakabihirang Transaksyon ng Bitcoin",
     "subtitleBeforeZeros": "May mga transaksyon ng Bitcoin na napakabihira — ang kanilang ID ay nagsisimula sa",
     "subtitleAfterZeros": "Hanapin sila at kumita ng {token} tokens.",
-    "ctaBox": "⚡ Libu-libo ang may ZELD nang hindi nila alam. Ikaw ba?",
-    "addressPlaceholder": "Ilagay ang iyong Bitcoin address...",
-    "checkBalance": "Suriin ang Balanse"
+    "tagline": "100% Desentralisado · Walang Premine · Walang VC · Matematika lang.",
+    "cta": {
+      "hunt": {
+        "title": "Simulan ang pangangaso",
+        "button": "Buksan ang wallet"
+      },
+      "explorer": {
+        "title": "Tingnan ang balanse",
+        "button": "I-explore"
+      },
+      "learn": {
+        "title": "Matuto pa",
+        "button": "Magtanong sa ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Mga Bihirang Hash na Nahanap",
@@ -55,11 +67,26 @@
     "oldHeader": "Pagmimina ng Bitcoin Blocks",
     "newHeader": "Pagmimina ng ZELD Transactions",
     "rows": [
-      ["$500K - $10M na hardware", "Ang iyong laptop"],
-      ["Napakalaking singil sa kuryente", "Halos wala"],
-      ["1 panalo bawat block", "Lahat ay pwedeng manalo"],
-      ["Kontrolado ng mga mining pool", "100% desentralisado"],
-      ["Kailangang makipagkumpitensya sa mga higante", "Makipagkumpitensya sa sarili mo"]
+      [
+        "$500K - $10M na hardware",
+        "Ang iyong laptop"
+      ],
+      [
+        "Napakalaking singil sa kuryente",
+        "Halos wala"
+      ],
+      [
+        "1 panalo bawat block",
+        "Lahat ay pwedeng manalo"
+      ],
+      [
+        "Kontrolado ng mga mining pool",
+        "100% desentralisado"
+      ],
+      [
+        "Kailangang makipagkumpitensya sa mga higante",
+        "Makipagkumpitensya sa sarili mo"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Simulan ang Iyong Pangangaso",
-    "subtitle": "Suriin ang iyong kasalukuyang balanse o magsimulang mangaso sa iyong browser.",
-    "checkBalance": "Suriin ang Balanse",
-    "startHunting": "Magsimulang Mangaso"
+    "title": "Handa nang mangaso?",
+    "subtitle": "Sumali sa libu-libong mangangaso na nagdidiskubre ng pinakabihirang Bitcoin transactions.",
+    "startHunting": "Simulan ang pangangaso",
+    "checkBalance": "I-explore",
+    "askZeldAI": "Magtanong sa ZeldAI"
   }
 }

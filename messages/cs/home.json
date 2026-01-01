@@ -8,9 +8,21 @@
     "titleLine2": "bitcoinové transakce",
     "subtitleBeforeZeros": "Některé bitcoinové transakce jsou extrémně vzácné — jejich ID začíná na",
     "subtitleAfterZeros": "Najděte je a získejte tokeny {token}.",
-    "ctaBox": "⚡ Tisíce lidí vlastní ZELD, aniž by to věděli. Patříte mezi ně?",
-    "addressPlaceholder": "Zadejte svou bitcoinovou adresu...",
-    "checkBalance": "Zkontrolovat zůstatek"
+    "tagline": "100% Decentralizovaný · Bez premine · Bez VC · Jen matematika.",
+    "cta": {
+      "hunt": {
+        "title": "Zahájit lov",
+        "button": "Otevřít peněženku"
+      },
+      "explorer": {
+        "title": "Zkontrolovat zůstatek",
+        "button": "Prozkoumat"
+      },
+      "learn": {
+        "title": "Zjistit více",
+        "button": "Zeptat se ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Nalezeno vzácných hashů",
@@ -55,11 +67,26 @@
     "oldHeader": "Těžba bitcoinových bloků",
     "newHeader": "Těžba transakcí ZELD",
     "rows": [
-      ["Hardware za $500K - $10M", "Váš notebook"],
-      ["Obrovské účty za elektřinu", "Téměř nic"],
-      ["1 vítěz na blok", "Vyhrát může každý"],
-      ["Ovládáno těžebními pooly", "100% decentralizováno"],
-      ["Musíte soutěžit s giganty", "Soutěžíte sami se sebou"]
+      [
+        "Hardware za $500K - $10M",
+        "Váš notebook"
+      ],
+      [
+        "Obrovské účty za elektřinu",
+        "Téměř nic"
+      ],
+      [
+        "1 vítěz na blok",
+        "Vyhrát může každý"
+      ],
+      [
+        "Ovládáno těžebními pooly",
+        "100% decentralizováno"
+      ],
+      [
+        "Musíte soutěžit s giganty",
+        "Soutěžíte sami se sebou"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Začněte lovit",
-    "subtitle": "Zkontrolujte svůj stávající zůstatek nebo začněte lovit ve svém prohlížeči.",
-    "checkBalance": "Zkontrolovat zůstatek",
-    "startHunting": "Začít lovit"
+    "title": "Připraveni na lov?",
+    "subtitle": "Připojte se k tisícům lovců objevujících nejvzácnější Bitcoin transakce.",
+    "startHunting": "Zahájit lov",
+    "checkBalance": "Prozkoumat",
+    "askZeldAI": "Zeptat se ZeldAI"
   }
 }

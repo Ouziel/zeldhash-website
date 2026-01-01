@@ -115,7 +115,7 @@ export async function HallOfFameSection() {
 
   return (
     <Section className="bg-black/25">
-      <SectionTitle label={t("hallOfFame.label")} title={t("hallOfFame.title")} />
+      <SectionTitle label={t("hallOfFame.label")} title={t("hallOfFame.title")} className="mb-12" />
       <RewardsList rewards={rewards} t={t} locale={locale} />
     </Section>
   );

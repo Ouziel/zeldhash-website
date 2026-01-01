@@ -8,9 +8,21 @@
     "titleLine2": "rare tranzacții Bitcoin",
     "subtitleBeforeZeros": "Unele tranzacții Bitcoin sunt extrem de rare — ID-ul lor începe cu",
     "subtitleAfterZeros": "Găsiți-le și câștigați tokeni {token}.",
-    "ctaBox": "⚡ Mii de oameni dețin ZELD fără să știe. Și dvs.?",
-    "addressPlaceholder": "Introduceți adresa dvs. Bitcoin...",
-    "checkBalance": "Verificați soldul"
+    "tagline": "100% Descentralizat · Fără premine · Fără VC · Doar matematică.",
+    "cta": {
+      "hunt": {
+        "title": "Începe vânătoarea",
+        "button": "Deschide portofelul"
+      },
+      "explorer": {
+        "title": "Verifică soldul",
+        "button": "Explorează"
+      },
+      "learn": {
+        "title": "Află mai multe",
+        "button": "Întreabă ZeldAI"
+      }
+    }
   },
   "stats": {
     "rareHashesFound": "Hash-uri rare găsite",
@@ -55,11 +67,26 @@
     "oldHeader": "Minat de blocuri Bitcoin",
     "newHeader": "Minat de tranzacții ZELD",
     "rows": [
-      ["Hardware de $500K - $10M", "Laptopul dvs."],
-      ["Facturi uriașe la electricitate", "Aproape nimic"],
-      ["1 câștigător per bloc", "Toată lumea poate câștiga"],
-      ["Controlat de pool-uri de minare", "100% descentralizat"],
-      ["Trebuie să concurați cu giganții", "Concurați cu dvs. înșivă"]
+      [
+        "Hardware de $500K - $10M",
+        "Laptopul dvs."
+      ],
+      [
+        "Facturi uriașe la electricitate",
+        "Aproape nimic"
+      ],
+      [
+        "1 câștigător per bloc",
+        "Toată lumea poate câștiga"
+      ],
+      [
+        "Controlat de pool-uri de minare",
+        "100% descentralizat"
+      ],
+      [
+        "Trebuie să concurați cu giganții",
+        "Concurați cu dvs. înșivă"
+      ]
     ]
   },
   "hallOfFame": {
@@ -70,9 +97,10 @@
     "tokenLabel": "ZELD"
   },
   "cta": {
-    "title": "Începeți vânătoarea",
-    "subtitle": "Verificați soldul dvs. existent sau începeți să vânați în browser.",
-    "checkBalance": "Verificați soldul",
-    "startHunting": "Începeți vânătoarea"
+    "title": "Gata de vânătoare?",
+    "subtitle": "Alătură-te miilor de vânători care descoperă cele mai rare tranzacții Bitcoin.",
+    "startHunting": "Începe vânătoarea",
+    "checkBalance": "Explorează",
+    "askZeldAI": "Întreabă ZeldAI"
   }
 }

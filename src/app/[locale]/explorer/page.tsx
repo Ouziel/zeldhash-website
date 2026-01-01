@@ -194,8 +194,8 @@ export default async function ExplorerPage({params, searchParams}: Props) {
         <ExplorerHeader />
       </Suspense>
 
-      <Section className="pt-12 pb-12">
-        <SectionTitle title={t("explorer.latestRewards")} className="mb-10" />
+      <Section className="!pt-6 !pb-12">
+        <SectionTitle title={t("explorer.latestRewards")} className="mb-6" />
 
         {fetchError ? (
           <div className="p-6 rounded-lg border border-red-400/20 bg-red-500/5 text-red-200">
