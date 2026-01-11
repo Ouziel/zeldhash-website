@@ -6,7 +6,7 @@ import {Link, locales, type Locale} from "@/lib/i18n/routing";
 import {notFound} from "next/navigation";
 import {getTranslations} from "next-intl/server";
 
-export const revalidate = 300;
+export const revalidate = 10;
 
 type Props = {
   params: Promise<{locale: string}>;

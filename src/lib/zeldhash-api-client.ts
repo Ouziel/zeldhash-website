@@ -211,7 +211,7 @@ export async function fetchLatestRewards(
   if (sort) url.searchParams.set("sort", sort);
 
   const response = await fetch(url.toString(), {
-    next: {revalidate: 300},
+    next: {revalidate: 10},
     headers: {
       Accept: "application/json",
     },
