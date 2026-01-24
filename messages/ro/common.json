@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Carte Albă",
     "toggleMenu": "Comută meniul de navigare",
-    "openNav": "Deschide meniul"
+    "openNav": "Deschide meniul",
+    "legacyWallet": "Portofel Vechi"
   },
   "footer": {
     "protocol": "Protocol",
@@ -42,7 +43,19 @@
       "title": "Ai nevoie de ajutor?",
       "subtitle": "Întreabă ZeldAI orice despre portofel sau ZeldHash",
       "askButton": "Întreabă ZeldAI"
-    }
+    },
+    "newSubtitle": "Alege-ți calea pentru a vâna ZELD — cele mai rare tranzacții Bitcoin.",
+    "horizon": {
+      "title": "Mintează pe Horizon Market",
+      "description": "Mintează ZELD direct din browser pe Horizon Market. Tranzacționează NFT-uri Bitcoin, tokenuri Counterparty și vânează tranzacții rare — totul într-un singur loc.",
+      "cta": "Începe vânătoarea pe Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Construiește-ți propriul minter",
+      "description": "Preia controlul total cu SDK-ul open-source zeldhash-miner. Creează soluții de mining personalizate cu Rust, TypeScript, accelerare WebGPU și multe altele.",
+      "cta": "Vezi pe GitHub"
+    },
+    "legacyWalletLink": "Cauți portofelul vechi?"
   },
   "explorer": {
     "title": "Explorer ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "Nu se pot încărca datele tranzacției. Încearcă din nou.",
     "voutShort": "#",
     "output": "Ieșire"
+  },
+  "legacyWallet": {
+    "metaTitle": "Portofel Vechi",
+    "metaDescription": "Portofelul ZeldHash original. Acest portofel nu mai este întreținut — folosește Horizon Market pentru a mina ZELD.",
+    "titlePrefix": "Portofel",
+    "titleSuffix": " Vechi",
+    "subtitle": "Acesta este portofelul ZeldHash original. Folosește funcția sweep pentru a transfera ZELD și BTC pe Horizon Market.",
+    "bannerTitle": "Depreciat",
+    "bannerMessage": "Acest portofel nu mai este întreținut. Folosește funcția sweep pentru a transfera fondurile pe Horizon Market.",
+    "goToHorizon": "Mergi la Horizon Market"
   }
 }

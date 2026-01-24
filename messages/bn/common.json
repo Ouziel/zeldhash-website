@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "শ্বেতপত্র",
     "toggleMenu": "নেভিগেশন মেনু টগল করুন",
-    "openNav": "নেভিগেশন খুলুন"
+    "openNav": "নেভিগেশন খুলুন",
+    "legacyWallet": "পুরাতন ওয়ালেট"
   },
   "footer": {
     "protocol": "প্রোটোকল",
@@ -42,7 +43,19 @@
       "title": "সাহায্য দরকার?",
       "subtitle": "ওয়ালেট বা ZeldHash সম্পর্কে ZeldAI-কে যেকোনো কিছু জিজ্ঞাসা করুন",
       "askButton": "ZeldAI-কে জিজ্ঞাসা করুন"
-    }
+    },
+    "newSubtitle": "ZELD শিকারের জন্য আপনার পথ বেছে নিন — সবচেয়ে বিরল Bitcoin লেনদেন।",
+    "horizon": {
+      "title": "Horizon Market-এ মিন্ট করুন",
+      "description": "Horizon Market-এ আপনার ব্রাউজার থেকে সরাসরি ZELD মিন্ট করুন। Bitcoin NFTs, Counterparty টোকেন ট্রেড করুন এবং বিরল লেনদেন শিকার করুন — সব এক জায়গায়।",
+      "cta": "Horizon Market-এ শিকার শুরু করুন"
+    },
+    "buildMiner": {
+      "title": "নিজের মিন্টার তৈরি করুন",
+      "description": "ওপেন-সোর্স zeldhash-miner SDK দিয়ে সম্পূর্ণ নিয়ন্ত্রণ নিন। Rust, TypeScript, WebGPU অ্যাক্সিলারেশন এবং আরও অনেক কিছু দিয়ে কাস্টম মাইনিং সমাধান তৈরি করুন।",
+      "cta": "GitHub-এ দেখুন"
+    },
+    "legacyWalletLink": "পুরাতন ওয়ালেট খুঁজছেন?"
   },
   "explorer": {
     "title": "ZELD এক্সপ্লোরার",
@@ -104,5 +117,15 @@
     "txLoadError": "লেনদেন ডেটা লোড করতে পারছি না। অনুগ্রহ করে আবার চেষ্টা করুন।",
     "voutShort": "#",
     "output": "আউটপুট"
+  },
+  "legacyWallet": {
+    "metaTitle": "পুরাতন ওয়ালেট",
+    "metaDescription": "মূল ZeldHash ওয়ালেট। এই ওয়ালেট আর রক্ষণাবেক্ষণ করা হয় না — অনুগ্রহ করে ZELD মাইনিং-এর জন্য Horizon Market ব্যবহার করুন।",
+    "titlePrefix": "পুরাতন",
+    "titleSuffix": " ওয়ালেট",
+    "subtitle": "এটি মূল ZeldHash ওয়ালেট। আপনার ZELD এবং BTC Horizon Market-এ স্থানান্তর করতে sweep ফাংশন ব্যবহার করুন।",
+    "bannerTitle": "অপ্রচলিত",
+    "bannerMessage": "এই ওয়ালেট আর রক্ষণাবেক্ষণ করা হয় না। আপনার ফান্ড Horizon Market-এ স্থানান্তর করতে sweep ফাংশন ব্যবহার করুন।",
+    "goToHorizon": "Horizon Market-এ যান"
   }
 }

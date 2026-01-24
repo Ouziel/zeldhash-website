@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "ไวท์เปเปอร์",
     "toggleMenu": "สลับเมนูนำทาง",
-    "openNav": "เปิดการนำทาง"
+    "openNav": "เปิดการนำทาง",
+    "legacyWallet": "กระเป๋าเงินเก่า"
   },
   "footer": {
     "protocol": "โปรโตคอล",
@@ -42,7 +43,19 @@
       "title": "ต้องการความช่วยเหลือ?",
       "subtitle": "ถาม ZeldAI เกี่ยวกับกระเป๋าเงินหรือ ZeldHash ได้เลย",
       "askButton": "ถาม ZeldAI"
-    }
+    },
+    "newSubtitle": "เลือกเส้นทางของคุณเพื่อล่า ZELD — ธุรกรรม Bitcoin ที่หายากที่สุด",
+    "horizon": {
+      "title": "มิ้นท์บน Horizon Market",
+      "description": "มิ้นท์ ZELD โดยตรงจากเบราว์เซอร์ของคุณบน Horizon Market ซื้อขาย Bitcoin NFTs, โทเคน Counterparty และล่าธุรกรรมหายาก — ทั้งหมดในที่เดียว",
+      "cta": "เริ่มล่าบน Horizon Market"
+    },
+    "buildMiner": {
+      "title": "สร้างมิ้นเตอร์ของคุณเอง",
+      "description": "ควบคุมเต็มรูปแบบด้วย SDK zeldhash-miner แบบโอเพ่นซอร์ส สร้างโซลูชันการขุดแบบกำหนดเองด้วย Rust, TypeScript, การเร่งความเร็ว WebGPU และอื่นๆ",
+      "cta": "ดูบน GitHub"
+    },
+    "legacyWalletLink": "กำลังมองหากระเป๋าเงินเก่า?"
   },
   "explorer": {
     "title": "ZELD Explorer",
@@ -104,5 +117,15 @@
     "txLoadError": "ไม่สามารถโหลดข้อมูลธุรกรรมได้ กรุณาลองใหม่",
     "voutShort": "#",
     "output": "เอาต์พุต"
+  },
+  "legacyWallet": {
+    "metaTitle": "กระเป๋าเงินเก่า",
+    "metaDescription": "กระเป๋าเงิน ZeldHash ดั้งเดิม กระเป๋าเงินนี้ไม่ได้รับการดูแลอีกต่อไป — โปรดใช้ Horizon Market สำหรับการขุด ZELD",
+    "titlePrefix": "กระเป๋าเงิน",
+    "titleSuffix": "เก่า",
+    "subtitle": "นี่คือกระเป๋าเงิน ZeldHash ดั้งเดิม ใช้ฟังก์ชัน sweep เพื่อโอน ZELD และ BTC ของคุณไปยัง Horizon Market",
+    "bannerTitle": "เลิกใช้แล้ว",
+    "bannerMessage": "กระเป๋าเงินนี้ไม่ได้รับการดูแลอีกต่อไป ใช้ฟังก์ชัน sweep เพื่อโอนเงินของคุณไปยัง Horizon Market",
+    "goToHorizon": "ไปที่ Horizon Market"
   }
 }

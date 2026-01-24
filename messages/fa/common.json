@@ -11,7 +11,8 @@
     "github": "گیت‌هاب",
     "whitepaper": "وایت‌پیپر",
     "toggleMenu": "نمایش/پنهان‌کردن منوی ناوبری",
-    "openNav": "باز کردن منو"
+    "openNav": "باز کردن منو",
+    "legacyWallet": "کیف پول قدیمی"
   },
   "footer": {
     "protocol": "پروتکل",
@@ -42,7 +43,19 @@
       "title": "کمک لازم دارید؟",
       "subtitle": "هر سؤالی درباره کیف پول یا ZeldHash از ZeldAI بپرسید",
       "askButton": "از ZeldAI بپرسید"
-    }
+    },
+    "newSubtitle": "مسیر خود را برای شکار ZELD انتخاب کنید — نادرترین تراکنش‌های Bitcoin.",
+    "horizon": {
+      "title": "ضرب در Horizon Market",
+      "description": "ZELD را مستقیماً از مرورگر خود در Horizon Market ضرب کنید. NFT های Bitcoin، توکن‌های Counterparty را معامله کنید و تراکنش‌های نادر را شکار کنید — همه در یک مکان.",
+      "cta": "شروع شکار در Horizon Market"
+    },
+    "buildMiner": {
+      "title": "مینتر خود را بسازید",
+      "description": "با SDK متن‌باز zeldhash-miner کنترل کامل داشته باشید. راه‌حل‌های استخراج سفارشی با Rust، TypeScript، شتاب WebGPU و موارد دیگر بسازید.",
+      "cta": "مشاهده در GitHub"
+    },
+    "legacyWalletLink": "به دنبال کیف پول قدیمی هستید؟"
   },
   "explorer": {
     "title": "کاوشگر ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "امکان بارگذاری داده‌های تراکنش نیست. لطفاً دوباره امتحان کنید.",
     "voutShort": "#",
     "output": "خروجی"
+  },
+  "legacyWallet": {
+    "metaTitle": "کیف پول قدیمی",
+    "metaDescription": "کیف پول اصلی ZeldHash. این کیف پول دیگر پشتیبانی نمی‌شود — لطفاً از Horizon Market برای استخراج ZELD استفاده کنید.",
+    "titlePrefix": "کیف پول",
+    "titleSuffix": " قدیمی",
+    "subtitle": "این کیف پول اصلی ZeldHash است. از تابع sweep برای انتقال ZELD و BTC خود به Horizon Market استفاده کنید.",
+    "bannerTitle": "منسوخ",
+    "bannerMessage": "این کیف پول دیگر پشتیبانی نمی‌شود. از تابع sweep برای انتقال وجوه خود به Horizon Market استفاده کنید.",
+    "goToHorizon": "رفتن به Horizon Market"
   }
 }

@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Whitepaper",
     "toggleMenu": "I-toggle ang navigation menu",
-    "openNav": "Buksan ang navigation"
+    "openNav": "Buksan ang navigation",
+    "legacyWallet": "Lumang Wallet"
   },
   "footer": {
     "protocol": "Protokolo",
@@ -42,7 +43,19 @@
       "title": "Kailangan mo ng tulong?",
       "subtitle": "Magtanong kay ZeldAI tungkol sa wallet o ZeldHash",
       "askButton": "Magtanong sa ZeldAI"
-    }
+    },
+    "newSubtitle": "Piliin ang iyong landas para mangaso ng ZELD — ang pinakabihirang Bitcoin transactions.",
+    "horizon": {
+      "title": "Mag-mint sa Horizon Market",
+      "description": "Mag-mint ng ZELD direkta mula sa iyong browser sa Horizon Market. Mag-trade ng Bitcoin NFTs, Counterparty tokens, at mangaso ng bihirang transactions — lahat sa isang lugar.",
+      "cta": "Simulan ang pangangaso sa Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Bumuo ng sarili mong minter",
+      "description": "Kunin ang buong kontrol gamit ang open-source zeldhash-miner SDK. Bumuo ng custom na mining solutions gamit ang Rust, TypeScript, WebGPU acceleration, at higit pa.",
+      "cta": "Tingnan sa GitHub"
+    },
+    "legacyWalletLink": "Naghahanap ng lumang wallet?"
   },
   "explorer": {
     "title": "ZELD Explorer",
@@ -104,5 +117,15 @@
     "txLoadError": "Hindi ma-load ang data ng transaksyon. Subukan ulit.",
     "voutShort": "#",
     "output": "Output"
+  },
+  "legacyWallet": {
+    "metaTitle": "Lumang Wallet",
+    "metaDescription": "Ang orihinal na ZeldHash wallet. Ang wallet na ito ay hindi na pinapanatili — mangyaring gamitin ang Horizon Market para sa pagmimina ng ZELD.",
+    "titlePrefix": "Lumang",
+    "titleSuffix": " Wallet",
+    "subtitle": "Ito ang orihinal na ZeldHash wallet. Gamitin ang sweep function para ilipat ang iyong ZELD at BTC sa Horizon Market.",
+    "bannerTitle": "Hindi na ginagamit",
+    "bannerMessage": "Ang wallet na ito ay hindi na pinapanatili. Gamitin ang sweep function para ilipat ang iyong pondo sa Horizon Market.",
+    "goToHorizon": "Pumunta sa Horizon Market"
   }
 }

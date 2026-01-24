@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "وائٹ پیپر",
     "toggleMenu": "نیویگیشن مینو ٹوگل کریں",
-    "openNav": "نیویگیشن کھولیں"
+    "openNav": "نیویگیشن کھولیں",
+    "legacyWallet": "پرانا والیٹ"
   },
   "footer": {
     "protocol": "پروٹوکول",
@@ -42,7 +43,19 @@
       "title": "مدد چاہیے؟",
       "subtitle": "والٹ یا ZeldHash کے بارے میں ZeldAI سے کچھ بھی پوچھیں",
       "askButton": "ZeldAI سے پوچھیں"
-    }
+    },
+    "newSubtitle": "ZELD کے شکار کے لیے اپنا راستہ چنیں — سب سے نایاب Bitcoin ٹرانزیکشنز۔",
+    "horizon": {
+      "title": "Horizon Market پر منٹ کریں",
+      "description": "Horizon Market پر اپنے براؤزر سے براہ راست ZELD منٹ کریں۔ Bitcoin NFTs، Counterparty ٹوکنز کی تجارت کریں اور نایاب ٹرانزیکشنز کا شکار کریں — سب ایک جگہ۔",
+      "cta": "Horizon Market پر شکار شروع کریں"
+    },
+    "buildMiner": {
+      "title": "اپنا منٹر بنائیں",
+      "description": "open-source zeldhash-miner SDK کے ساتھ مکمل کنٹرول حاصل کریں۔ Rust، TypeScript، WebGPU ایکسلریشن اور مزید کے ساتھ اپنی مرضی کے مائننگ حل بنائیں۔",
+      "cta": "GitHub پر دیکھیں"
+    },
+    "legacyWalletLink": "پرانا والیٹ ڈھونڈ رہے ہیں؟"
   },
   "explorer": {
     "title": "ZELD ایکسپلورر",
@@ -104,5 +117,15 @@
     "txLoadError": "ٹرانزیکشن ڈیٹا لوڈ نہیں ہو سکا۔ دوبارہ کوشش کریں۔",
     "voutShort": "#",
     "output": "آؤٹ پٹ"
+  },
+  "legacyWallet": {
+    "metaTitle": "پرانا والیٹ",
+    "metaDescription": "اصل ZeldHash والیٹ۔ یہ والیٹ اب سپورٹ نہیں ہے — براہ کرم ZELD مائننگ کے لیے Horizon Market استعمال کریں۔",
+    "titlePrefix": "پرانا",
+    "titleSuffix": " والیٹ",
+    "subtitle": "یہ اصل ZeldHash والیٹ ہے۔ اپنے ZELD اور BTC کو Horizon Market میں منتقل کرنے کے لیے sweep فنکشن استعمال کریں۔",
+    "bannerTitle": "متروک",
+    "bannerMessage": "یہ والیٹ اب سپورٹ نہیں ہے۔ اپنے فنڈز کو Horizon Market میں منتقل کرنے کے لیے sweep فنکشن استعمال کریں۔",
+    "goToHorizon": "Horizon Market پر جائیں"
   }
 }

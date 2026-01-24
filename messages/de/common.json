@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Whitepaper",
     "toggleMenu": "Navigationsmenü umschalten",
-    "openNav": "Navigation öffnen"
+    "openNav": "Navigation öffnen",
+    "legacyWallet": "Altes Wallet"
   },
   "footer": {
     "protocol": "Protokoll",
@@ -42,7 +43,19 @@
       "title": "Brauchst du Hilfe?",
       "subtitle": "Frag ZeldAI alles über das Wallet oder ZeldHash.",
       "askButton": "ZeldAI fragen"
-    }
+    },
+    "newSubtitle": "Wähle deinen Weg zur ZELD-Jagd — die seltensten Bitcoin-Transaktionen.",
+    "horizon": {
+      "title": "Minten auf Horizon Market",
+      "description": "Minte ZELD direkt aus deinem Browser auf Horizon Market. Handle mit Bitcoin-NFTs, Counterparty-Tokens und jage seltene Transaktionen — alles an einem Ort.",
+      "cta": "Starte die Jagd auf Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Baue deinen eigenen Minter",
+      "description": "Übernimm die volle Kontrolle mit dem Open-Source zeldhash-miner SDK. Erstelle individuelle Mining-Lösungen mit Rust, TypeScript, WebGPU-Beschleunigung und mehr.",
+      "cta": "Auf GitHub ansehen"
+    },
+    "legacyWalletLink": "Suchst du das alte Wallet?"
   },
   "explorer": {
     "title": "ZELD Explorer",
@@ -104,5 +117,15 @@
     "txLoadError": "Transaktionsdaten konnten nicht geladen werden. Bitte versuch es erneut.",
     "voutShort": "#",
     "output": "Ausgabe"
+  },
+  "legacyWallet": {
+    "metaTitle": "Altes Wallet",
+    "metaDescription": "Das originale ZeldHash-Wallet. Dieses Wallet wird nicht mehr gewartet — bitte nutze Horizon Market zum ZELD-Mining.",
+    "titlePrefix": "Altes",
+    "titleSuffix": " Wallet",
+    "subtitle": "Dies ist das originale ZeldHash-Wallet. Nutze die Sweep-Funktion, um deine ZELD und BTC zu Horizon Market zu übertragen.",
+    "bannerTitle": "Veraltet",
+    "bannerMessage": "Dieses Wallet wird nicht mehr gewartet. Nutze die Sweep-Funktion, um deine Guthaben zu Horizon Market zu übertragen.",
+    "goToHorizon": "Zu Horizon Market"
   }
 }

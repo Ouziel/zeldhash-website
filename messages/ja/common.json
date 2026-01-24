@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "ホワイトペーパー",
     "toggleMenu": "ナビゲーションメニューを切り替え",
-    "openNav": "ナビゲーションを開く"
+    "openNav": "ナビゲーションを開く",
+    "legacyWallet": "旧ウォレット"
   },
   "footer": {
     "protocol": "プロトコル",
@@ -42,7 +43,19 @@
       "title": "お困りですか？",
       "subtitle": "ウォレットやZeldHashについて、何でもZeldAIにご質問ください",
       "askButton": "ZeldAIに聞く"
-    }
+    },
+    "newSubtitle": "ZELDを狩るための道を選んでください — 最も希少なBitcoinトランザクション。",
+    "horizon": {
+      "title": "Horizon Marketでミント",
+      "description": "Horizon Marketでブラウザから直接ZELDをミント。Bitcoin NFT、Counterpartyトークンを取引し、レアなトランザクションを狩る — すべてが一つの場所で。",
+      "cta": "Horizon Marketでハンティングを開始"
+    },
+    "buildMiner": {
+      "title": "独自のミンターを構築",
+      "description": "オープンソースのzeldhash-miner SDKで完全なコントロールを。Rust、TypeScript、WebGPUアクセラレーションなどでカスタムマイニングソリューションを構築。",
+      "cta": "GitHubで見る"
+    },
+    "legacyWalletLink": "旧ウォレットをお探しですか？"
   },
   "explorer": {
     "title": "ZELD エクスプローラー",
@@ -104,5 +117,15 @@
     "txLoadError": "トランザクションデータを読み込めませんでした。もう一度お試しください。",
     "voutShort": "#",
     "output": "出力"
+  },
+  "legacyWallet": {
+    "metaTitle": "旧ウォレット",
+    "metaDescription": "オリジナルのZeldHashウォレット。このウォレットはもうメンテナンスされていません — ZELDマイニングにはHorizon Marketをご利用ください。",
+    "titlePrefix": "旧",
+    "titleSuffix": "ウォレット",
+    "subtitle": "これはオリジナルのZeldHashウォレットです。sweep機能を使用してZELDとBTCをHorizon Marketに転送してください。",
+    "bannerTitle": "非推奨",
+    "bannerMessage": "このウォレットはもうメンテナンスされていません。sweep機能を使用して資金をHorizon Marketに転送してください。",
+    "goToHorizon": "Horizon Marketへ"
   }
 }

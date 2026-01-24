@@ -25,8 +25,8 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-markdown": "^10.1.0",
-    "zeldhash-miner": "^0.2.5",
-    "zeldwallet": "^0.1.14"
+    "zeldhash-miner": "^0.3.1",
+    "zeldwallet": "^0.1.15"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",

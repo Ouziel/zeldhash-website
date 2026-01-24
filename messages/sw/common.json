@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Waraka Mweupe",
     "toggleMenu": "Badilisha menyu ya urambazaji",
-    "openNav": "Fungua urambazaji"
+    "openNav": "Fungua urambazaji",
+    "legacyWallet": "Mkoba wa Zamani"
   },
   "footer": {
     "protocol": "Itifaki",
@@ -42,7 +43,19 @@
       "title": "Unahitaji msaada?",
       "subtitle": "Uliza ZeldAI chochote kuhusu pochi au ZeldHash",
       "askButton": "Uliza ZeldAI"
-    }
+    },
+    "newSubtitle": "Chagua njia yako ya kuwinda ZELD — miamala ya Bitcoin adimu zaidi.",
+    "horizon": {
+      "title": "Mint kwenye Horizon Market",
+      "description": "Mint ZELD moja kwa moja kutoka kwa kivinjari chako kwenye Horizon Market. Fanya biashara ya Bitcoin NFTs, tokeni za Counterparty, na winda miamala adimu — yote mahali pamoja.",
+      "cta": "Anza kuwinda kwenye Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Jenga minter yako mwenyewe",
+      "description": "Chukua udhibiti kamili na SDK ya zeldhash-miner ya chanzo wazi. Jenga suluhisho za uchimbaji maalum na Rust, TypeScript, kuongeza kasi kwa WebGPU, na zaidi.",
+      "cta": "Tazama kwenye GitHub"
+    },
+    "legacyWalletLink": "Unatafuta mkoba wa zamani?"
   },
   "explorer": {
     "title": "Kichunguzi cha ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "Imeshindwa kupakia data ya muamala. Tafadhali jaribu tena.",
     "voutShort": "#",
     "output": "Tokeo"
+  },
+  "legacyWallet": {
+    "metaTitle": "Mkoba wa Zamani",
+    "metaDescription": "Mkoba asili wa ZeldHash. Mkoba huu hauendelezwi tena — tafadhali tumia Horizon Market kwa uchimbaji wa ZELD.",
+    "titlePrefix": "Mkoba",
+    "titleSuffix": " wa Zamani",
+    "subtitle": "Huu ndio mkoba asili wa ZeldHash. Tumia kazi ya sweep kuhamisha ZELD na BTC yako kwenda Horizon Market.",
+    "bannerTitle": "Umepitwa na Wakati",
+    "bannerMessage": "Mkoba huu hauendelezwi tena. Tumia kazi ya sweep kuhamisha fedha zako kwenda Horizon Market.",
+    "goToHorizon": "Nenda Horizon Market"
   }
 }

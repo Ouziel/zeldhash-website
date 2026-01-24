@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Kertas Putih",
     "toggleMenu": "Togol menu navigasi",
-    "openNav": "Buka navigasi"
+    "openNav": "Buka navigasi",
+    "legacyWallet": "Dompet Lama"
   },
   "footer": {
     "protocol": "Protokol",
@@ -42,7 +43,19 @@
       "title": "Perlukan bantuan?",
       "subtitle": "Tanya ZeldAI apa-apa sahaja tentang dompet atau ZeldHash",
       "askButton": "Tanya ZeldAI"
-    }
+    },
+    "newSubtitle": "Pilih laluan anda untuk memburu ZELD — transaksi Bitcoin paling jarang.",
+    "horizon": {
+      "title": "Mint di Horizon Market",
+      "description": "Mint ZELD terus dari pelayar anda di Horizon Market. Berdagang Bitcoin NFTs, token Counterparty, dan memburu transaksi jarang — semua di satu tempat.",
+      "cta": "Mula memburu di Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Bina minter anda sendiri",
+      "description": "Ambil kawalan penuh dengan SDK zeldhash-miner sumber terbuka. Bina penyelesaian perlombongan tersuai dengan Rust, TypeScript, pecutan WebGPU, dan banyak lagi.",
+      "cta": "Lihat di GitHub"
+    },
+    "legacyWalletLink": "Mencari dompet lama?"
   },
   "explorer": {
     "title": "Penjelajah ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "Tidak dapat memuatkan data transaksi. Sila cuba lagi.",
     "voutShort": "#",
     "output": "Output"
+  },
+  "legacyWallet": {
+    "metaTitle": "Dompet Lama",
+    "metaDescription": "Dompet ZeldHash asal. Dompet ini tidak lagi diselenggara — sila gunakan Horizon Market untuk melombong ZELD.",
+    "titlePrefix": "Dompet",
+    "titleSuffix": " Lama",
+    "subtitle": "Ini adalah dompet ZeldHash asal. Gunakan fungsi sweep untuk memindahkan ZELD dan BTC anda ke Horizon Market.",
+    "bannerTitle": "Lapuk",
+    "bannerMessage": "Dompet ini tidak lagi diselenggara. Gunakan fungsi sweep untuk memindahkan dana anda ke Horizon Market.",
+    "goToHorizon": "Pergi ke Horizon Market"
   }
 }

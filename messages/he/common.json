@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "מסמך לבן",
     "toggleMenu": "הצג/הסתר תפריט ניווט",
-    "openNav": "פתח תפריט ניווט"
+    "openNav": "פתח תפריט ניווט",
+    "legacyWallet": "ארנק ישן"
   },
   "footer": {
     "protocol": "פרוטוקול",
@@ -42,7 +43,19 @@
       "title": "צריך עזרה?",
       "subtitle": "שאלו את ZeldAI כל דבר על הארנק או ZeldHash",
       "askButton": "שאלו את ZeldAI"
-    }
+    },
+    "newSubtitle": "בחר את הדרך שלך לצוד ZELD — עסקאות ה-Bitcoin הנדירות ביותר.",
+    "horizon": {
+      "title": "הטבע ב-Horizon Market",
+      "description": "הטבע ZELD ישירות מהדפדפן שלך ב-Horizon Market. סחור ב-NFTs של Bitcoin, טוקני Counterparty וצוד עסקאות נדירות — הכל במקום אחד.",
+      "cta": "התחל לצוד ב-Horizon Market"
+    },
+    "buildMiner": {
+      "title": "בנה את המטביע שלך",
+      "description": "קח שליטה מלאה עם SDK zeldhash-miner בקוד פתוח. בנה פתרונות כרייה מותאמים אישית עם Rust, TypeScript, האצת WebGPU ועוד.",
+      "cta": "צפה ב-GitHub"
+    },
+    "legacyWalletLink": "מחפש את הארנק הישן?"
   },
   "explorer": {
     "title": "סייר ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "לא ניתן לטעון נתוני עסקה. נסו שוב.",
     "voutShort": "#",
     "output": "פלט"
+  },
+  "legacyWallet": {
+    "metaTitle": "ארנק ישן",
+    "metaDescription": "ארנק ZeldHash המקורי. ארנק זה אינו נתמך יותר — אנא השתמש ב-Horizon Market לכריית ZELD.",
+    "titlePrefix": "ארנק",
+    "titleSuffix": " ישן",
+    "subtitle": "זהו ארנק ZeldHash המקורי. השתמש בפונקציית ה-sweep להעברת ה-ZELD וה-BTC שלך ל-Horizon Market.",
+    "bannerTitle": "מיושן",
+    "bannerMessage": "ארנק זה אינו נתמך יותר. השתמש בפונקציית ה-sweep להעברת הכספים שלך ל-Horizon Market.",
+    "goToHorizon": "עבור ל-Horizon Market"
   }
 }
