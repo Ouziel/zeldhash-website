@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Белая книга",
     "toggleMenu": "Показать/скрыть меню навигации",
-    "openNav": "Открыть меню"
+    "openNav": "Открыть меню",
+    "legacyWallet": "Старый Кошелёк"
   },
   "footer": {
     "protocol": "Протокол",
@@ -42,7 +43,19 @@
       "title": "Нужна помощь?",
       "subtitle": "Спросите ZeldAI о кошельке или о ZeldHash",
       "askButton": "Спросить ZeldAI"
-    }
+    },
+    "newSubtitle": "Выбери свой путь для охоты на ZELD — самые редкие Bitcoin транзакции.",
+    "horizon": {
+      "title": "Минти на Horizon Market",
+      "description": "Минти ZELD прямо из браузера на Horizon Market. Торгуй Bitcoin NFT, токенами Counterparty и охоться на редкие транзакции — всё в одном месте.",
+      "cta": "Начни охоту на Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Создай свой минтер",
+      "description": "Возьми полный контроль с open-source SDK zeldhash-miner. Создавай собственные решения для майнинга с Rust, TypeScript, ускорением WebGPU и многим другим.",
+      "cta": "Смотреть на GitHub"
+    },
+    "legacyWalletLink": "Ищешь старый кошелёк?"
   },
   "explorer": {
     "title": "Обозреватель ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "Не удалось загрузить данные транзакции. Попробуйте снова.",
     "voutShort": "#",
     "output": "Выход"
+  },
+  "legacyWallet": {
+    "metaTitle": "Старый Кошелёк",
+    "metaDescription": "Оригинальный кошелёк ZeldHash. Этот кошелёк больше не поддерживается — используйте Horizon Market для майнинга ZELD.",
+    "titlePrefix": "Старый",
+    "titleSuffix": " Кошелёк",
+    "subtitle": "Это оригинальный кошелёк ZeldHash. Используйте функцию sweep для перевода ZELD и BTC на Horizon Market.",
+    "bannerTitle": "Устаревший",
+    "bannerMessage": "Этот кошелёк больше не поддерживается. Используйте функцию sweep для перевода средств на Horizon Market.",
+    "goToHorizon": "Перейти на Horizon Market"
   }
 }

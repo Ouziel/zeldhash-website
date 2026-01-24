@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Біла книга",
     "toggleMenu": "Перемкнути меню навігації",
-    "openNav": "Відкрити навігацію"
+    "openNav": "Відкрити навігацію",
+    "legacyWallet": "Старий Гаманець"
   },
   "footer": {
     "protocol": "Протокол",
@@ -42,7 +43,19 @@
       "title": "Потрібна допомога?",
       "subtitle": "Запитайте ZeldAI про ZeldWallet або ZeldHash",
       "askButton": "Запитати ZeldAI"
-    }
+    },
+    "newSubtitle": "Обери свій шлях для полювання на ZELD — найрідкісніші Bitcoin транзакції.",
+    "horizon": {
+      "title": "Мінтуй на Horizon Market",
+      "description": "Мінтуй ZELD прямо з браузера на Horizon Market. Торгуй Bitcoin NFT, токенами Counterparty та полюй на рідкісні транзакції — все в одному місці.",
+      "cta": "Почни полювання на Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Створи власний мінтер",
+      "description": "Візьми повний контроль з open-source SDK zeldhash-miner. Створюй власні рішення для майнінгу з Rust, TypeScript, прискоренням WebGPU та іншим.",
+      "cta": "Переглянути на GitHub"
+    },
+    "legacyWalletLink": "Шукаєш старий гаманець?"
   },
   "explorer": {
     "title": "Оглядач ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "Не вдалося завантажити дані транзакції. Спробуйте ще раз.",
     "voutShort": "#",
     "output": "Вихід"
+  },
+  "legacyWallet": {
+    "metaTitle": "Старий Гаманець",
+    "metaDescription": "Оригінальний гаманець ZeldHash. Цей гаманець більше не підтримується — використовуйте Horizon Market для майнінгу ZELD.",
+    "titlePrefix": "Старий",
+    "titleSuffix": " Гаманець",
+    "subtitle": "Це оригінальний гаманець ZeldHash. Використовуйте функцію sweep для переказу ZELD та BTC на Horizon Market.",
+    "bannerTitle": "Застарілий",
+    "bannerMessage": "Цей гаманець більше не підтримується. Використовуйте функцію sweep для переказу коштів на Horizon Market.",
+    "goToHorizon": "Перейти на Horizon Market"
   }
 }

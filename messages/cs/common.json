@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Bílá kniha",
     "toggleMenu": "Přepnout navigační menu",
-    "openNav": "Otevřít navigaci"
+    "openNav": "Otevřít navigaci",
+    "legacyWallet": "Starší Peněženka"
   },
   "footer": {
     "protocol": "Protokol",
@@ -42,7 +43,19 @@
       "title": "Potřebujete pomoc?",
       "subtitle": "Zeptejte se ZeldAI na cokoli ohledně peněženky nebo ZeldHashu",
       "askButton": "Zeptat se ZeldAI"
-    }
+    },
+    "newSubtitle": "Vyber si svou cestu k lovu ZELD — nejvzácnějších Bitcoin transakcí.",
+    "horizon": {
+      "title": "Mintuj na Horizon Market",
+      "description": "Mintuj ZELD přímo z prohlížeče na Horizon Market. Obchoduj s Bitcoin NFT, Counterparty tokeny a lov vzácné transakce — vše na jednom místě.",
+      "cta": "Začni lovit na Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Vytvoř si vlastní minter",
+      "description": "Převezmi plnou kontrolu s open-source SDK zeldhash-miner. Vytvárej vlastní těžební řešení s Rust, TypeScript, WebGPU akcelerací a dalšími.",
+      "cta": "Zobrazit na GitHub"
+    },
+    "legacyWalletLink": "Hledáš starší peněženku?"
   },
   "explorer": {
     "title": "ZELD Průzkumník",
@@ -104,5 +117,15 @@
     "txLoadError": "Nelze načíst data transakce. Zkuste to prosím znovu.",
     "voutShort": "#",
     "output": "Výstup"
+  },
+  "legacyWallet": {
+    "metaTitle": "Starší Peněženka",
+    "metaDescription": "Původní peněženka ZeldHash. Tato peněženka již není udržována — použij Horizon Market pro těžbu ZELD.",
+    "titlePrefix": "Starší",
+    "titleSuffix": " Peněženka",
+    "subtitle": "Toto je původní peněženka ZeldHash. Použij funkci sweep k převodu svých ZELD a BTC na Horizon Market.",
+    "bannerTitle": "Zastaralé",
+    "bannerMessage": "Tato peněženka již není udržována. Použij funkci sweep k převodu svých prostředků na Horizon Market.",
+    "goToHorizon": "Přejít na Horizon Market"
   }
 }

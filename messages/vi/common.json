@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Sách trắng",
     "toggleMenu": "Mở/đóng menu điều hướng",
-    "openNav": "Mở điều hướng"
+    "openNav": "Mở điều hướng",
+    "legacyWallet": "Ví Cũ"
   },
   "footer": {
     "protocol": "Giao thức",
@@ -42,7 +43,19 @@
       "title": "Cần trợ giúp?",
       "subtitle": "Hỏi ZeldAI bất kỳ điều gì về ví hoặc ZeldHash",
       "askButton": "Hỏi ZeldAI"
-    }
+    },
+    "newSubtitle": "Chọn con đường của bạn để săn ZELD — những giao dịch Bitcoin hiếm nhất.",
+    "horizon": {
+      "title": "Mint trên Horizon Market",
+      "description": "Mint ZELD trực tiếp từ trình duyệt của bạn trên Horizon Market. Giao dịch Bitcoin NFTs, token Counterparty, và săn các giao dịch hiếm — tất cả trong một nơi.",
+      "cta": "Bắt đầu săn trên Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Xây dựng minter của riêng bạn",
+      "description": "Kiểm soát hoàn toàn với SDK zeldhash-miner mã nguồn mở. Xây dựng giải pháp đào tùy chỉnh với Rust, TypeScript, tăng tốc WebGPU, và nhiều hơn nữa.",
+      "cta": "Xem trên GitHub"
+    },
+    "legacyWalletLink": "Đang tìm ví cũ?"
   },
   "explorer": {
     "title": "Khám phá ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "Không thể tải dữ liệu giao dịch. Vui lòng thử lại.",
     "voutShort": "#",
     "output": "Đầu ra"
+  },
+  "legacyWallet": {
+    "metaTitle": "Ví Cũ",
+    "metaDescription": "Ví ZeldHash gốc. Ví này không còn được duy trì — vui lòng sử dụng Horizon Market để đào ZELD.",
+    "titlePrefix": "Ví",
+    "titleSuffix": " Cũ",
+    "subtitle": "Đây là ví ZeldHash gốc. Sử dụng chức năng sweep để chuyển ZELD và BTC của bạn sang Horizon Market.",
+    "bannerTitle": "Ngừng hỗ trợ",
+    "bannerMessage": "Ví này không còn được duy trì. Sử dụng chức năng sweep để chuyển tiền của bạn sang Horizon Market.",
+    "goToHorizon": "Đi tới Horizon Market"
   }
 }

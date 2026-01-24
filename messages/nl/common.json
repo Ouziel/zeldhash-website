@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Whitepaper",
     "toggleMenu": "Navigatiemenu in-/uitklappen",
-    "openNav": "Navigatie openen"
+    "openNav": "Navigatie openen",
+    "legacyWallet": "Oude Wallet"
   },
   "footer": {
     "protocol": "Protocol",
@@ -42,7 +43,19 @@
       "title": "Hulp nodig?",
       "subtitle": "Vraag ZeldAI alles over de wallet of ZeldHash",
       "askButton": "Vraag ZeldAI"
-    }
+    },
+    "newSubtitle": "Kies je pad om te jagen op ZELD — de zeldzaamste Bitcoin-transacties.",
+    "horizon": {
+      "title": "Mint op Horizon Market",
+      "description": "Mint ZELD rechtstreeks vanuit je browser op Horizon Market. Handel in Bitcoin-NFT's, Counterparty-tokens, en jaag op zeldzame transacties — alles op één plek.",
+      "cta": "Begin met jagen op Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Bouw je eigen minter",
+      "description": "Neem volledige controle met de open-source zeldhash-miner SDK. Bouw aangepaste mining-oplossingen met Rust, TypeScript, WebGPU-versnelling, en meer.",
+      "cta": "Bekijk op GitHub"
+    },
+    "legacyWalletLink": "Op zoek naar de oude wallet?"
   },
   "explorer": {
     "title": "ZELD-verkenner",
@@ -104,5 +117,15 @@
     "txLoadError": "Kan transactiegegevens niet laden. Probeer opnieuw.",
     "voutShort": "#",
     "output": "Output"
+  },
+  "legacyWallet": {
+    "metaTitle": "Oude Wallet",
+    "metaDescription": "De originele ZeldHash-wallet. Deze wallet wordt niet meer onderhouden — gebruik Horizon Market voor het minen van ZELD.",
+    "titlePrefix": "Oude",
+    "titleSuffix": " Wallet",
+    "subtitle": "Dit is de originele ZeldHash-wallet. Gebruik de sweep-functie om je ZELD en BTC over te zetten naar Horizon Market.",
+    "bannerTitle": "Verouderd",
+    "bannerMessage": "Deze wallet wordt niet meer onderhouden. Gebruik de sweep-functie om je tegoeden over te zetten naar Horizon Market.",
+    "goToHorizon": "Ga naar Horizon Market"
   }
 }

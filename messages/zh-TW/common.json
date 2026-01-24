@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "白皮書",
     "toggleMenu": "切換導航選單",
-    "openNav": "開啟導航"
+    "openNav": "開啟導航",
+    "legacyWallet": "舊錢包"
   },
   "footer": {
     "protocol": "協議",
@@ -42,7 +43,19 @@
       "title": "需要幫助？",
       "subtitle": "向 ZeldAI 詢問有關錢包或 ZeldHash 的任何問題",
       "askButton": "詢問 ZeldAI"
-    }
+    },
+    "newSubtitle": "選擇你的路徑來狩獵 ZELD — 最稀有的 Bitcoin 交易。",
+    "horizon": {
+      "title": "在 Horizon Market 鑄造",
+      "description": "在 Horizon Market 直接從瀏覽器鑄造 ZELD。交易 Bitcoin NFT、Counterparty 代幣，並狩獵稀有交易 — 一切盡在一處。",
+      "cta": "在 Horizon Market 開始狩獵"
+    },
+    "buildMiner": {
+      "title": "建構你自己的鑄造器",
+      "description": "使用開源 zeldhash-miner SDK 獲得完全控制。使用 Rust、TypeScript、WebGPU 加速等建構自訂挖礦解決方案。",
+      "cta": "在 GitHub 上查看"
+    },
+    "legacyWalletLink": "在找舊錢包？"
   },
   "explorer": {
     "title": "ZELD 區塊瀏覽器",
@@ -104,5 +117,15 @@
     "txLoadError": "無法載入交易資料，請重試。",
     "voutShort": "#",
     "output": "輸出"
+  },
+  "legacyWallet": {
+    "metaTitle": "舊錢包",
+    "metaDescription": "原版 ZeldHash 錢包。此錢包不再維護 — 請使用 Horizon Market 進行 ZELD 挖礦。",
+    "titlePrefix": "舊",
+    "titleSuffix": "錢包",
+    "subtitle": "這是原版 ZeldHash 錢包。使用 sweep 功能將您的 ZELD 和 BTC 轉移到 Horizon Market。",
+    "bannerTitle": "已棄用",
+    "bannerMessage": "此錢包不再維護。使用 sweep 功能將您的資金轉移到 Horizon Market。",
+    "goToHorizon": "前往 Horizon Market"
   }
 }

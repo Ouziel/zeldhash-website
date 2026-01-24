@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "श्वेतपत्र",
     "toggleMenu": "नेविगेशन मेनू दिखाएँ/छिपाएँ",
-    "openNav": "नेविगेशन खोलें"
+    "openNav": "नेविगेशन खोलें",
+    "legacyWallet": "पुराना वॉलेट"
   },
   "footer": {
     "protocol": "प्रोटोकॉल",
@@ -42,7 +43,19 @@
       "title": "मदद चाहिए?",
       "subtitle": "वॉलेट या ZeldHash के बारे में ZeldAI से कुछ भी पूछें",
       "askButton": "ZeldAI से पूछें"
-    }
+    },
+    "newSubtitle": "ZELD के शिकार के लिए अपना रास्ता चुनें — सबसे दुर्लभ Bitcoin लेनदेन।",
+    "horizon": {
+      "title": "Horizon Market पर मिंट करें",
+      "description": "Horizon Market पर अपने ब्राउज़र से सीधे ZELD मिंट करें। Bitcoin NFTs, Counterparty टोकन ट्रेड करें और दुर्लभ लेनदेन का शिकार करें — सब एक जगह।",
+      "cta": "Horizon Market पर शिकार शुरू करें"
+    },
+    "buildMiner": {
+      "title": "अपना खुद का मिंटर बनाएं",
+      "description": "ओपन-सोर्स zeldhash-miner SDK के साथ पूर्ण नियंत्रण लें। Rust, TypeScript, WebGPU एक्सेलेरेशन और अधिक के साथ कस्टम माइनिंग समाधान बनाएं।",
+      "cta": "GitHub पर देखें"
+    },
+    "legacyWalletLink": "पुराना वॉलेट ढूंढ रहे हैं?"
   },
   "explorer": {
     "title": "ZELD एक्सप्लोरर",
@@ -104,5 +117,15 @@
     "txLoadError": "लेनदेन डेटा लोड करने में असमर्थ। कृपया पुनः प्रयास करें।",
     "voutShort": "#",
     "output": "आउटपुट"
+  },
+  "legacyWallet": {
+    "metaTitle": "पुराना वॉलेट",
+    "metaDescription": "मूल ZeldHash वॉलेट। यह वॉलेट अब समर्थित नहीं है — कृपया ZELD माइनिंग के लिए Horizon Market का उपयोग करें।",
+    "titlePrefix": "पुराना",
+    "titleSuffix": " वॉलेट",
+    "subtitle": "यह मूल ZeldHash वॉलेट है। अपने ZELD और BTC को Horizon Market में स्थानांतरित करने के लिए sweep फ़ंक्शन का उपयोग करें।",
+    "bannerTitle": "अप्रचलित",
+    "bannerMessage": "यह वॉलेट अब समर्थित नहीं है। अपने फंड को Horizon Market में स्थानांतरित करने के लिए sweep फ़ंक्शन का उपयोग करें।",
+    "goToHorizon": "Horizon Market पर जाएं"
   }
 }

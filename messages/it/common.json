@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Whitepaper",
     "toggleMenu": "Attiva/disattiva menu di navigazione",
-    "openNav": "Apri navigazione"
+    "openNav": "Apri navigazione",
+    "legacyWallet": "Wallet Legacy"
   },
   "footer": {
     "protocol": "Protocollo",
@@ -42,7 +43,19 @@
       "title": "Hai bisogno di aiuto?",
       "subtitle": "Chiedi a ZeldAI qualsiasi cosa sul wallet o ZeldHash",
       "askButton": "Chiedi a ZeldAI"
-    }
+    },
+    "newSubtitle": "Scegli il tuo percorso per cacciare ZELD — le transazioni Bitcoin più rare.",
+    "horizon": {
+      "title": "Minta su Horizon Market",
+      "description": "Minta ZELD direttamente dal tuo browser su Horizon Market. Scambia NFT Bitcoin, token Counterparty, e caccia transazioni rare — tutto in un unico posto.",
+      "cta": "Inizia a cacciare su Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Crea il tuo minter",
+      "description": "Prendi il controllo totale con l'SDK open-source zeldhash-miner. Crea soluzioni di mining personalizzate con Rust, TypeScript, accelerazione WebGPU, e altro.",
+      "cta": "Vedi su GitHub"
+    },
+    "legacyWalletLink": "Cerchi il wallet legacy?"
   },
   "explorer": {
     "title": "ZELD Explorer",
@@ -104,5 +117,15 @@
     "txLoadError": "Impossibile caricare i dati della transazione. Riprova.",
     "voutShort": "#",
     "output": "Output"
+  },
+  "legacyWallet": {
+    "metaTitle": "Wallet Legacy",
+    "metaDescription": "Il wallet ZeldHash originale. Questo wallet non è più mantenuto — usa Horizon Market per minare ZELD.",
+    "titlePrefix": "Wallet",
+    "titleSuffix": " Legacy",
+    "subtitle": "Questo è il wallet ZeldHash originale. Usa la funzione di sweep per trasferire i tuoi ZELD e BTC su Horizon Market.",
+    "bannerTitle": "Obsoleto",
+    "bannerMessage": "Questo wallet non è più mantenuto. Usa la funzione di sweep per trasferire i tuoi fondi su Horizon Market.",
+    "goToHorizon": "Vai a Horizon Market"
   }
 }

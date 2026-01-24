@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "الورقة البيضاء",
     "toggleMenu": "تبديل قائمة التنقل",
-    "openNav": "فتح التنقل"
+    "openNav": "فتح التنقل",
+    "legacyWallet": "المحفظة القديمة"
   },
   "footer": {
     "protocol": "البروتوكول",
@@ -42,7 +43,19 @@
       "title": "هل تحتاج مساعدة؟",
       "subtitle": "اسأل ZeldAI أي شيء عن المحفظة أو ZeldHash",
       "askButton": "اسأل ZeldAI"
-    }
+    },
+    "newSubtitle": "اختر طريقك لصيد ZELD — أندر معاملات Bitcoin.",
+    "horizon": {
+      "title": "سك على Horizon Market",
+      "description": "سك ZELD مباشرة من متصفحك على Horizon Market. تداول NFTs Bitcoin ورموز Counterparty وصيد المعاملات النادرة — كل ذلك في مكان واحد.",
+      "cta": "ابدأ الصيد على Horizon Market"
+    },
+    "buildMiner": {
+      "title": "ابنِ مُسكّك الخاص",
+      "description": "تحكم بالكامل مع SDK zeldhash-miner مفتوح المصدر. ابنِ حلول تعدين مخصصة مع Rust و TypeScript وتسريع WebGPU والمزيد.",
+      "cta": "عرض على GitHub"
+    },
+    "legacyWalletLink": "تبحث عن المحفظة القديمة؟"
   },
   "explorer": {
     "title": "مستكشف ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "تعذر تحميل بيانات المعاملة. يرجى المحاولة مرة أخرى.",
     "voutShort": "#",
     "output": "المخرج"
+  },
+  "legacyWallet": {
+    "metaTitle": "المحفظة القديمة",
+    "metaDescription": "محفظة ZeldHash الأصلية. هذه المحفظة لم تعد مدعومة — يرجى استخدام Horizon Market لتعدين ZELD.",
+    "titlePrefix": "المحفظة",
+    "titleSuffix": " القديمة",
+    "subtitle": "هذه هي محفظة ZeldHash الأصلية. استخدم وظيفة السحب لنقل ZELD و BTC إلى Horizon Market.",
+    "bannerTitle": "متوقفة",
+    "bannerMessage": "هذه المحفظة لم تعد مدعومة. استخدم وظيفة السحب لنقل أموالك إلى Horizon Market.",
+    "goToHorizon": "اذهب إلى Horizon Market"
   }
 }

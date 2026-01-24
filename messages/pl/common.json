@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Biała Księga",
     "toggleMenu": "Przełącz menu nawigacji",
-    "openNav": "Otwórz nawigację"
+    "openNav": "Otwórz nawigację",
+    "legacyWallet": "Stary Portfel"
   },
   "footer": {
     "protocol": "Protokół",
@@ -42,7 +43,19 @@
       "title": "Potrzebujesz pomocy?",
       "subtitle": "Zapytaj ZeldAI o wszystko dotyczące portfela lub ZeldHash",
       "askButton": "Zapytaj ZeldAI"
-    }
+    },
+    "newSubtitle": "Wybierz swoją drogę do polowania na ZELD — najrzadsze transakcje Bitcoin.",
+    "horizon": {
+      "title": "Mintuj na Horizon Market",
+      "description": "Mintuj ZELD bezpośrednio z przeglądarki na Horizon Market. Handluj NFT Bitcoin, tokenami Counterparty i poluj na rzadkie transakcje — wszystko w jednym miejscu.",
+      "cta": "Zacznij polowanie na Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Zbuduj własny minter",
+      "description": "Przejmij pełną kontrolę dzięki open-source SDK zeldhash-miner. Twórz niestandardowe rozwiązania do kopania z Rust, TypeScript, akceleracją WebGPU i nie tylko.",
+      "cta": "Zobacz na GitHub"
+    },
+    "legacyWalletLink": "Szukasz starego portfela?"
   },
   "explorer": {
     "title": "Eksplorator ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "Nie można załadować danych transakcji. Spróbuj ponownie.",
     "voutShort": "#",
     "output": "Wyjście"
+  },
+  "legacyWallet": {
+    "metaTitle": "Stary Portfel",
+    "metaDescription": "Oryginalny portfel ZeldHash. Ten portfel nie jest już utrzymywany — użyj Horizon Market do kopania ZELD.",
+    "titlePrefix": "Stary",
+    "titleSuffix": " Portfel",
+    "subtitle": "To jest oryginalny portfel ZeldHash. Użyj funkcji sweep, aby przenieść swoje ZELD i BTC na Horizon Market.",
+    "bannerTitle": "Przestarzały",
+    "bannerMessage": "Ten portfel nie jest już utrzymywany. Użyj funkcji sweep, aby przenieść swoje środki na Horizon Market.",
+    "goToHorizon": "Przejdź do Horizon Market"
   }
 }

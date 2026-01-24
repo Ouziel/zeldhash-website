@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Whitepaper",
     "toggleMenu": "Toggle navigation menu",
-    "openNav": "Open navigation"
+    "openNav": "Open navigation",
+    "legacyWallet": "Legacy Wallet"
   },
   "footer": {
     "protocol": "Protocol",
@@ -35,6 +36,7 @@
   "wallet": {
     "description": "Secure Bitcoin wallet in your browser. Create, manage, and sign transactions directly from ZeldHash.",
     "subtitle": "Hunt, send, and receive ZELD directly in your browser.",
+    "newSubtitle": "Choose your path to hunt for ZELD - the rarest Bitcoin transactions.",
     "securityNote": "AES-256-GCM encryption • BIP32/39/84/86 standards • Stored locally in your browser",
     "titlePrefix": "Hunt",
     "titleSuffix": " Wallet",
@@ -42,7 +44,28 @@
       "title": "Need help?",
       "subtitle": "Ask ZeldAI anything about the wallet or ZeldHash",
       "askButton": "Ask ZeldAI"
-    }
+    },
+    "horizon": {
+      "title": "Mint on Horizon Market",
+      "description": "Mint ZELD directly from your browser on Horizon Market. Trade Bitcoin NFTs, Counterparty tokens, and hunt for rare transactions - all in one place.",
+      "cta": "Start hunting on Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Build your own minter",
+      "description": "Take full control with the open-source zeldhash-miner SDK. Build custom mining solutions with Rust, TypeScript, WebGPU acceleration, and more.",
+      "cta": "View on GitHub"
+    },
+    "legacyWalletLink": "Looking for the legacy wallet?"
+  },
+  "legacyWallet": {
+    "metaTitle": "Legacy Wallet",
+    "metaDescription": "The original ZeldHash wallet. This wallet is no longer maintained - please use Horizon Market for mining ZELD.",
+    "titlePrefix": "Legacy",
+    "titleSuffix": " Wallet",
+    "subtitle": "This is the original ZeldHash wallet. Use the sweep function to transfer your ZELD and BTC to Horizon Market.",
+    "bannerTitle": "Deprecated",
+    "bannerMessage": "This wallet is no longer maintained. Use the sweep function to transfer your funds to Horizon Market.",
+    "goToHorizon": "Go to Horizon Market"
   },
   "explorer": {
     "title": "ZELD Explorer",

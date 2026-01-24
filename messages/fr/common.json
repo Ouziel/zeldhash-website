@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Livre blanc",
     "toggleMenu": "Ouvrir/fermer le menu de navigation",
-    "openNav": "Ouvrir la navigation"
+    "openNav": "Ouvrir la navigation",
+    "legacyWallet": "Ancien Wallet"
   },
   "footer": {
     "protocol": "Protocole",
@@ -42,7 +43,19 @@
       "title": "Besoin d'aide ?",
       "subtitle": "Posez une question sur ZeldWallet ou sur ZeldHash.",
       "askButton": "Demander à ZeldAI"
-    }
+    },
+    "newSubtitle": "Choisissez votre méthode pour chasser le ZELD — les transactions Bitcoin les plus rares.",
+    "horizon": {
+      "title": "Minter sur Horizon Market",
+      "description": "Mintez du ZELD directement depuis votre navigateur sur Horizon Market. Échangez des NFTs Bitcoin, des jetons Counterparty, et chassez les transactions rares — le tout au même endroit.",
+      "cta": "Commencer la chasse sur Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Créez votre propre minter",
+      "description": "Prenez le contrôle total avec le SDK open-source zeldhash-miner. Créez des solutions de minage personnalisées avec Rust, TypeScript, accélération WebGPU, et plus encore.",
+      "cta": "Voir sur GitHub"
+    },
+    "legacyWalletLink": "Vous cherchez l'ancien wallet ?"
   },
   "explorer": {
     "title": "Explorateur ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "Impossible de charger les données de la transaction. Veuillez réessayer.",
     "voutShort": "#",
     "output": "Sortie"
+  },
+  "legacyWallet": {
+    "metaTitle": "Ancien Wallet",
+    "metaDescription": "Le wallet ZeldHash original. Ce wallet n'est plus maintenu — veuillez utiliser Horizon Market pour miner du ZELD.",
+    "titlePrefix": "Ancien",
+    "titleSuffix": " Wallet",
+    "subtitle": "Ceci est le wallet ZeldHash original. Utilisez la fonction de transfert pour envoyer vos ZELD et BTC vers Horizon Market.",
+    "bannerTitle": "Obsolète",
+    "bannerMessage": "Ce wallet n'est plus maintenu. Utilisez la fonction de transfert pour déplacer vos fonds vers Horizon Market.",
+    "goToHorizon": "Aller sur Horizon Market"
   }
 }

@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Λευκή Βίβλος",
     "toggleMenu": "Εναλλαγή μενού πλοήγησης",
-    "openNav": "Άνοιγμα μενού πλοήγησης"
+    "openNav": "Άνοιγμα μενού πλοήγησης",
+    "legacyWallet": "Παλιό Πορτοφόλι"
   },
   "footer": {
     "protocol": "Πρωτόκολλο",
@@ -42,7 +43,19 @@
       "title": "Χρειάζεστε βοήθεια;",
       "subtitle": "Ρωτήστε το ZeldAI ό,τι θέλετε για το πορτοφόλι ή το ZeldHash",
       "askButton": "Ρωτήστε το ZeldAI"
-    }
+    },
+    "newSubtitle": "Διάλεξε τη διαδρομή σου για το κυνήγι ZELD — τις πιο σπάνιες συναλλαγές Bitcoin.",
+    "horizon": {
+      "title": "Κάνε Mint στο Horizon Market",
+      "description": "Κάνε mint ZELD απευθείας από τον browser σου στο Horizon Market. Ανταλλάξου Bitcoin NFTs, Counterparty tokens και κυνήγησε σπάνιες συναλλαγές — όλα σε ένα μέρος.",
+      "cta": "Ξεκίνα το κυνήγι στο Horizon Market"
+    },
+    "buildMiner": {
+      "title": "Φτιάξε το δικό σου minter",
+      "description": "Πάρε τον πλήρη έλεγχο με το open-source SDK zeldhash-miner. Δημιούργησε προσαρμοσμένες λύσεις mining με Rust, TypeScript, επιτάχυνση WebGPU και άλλα.",
+      "cta": "Δες στο GitHub"
+    },
+    "legacyWalletLink": "Ψάχνεις το παλιό πορτοφόλι;"
   },
   "explorer": {
     "title": "Εξερευνητής ZELD",
@@ -104,5 +117,15 @@
     "txLoadError": "Αδυναμία φόρτωσης δεδομένων συναλλαγής. Δοκιμάστε ξανά.",
     "voutShort": "#",
     "output": "Έξοδος"
+  },
+  "legacyWallet": {
+    "metaTitle": "Παλιό Πορτοφόλι",
+    "metaDescription": "Το αρχικό πορτοφόλι ZeldHash. Αυτό το πορτοφόλι δεν συντηρείται πλέον — χρησιμοποιήστε το Horizon Market για mining ZELD.",
+    "titlePrefix": "Παλιό",
+    "titleSuffix": " Πορτοφόλι",
+    "subtitle": "Αυτό είναι το αρχικό πορτοφόλι ZeldHash. Χρησιμοποιήστε τη λειτουργία sweep για να μεταφέρετε τα ZELD και BTC σας στο Horizon Market.",
+    "bannerTitle": "Απαρχαιωμένο",
+    "bannerMessage": "Αυτό το πορτοφόλι δεν συντηρείται πλέον. Χρησιμοποιήστε τη λειτουργία sweep για να μεταφέρετε τα κεφάλαιά σας στο Horizon Market.",
+    "goToHorizon": "Πήγαινε στο Horizon Market"
   }
 }

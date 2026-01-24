@@ -11,7 +11,8 @@
     "github": "GitHub",
     "whitepaper": "Beyaz Kitap",
     "toggleMenu": "Gezinme menüsünü aç/kapat",
-    "openNav": "Gezinme menüsünü aç"
+    "openNav": "Gezinme menüsünü aç",
+    "legacyWallet": "Eski Cüzdan"
   },
   "footer": {
     "protocol": "Protokol",
@@ -42,7 +43,19 @@
       "title": "Yardıma mı ihtiyacınız var?",
       "subtitle": "ZeldAI'ye cüzdan veya ZeldHash hakkında her şeyi sorabilirsiniz",
       "askButton": "ZeldAI'ye Sor"
-    }
+    },
+    "newSubtitle": "ZELD avlamak için yolunu seç — en nadir Bitcoin işlemleri.",
+    "horizon": {
+      "title": "Horizon Market'te Mint Et",
+      "description": "Horizon Market'te doğrudan tarayıcından ZELD mint et. Bitcoin NFT'leri, Counterparty tokenları takas et ve nadir işlemleri avla — hepsi tek bir yerde.",
+      "cta": "Horizon Market'te avlanmaya başla"
+    },
+    "buildMiner": {
+      "title": "Kendi minter'ını oluştur",
+      "description": "Açık kaynak zeldhash-miner SDK ile tam kontrol al. Rust, TypeScript, WebGPU hızlandırma ve daha fazlasıyla özel madencilik çözümleri oluştur.",
+      "cta": "GitHub'da Görüntüle"
+    },
+    "legacyWalletLink": "Eski cüzdanı mı arıyorsun?"
   },
   "explorer": {
     "title": "ZELD Gezgini",
@@ -104,5 +117,15 @@
     "txLoadError": "İşlem verileri yüklenemiyor. Lütfen tekrar deneyin.",
     "voutShort": "#",
     "output": "Çıktı"
+  },
+  "legacyWallet": {
+    "metaTitle": "Eski Cüzdan",
+    "metaDescription": "Orijinal ZeldHash cüzdanı. Bu cüzdan artık desteklenmiyor — ZELD madenciliği için lütfen Horizon Market'i kullanın.",
+    "titlePrefix": "Eski",
+    "titleSuffix": " Cüzdan",
+    "subtitle": "Bu orijinal ZeldHash cüzdanıdır. ZELD ve BTC'nizi Horizon Market'e aktarmak için sweep fonksiyonunu kullanın.",
+    "bannerTitle": "Kullanımdan Kaldırıldı",
+    "bannerMessage": "Bu cüzdan artık desteklenmiyor. Fonlarınızı Horizon Market'e aktarmak için sweep fonksiyonunu kullanın.",
+    "goToHorizon": "Horizon Market'e Git"
   }
 }
