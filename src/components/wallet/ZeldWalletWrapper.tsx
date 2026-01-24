@@ -5,15 +5,7 @@ import {useLocale} from 'next-intl';
 import {languages, type LocaleKey} from 'zeldwallet';
 import type {Locale} from '@/lib/i18n/routing';
 
-const WASM_BASE =
-  typeof window !== 'undefined' && window.location?.origin
-    ? `${window.location.origin}/wasm/`
-    : '/wasm/';
-
-// Set the WASM base as early as possible, before the miner is imported.
-if (typeof globalThis !== 'undefined' && !(globalThis as any).__ZELDMINER_WASM_BASE__) {
-  (globalThis as any).__ZELDMINER_WASM_BASE__ = WASM_BASE;
-}
+// Note: zeldhash-miner >= 0.3.1 auto-resolves asset path to /zeldhash-miner/
 
 const ZeldWalletCardDynamic = dynamic(
   () => import('zeldwallet').then((mod) => mod.ZeldWalletCard),
